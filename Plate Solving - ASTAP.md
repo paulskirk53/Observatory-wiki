@@ -4,3 +4,6 @@ System focal length  3200  mm  (this takes into account the 0.8x reduction)
 Camera CD size 12mm x 10 mm (approx)
 Field of view is 0.2 degrees x 0.30 degrees approximately, which is great for capturing small objects like galaxies M81, M82, NGC4565 ....
 
+
+
+return to [[Observatory Home]] home page

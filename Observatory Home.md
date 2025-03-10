@@ -1,4 +1,4 @@
-Contents
+**Contents**
 # [[Introduction]]
 # [[The building]]
 # [[Main Components]]
@@ -9,5 +9,7 @@ Contents
 # [[Focuser]]
 # [[Dome  Rotation]]
 # [[Dome shutter]]
+
+# [[User guide]]
 
 

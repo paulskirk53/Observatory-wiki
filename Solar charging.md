@@ -14,3 +14,4 @@ The reason for this order is that the Photonic Universe needs to configure itsel
 For the shutter batteris  - two smaller batts on the dome shelf by the shutter, ONE only is connected to the epever controller. If it's required to charge the other battery as will sometimes be necessary, disconnect one and connect the other. Note disconnect and connect process as above.
 The 12v Batteries are connected in series when the dome is in use as the stepper motor needs 12v to generate enouh torque to open the shutter.
 
+return to [[Observatory Home]] home page

@@ -4,3 +4,8 @@ The main battery which powers the mount, camera, focuser and rotator is connecte
 
 The other two batteries for the dome drive are connected in series and supply power to the stepper motor controller [[MA860H]] or similar. These batteries don't get charged directly, so the options for charging are take them home (they weigh a ton) or individually connect them to the Photonic Universe solar charger. This can only be connected to one battery at a time, so give them a sunny day each :)
 
+
+
+
+
+return to [[Observatory Home]] home page
