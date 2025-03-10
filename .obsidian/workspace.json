@@ -266,12 +266,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solar charging.md",
+                "file": "Power Supply.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solar charging"
+              "title": "Power Supply"
             }
           }
         ],
@@ -280,7 +280,7 @@
       {
         "id": "48299ecbb3780f72",
         "type": "tabs",
-        "dimension": 12.690355329949238,
+        "dimension": 12.690355329949236,
         "children": [
           {
             "id": "24fe7de26ca19016",
@@ -440,8 +440,8 @@
   },
   "active": "8158cd543f9dcebb",
   "lastOpenFiles": [
-    "Sitech Telescope.md",
     "Solar charging.md",
+    "Sitech Telescope.md",
     "Control Boxes.md",
     "Power Supply.md",
     "Autoguiding.md",
