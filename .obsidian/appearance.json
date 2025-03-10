@@ -1,4 +1,6 @@
 {
   "cssTheme": "Minimal",
-  "accentColor": "#5fbbec"
+  "accentColor": "#5fbbec",
+  "textFontFamily": "Calibri",
+  "baseFontSize": 20
 }
