@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Observatory Home.md",
-                "mode": "preview",
+                "file": "Electronics/Electronics.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Observatory Home"
+              "title": "Electronics"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Observatory Home.md",
+                "file": "Electronics/Electronics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Observatory Home"
+              "title": "Backlinks for Electronics"
             }
           },
           {
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 592.5
+    "width": 492.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,21 +179,23 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "a1fcaeadd02f49a7",
+  "active": "afc24cb2c7869dba",
   "lastOpenFiles": [
-    "Main Components.md",
+    "Electronics/Computer Control.md",
+    "Assets/Gemini.jpg",
+    "Power Supply",
+    "Electronics",
     "Observatory Home.md",
+    "Main Components.md",
     "The building.md",
     "DM860I Stepper controller.md",
-    "MA860H.md",
-    "Stepper Motors.md",
+    "Electronics/MA860H.md",
+    "Electronics/Stepper Motors.md",
     "ASCOM - Read this.md",
-    "Computer Control.md",
     "Plate Solving - ASTAP.md",
-    "Power Supply.md",
+    "Power Supply/Power Supply.md",
     "Sitech Telescope.md",
     "Assets/20-80v-24-72a-digital-stepper-motor-driver-nema-34-datasheet.pdf",
-    "Assets/Gemini.jpg",
     "Telescope.md",
     "Technical diary -Electronics.md",
     "Assets/SSR-40DD.pdf",
@@ -202,12 +204,12 @@
     "Dome  Rotation.md",
     "Assets/y(78).jpg",
     "Dome Shutter.md",
-    "Electronics.md",
+    "Electronics/Electronics.md",
     "Focuser.md",
     "Introduction.md",
     "Mount.md",
     "Sequence Generator Pro.md",
-    "Solar charging.md",
+    "Power Supply/Solar charging.md",
     "User guide.md",
     "Camera.md",
     "Autoguiding.md",
