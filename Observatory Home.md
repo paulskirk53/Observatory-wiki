@@ -1,6 +1,6 @@
 **Contents**
 # [[Introduction]]
-# [[The building]]
+# [[The Dome building]]
 # [[Main Components]]
 # [[Telescope]]
 # [[Mount]]
@@ -12,7 +12,7 @@
 
 # [[User guide]]
 
-[[Technical diary -Electronics]]
+# [[Technical diary -Electronics]]
 
 
 
