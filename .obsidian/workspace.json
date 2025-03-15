@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Dome building.md",
+                "file": "Astronomy Software/ASCOM - Read this.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Dome building"
+              "title": "ASCOM - Read this"
+            }
+          },
+          {
+            "id": "21f127764b953418",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The observatory computer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The observatory computer"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Dome building.md",
+                "file": "The observatory computer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Dome building"
+              "title": "Backlinks for The observatory computer"
             }
           },
           {
@@ -209,18 +223,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2dbccc559b7c7af",
+  "active": "21f127764b953418",
   "lastOpenFiles": [
+    "Astronomy Software/ASCOM - Read this.md",
+    "The observatory computer.md",
+    "Astronomy Equipment/Telescope.md",
+    "The Dome building.md",
     "Dome  Rotation.md",
     "User Guide/User guide.md",
     "Diaries/Technical diary - Programming.md",
-    "The Dome building.md",
     "Astronomy Software/Sequence Generator Pro.md",
     "User Guide",
     "Astronomy Software/Plate Solving - ASTAP.md",
     "Astronomy Software/Autoguiding.md",
-    "Astronomy Software/ASCOM - Read this.md",
-    "Astronomy Equipment/Telescope.md",
     "Astronomy Equipment/Camera.md",
     "Observatory Home.md",
     "Introduction.md",
