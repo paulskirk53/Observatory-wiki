@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronic switches.md",
+                "file": "Electronics/Control Boxes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Electronic switches"
+              "title": "Control Boxes"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronic switches.md",
+                "file": "Electronics/Control Boxes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Electronic switches"
+              "title": "Backlinks for Control Boxes"
             }
           },
           {
@@ -239,8 +239,8 @@
   },
   "active": "b9324d824b60b7b2",
   "lastOpenFiles": [
-    "Assets/SSR-40DD.pdf",
     "Electronic switches.md",
+    "Assets/SSR-40DD.pdf",
     "The Dome building.md",
     "Observatory Home.md",
     "Computer Control/The observatory computer.md",
