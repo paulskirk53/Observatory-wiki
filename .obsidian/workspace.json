@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The observatory computer.md",
+                "file": "Observatory Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The observatory computer"
+              "title": "Observatory Home"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The observatory computer.md",
+                "file": "Observatory Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The observatory computer"
+              "title": "Backlinks for Observatory Home"
             }
           },
           {
@@ -225,11 +225,11 @@
   },
   "active": "21f127764b953418",
   "lastOpenFiles": [
+    "Computer Control/The observatory computer.md",
+    "Computer Control/Dome  Rotation.md",
     "Astronomy Software/ASCOM - Read this.md",
-    "The observatory computer.md",
     "Astronomy Equipment/Telescope.md",
     "The Dome building.md",
-    "Dome  Rotation.md",
     "User Guide/User guide.md",
     "Diaries/Technical diary - Programming.md",
     "Astronomy Software/Sequence Generator Pro.md",
