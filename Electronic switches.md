@@ -1,0 +1,1 @@
+I have employed Solid State relays of the type SS40DD *solid State, 40 Amp DC to DC* the device datasheet never came with the devices I bought so I've downloaded it and included as part of this wiki here [[Electronic switches]]
