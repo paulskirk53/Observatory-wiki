@@ -220,6 +220,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "78d8abd91b75fdb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c032f0ac0769d16d",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Map of Content"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -233,11 +249,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "map-of-content:Update Map of Content": false
+      "map-of-content:Update Map of Content": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9324d824b60b7b2",
+  "active": "c032f0ac0769d16d",
   "lastOpenFiles": [
     "Observatory Home.md",
     "Electronics/Control Boxes.md",
