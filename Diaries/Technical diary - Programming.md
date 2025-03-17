@@ -23,5 +23,6 @@ created new branched called testing to facilitate tests
 connect nuc at home & pull the github changes
 take up the small 12 v battery, nuc kb mouse
 upload programs to shutter and to master radio and check the bluetooth connection works.
+install obsidian on the NUC and integrate it with Git
 
 [[Observatory Home]]

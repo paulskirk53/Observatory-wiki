@@ -17,6 +17,10 @@ The Obsidian vault is synced with Git so commits and pushes to the paulskirk53 r
 
 # [[Technical diary -Electronics]]
 
+# [[Technical diary - Programming]]
+
+
+
 
 
 
