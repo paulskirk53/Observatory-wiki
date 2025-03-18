@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Power/Power Supply.md",
+                "file": "Electronics/Electronics Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Power Supply"
+              "title": "Electronics Overview"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Power/Power Supply.md",
+                "file": "Electronics/Electronics Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Power Supply"
+              "title": "Backlinks for Electronics Overview"
             }
           },
           {
@@ -239,6 +239,7 @@
   },
   "active": "b9324d824b60b7b2",
   "lastOpenFiles": [
+    "Power/Power Supply.md",
     "Observatory Home.md",
     "Todo.md",
     "Diaries/Fault & Problem log.md",
@@ -272,7 +273,6 @@
     "Power",
     "Programming",
     "Electronics",
-    "Diaries/Technical diary -Electronics.md",
     "Diaries",
     "Assets/20-80v-24-72a-digital-stepper-motor-driver-nema-34-datasheet.pdf",
     "Assets/Gemini.jpg",
