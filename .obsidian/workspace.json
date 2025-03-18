@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diaries/Technical diary - Programming.md",
-                "mode": "source",
+                "file": "Observatory Home.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Technical diary - Programming"
+              "title": "Observatory Home"
             }
           }
         ],
@@ -135,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 200
   },
   "right": {
     "id": "b03dc9f79efe2c8f",
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diaries/Technical diary - Programming.md",
+                "file": "Observatory Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Technical diary - Programming"
+              "title": "Backlinks for Observatory Home"
             }
           },
           {
@@ -239,7 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 304.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,12 +249,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "map-of-content:Update Map of Content": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "map-of-content:Update Map of Content": false
     }
   },
-  "active": "c032f0ac0769d16d",
+  "active": "b9324d824b60b7b2",
   "lastOpenFiles": [
+    "Diaries/Technical diary - Programming.md",
     "Observatory Home.md",
     "Electronics/Control Boxes.md",
     "Electronic switches.md",
@@ -265,7 +266,6 @@
     "Astronomy Software/ASCOM - Read this.md",
     "Astronomy Equipment/Telescope.md",
     "User Guide/User guide.md",
-    "Diaries/Technical diary - Programming.md",
     "Astronomy Software/Sequence Generator Pro.md",
     "User Guide",
     "Astronomy Software/Plate Solving - ASTAP.md",
