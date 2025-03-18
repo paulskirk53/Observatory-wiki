@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diaries/Technical diary - Programming.md",
+                "file": "Power/Power Supply.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Technical diary - Programming"
+              "title": "Power Supply"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diaries/Technical diary - Programming.md",
+                "file": "Power/Power Supply.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Technical diary - Programming"
+              "title": "Backlinks for Power Supply"
             }
           },
           {
@@ -240,6 +240,9 @@
   "active": "b9324d824b60b7b2",
   "lastOpenFiles": [
     "Observatory Home.md",
+    "Todo.md",
+    "Diaries/Fault & Problem log.md",
+    "Diaries/Technical diary - Programming.md",
     "Electronics/Control Boxes.md",
     "Electronic switches.md",
     "Assets/SSR-40DD.pdf",
@@ -249,7 +252,6 @@
     "Astronomy Software/ASCOM - Read this.md",
     "Astronomy Equipment/Telescope.md",
     "User Guide/User guide.md",
-    "Diaries/Technical diary - Programming.md",
     "Astronomy Software/Sequence Generator Pro.md",
     "User Guide",
     "Astronomy Software/Plate Solving - ASTAP.md",
@@ -265,7 +267,6 @@
     "Computer Control",
     "Astronomy Equipment/Focuser.md",
     "Electronics/Electronics Overview.md",
-    "Diaries/Fault & Problem log.md",
     "Astronomy Software",
     "Astronomy Equipment",
     "Power",
@@ -273,7 +274,6 @@
     "Electronics",
     "Diaries/Technical diary -Electronics.md",
     "Diaries",
-    "Power/Power Supply.md",
     "Assets/20-80v-24-72a-digital-stepper-motor-driver-nema-34-datasheet.pdf",
     "Assets/Gemini.jpg",
     "Assets/Pasted image 20250310205410.png",
