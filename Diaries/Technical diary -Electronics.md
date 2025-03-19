@@ -1,8 +1,8 @@
 
 13-3-25
 ## Dome drive
-The field test showed the dome drive motor turned in the wrong direction so needs a field pair swapping e.g. swap A+ and A-
-ALso the encoder wiring - one lead had broken. - now repaired.
+The field test showed the dome drive motor turned in the wrong direction so needs a field pair swapping e.g. swap A+ and A- (done & worked)
+Also the encoder wiring - one lead had broken. - now repaired.
 
 12-3-2025
 ## Dome drive
