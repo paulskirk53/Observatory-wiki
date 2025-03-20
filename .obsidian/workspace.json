@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Observatory Home.md",
+                "file": "Diaries/Technical diary -Electronics.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Observatory Home"
+              "title": "Technical diary -Electronics"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Observatory Home.md",
+                "file": "Diaries/Technical diary -Electronics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Observatory Home"
+              "title": "Backlinks for Technical diary -Electronics"
             }
           },
           {
@@ -255,8 +255,8 @@
   },
   "active": "b9324d824b60b7b2",
   "lastOpenFiles": [
-    "Diaries/Technical diary - Programming.md",
     "Observatory Home.md",
+    "Diaries/Technical diary - Programming.md",
     "Electronics/Control Boxes.md",
     "Electronic switches.md",
     "Assets/SSR-40DD.pdf",
