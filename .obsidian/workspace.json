@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "Technical diary -Electronics"
             }
+          },
+          {
+            "id": "00ec841db50e44c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -151,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diaries/Technical diary -Electronics.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Technical diary -Electronics"
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           },
           {
@@ -249,12 +263,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "map-of-content:Update Map of Content": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9324d824b60b7b2",
+  "active": "00ec841db50e44c8",
   "lastOpenFiles": [
+    "Diaries/Technical diary -Electronics.md",
+    "conflict-files-obsidian-git.md",
+    "Todo.md",
+    "Assets/Voltage divider circuit.PNG",
+    "Assets/A Steel Drum Project.docx",
     "Observatory Home.md",
     "Diaries/Technical diary - Programming.md",
     "Electronics/Control Boxes.md",
@@ -281,16 +299,12 @@
     "Computer Control",
     "Astronomy Equipment/Focuser.md",
     "Electronics/Electronics Overview.md",
-    "Diaries/Fault & Problem log.md",
     "Astronomy Software",
     "Astronomy Equipment",
     "Power",
     "Programming",
     "Electronics",
-    "Diaries/Technical diary -Electronics.md",
     "Diaries",
-    "Power/Power Supply.md",
-    "Assets/20-80v-24-72a-digital-stepper-motor-driver-nema-34-datasheet.pdf",
     "Assets/Gemini.jpg",
     "Assets/Pasted image 20250310205410.png",
     "Assets/y(78).jpg"
