@@ -20,6 +20,9 @@ GEM offset 452mm
 Today I used the ASCOM device hub connected to SItech and the Dome. I set the Dome to slave the scope and then sent Sitech to M77 (located southish in Cartes Du ciel), then to an object west, then east then North. I had the dome adjustment slider in ASCOM Device Hub in the centre. All slews worked well in that the dome slit aligned with the scope. That was really great to see. :) :)
 The only slight downside is that the dome seems to do two movements in order to get to target and I'm not sure why that might be. It also needs more weight to pull the drive belt in tighter to the rack.
 
+**Cameras**
+
+Neither of the cameras would connect. Terry Platt advised installation of different 'more reliable' drivers so I've done that on NUC today and will test in next few days.
 
 
 
