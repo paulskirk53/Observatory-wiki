@@ -81,10 +81,14 @@
             "id": "00ec841db50e44c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Power/Power Supply.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Power Supply"
             }
           }
         ],
@@ -161,6 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Power/Power Supply.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Power Supply"
             }
           },
           {
