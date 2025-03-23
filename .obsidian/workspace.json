@@ -149,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 281.5
   },
   "right": {
     "id": "b03dc9f79efe2c8f",
@@ -269,9 +269,11 @@
   },
   "active": "00ec841db50e44c8",
   "lastOpenFiles": [
+    "Assets/Monitoring.png",
     "Observatory Home.md",
-    "Port Forwarding.md",
+    "monitoring.md",
     "User Guide/User guide.md",
+    "Port Forwarding.md",
     "Power/Power Supply.md",
     "Diaries/Technical diary -Electronics.md",
     "conflict-files-obsidian-git.md",
@@ -297,8 +299,6 @@
     "Electronics/Stepper Motors.md",
     "Main Components.md",
     "Electronics/DM860I Stepper controller.md",
-    "Electronics/MA860H.md",
-    "Computer Control/Computer Control Overview.md",
     "Computer Control",
     "Astronomy Software",
     "Astronomy Equipment",

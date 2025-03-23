@@ -18,21 +18,29 @@ At the base of the shutter, there's the motor box which opens and closes the shu
 **Dome Power**
 On the floor under the computer screen, is a 12V battery and this needs to be powered on so that the Dome Drive will turn the dome in synchrony with the telescope movement.
 
+Be careful if the battery terminals are removed from the batteries - ensure the polarity is observed when replacing the terminals - they are colour coded red 12Volt positive, black 0 Volt negative.
+
 That's all for power - a quick summary:
 1. Turn on main Battery
 2. Turn on Shutter arduino power at epever controller
-3. Release the shutter clamp lock
+3. Release the shutter clamp lock so that the shutter can open / close.
 4. Power on the Dome drive (battery on floor under computer screen)
 5. Make sure all the devices which have their own on/ off switches are turned on - NUC, USB hub, focuser, computer screen.
 6. Power for the guide camera, main imaging camera and the camera rotator is described below.
 
+**Computer connections**
+The NUC computer has a password which is 3633. Connect it as follows power lead, HDMI to monitor, USB cable to USB hub, USB cable to four port (non powered hub). USB keyboard, mouse. Power up and enter the password. It's windows 11
+
 **Power for the Cameras and rotator**
+The power on / off is controlled in software, so that the devices can be powered off until such times as they are required to take images, which saves battery power. 
+In order to turn on, the program called '[[monitoring]]' must be run on the NUC in the observatory. This is a windows program I wrote which allows remote monitoring and control of all the observatory functions from home - Pitton Mill Cottage or anywhere that has an internet connection and [[Port Forwarding]] set up on the house internet router.
 
-The power on / off is controlled in software, so that the devices can be powered off until such times as they are r
+Once the monitoring program is running, you'll see the following:
 
+![[Monitoring.png]]
 
-[[Port Forwarding]]
-
+First click the orange ellipse shaped button to connect to the microcontroller.
+Just below half way down, you can see 'camera and rotator power'
 
 
 
