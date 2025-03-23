@@ -44,9 +44,8 @@ Just below half way down, you can see 'camera and rotator power' click the toggl
 
 There is nothing else to do with the monitor program at present, note that it's a handy visual for the dome azimuth, which we're interested in because we need to manually align and initialise the telescope. 
 
-
 [[Telescope Initialisation]]
-With the telescope pointing due west and horizontal, align the shutter opening so that the telescope can 'see' out of the Dome aperture. Now, without moving the Dome manually turn the encode
+With the telescope pointing due west and horizontal, align the shutter opening so that the telescope can 'see' out of the Dome aperture. Now, without moving the Dome manually turn the encoder wheel so that it indicates Azimuth 245 degrees. You can see the azimuth value in the monitoring program. Now you need to initialise the Sitech Controller. See here  [[Telescope Initialisation]]
 
 
 
