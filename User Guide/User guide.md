@@ -1,9 +1,9 @@
-When entering the observatory to initialise the equipment for an observing session, the following text descibes the workflow.
+When entering the observatory to initialise the equipment for an observing session, the following text describes the workflow. You must be at the observatory to do all the following things, it takes about 10-15 minutes once you've done it a few times. Once the setup is done, all functions can be controlled remotely - see [[monitoring]].
 
 **Power**
 Connect the Main 12 volt battery., by closing the switch connected to the positive 12V battery lead. The circuit is protected by a 5 amp fuse which you can see near the switch. Closing this switch provides power to the following:
 NUC 
-Sitech Telescope controller 
+Sitech Telescope controller (rocker switch on side of controller)
 USB Hub
 Microtouch Focuser
 The monitor screen used by the NUC
@@ -39,8 +39,14 @@ Once the monitoring program is running, you'll see the following:
 
 ![[Monitoring.png]]
 
-First click the orange ellipse shaped button to connect to the microcontroller.
-Just below half way down, you can see 'camera and rotator power'
+First click the orange ellipse shaped button to connect to the microcontroller. It should say connected on 'port number' under the button. If it doesn't connect, see [[Troubleshooting]].
+Just below half way down, you can see 'camera and rotator power' click the toggle button to make the 'turn on' button available. Now click 'turn on'  you will hear the immediate sound of the camera rotator executing its homing procedure and also the fan start up on the camera. If you don't hear these sounds see [[Troubleshooting]].
+
+There is nothing else to do with the monitor program at present, note that it's a handy visual for the dome azimuth, which we're interested in because we need to manually align and initialise the telescope. 
+
+
+[[Telescope Initialisation]]
+With the telescope pointing due west and horizontal, align the shutter opening so that the telescope can 'see' out of the Dome aperture. Now, without moving the Dome manually turn the encode
 
 
 
