@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Power/Power Supply.md",
+                "file": "User Guide/User guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Power Supply"
+              "title": "User guide"
             }
           }
         ],
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Power/Power Supply.md",
+                "file": "User Guide/User guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Power Supply"
+              "title": "Backlinks for User guide"
             }
           },
           {
@@ -253,7 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 518.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,12 +269,15 @@
   },
   "active": "00ec841db50e44c8",
   "lastOpenFiles": [
+    "Observatory Home.md",
+    "Port Forwarding.md",
+    "User Guide/User guide.md",
+    "Power/Power Supply.md",
     "Diaries/Technical diary -Electronics.md",
     "conflict-files-obsidian-git.md",
     "Todo.md",
     "Assets/Voltage divider circuit.PNG",
     "Assets/A Steel Drum Project.docx",
-    "Observatory Home.md",
     "Diaries/Technical diary - Programming.md",
     "Electronics/Control Boxes.md",
     "Electronic switches.md",
@@ -284,7 +287,6 @@
     "Computer Control/Dome  Rotation.md",
     "Astronomy Software/ASCOM - Read this.md",
     "Astronomy Equipment/Telescope.md",
-    "User Guide/User guide.md",
     "Astronomy Software/Sequence Generator Pro.md",
     "User Guide",
     "Astronomy Software/Plate Solving - ASTAP.md",
@@ -298,8 +300,6 @@
     "Electronics/MA860H.md",
     "Computer Control/Computer Control Overview.md",
     "Computer Control",
-    "Astronomy Equipment/Focuser.md",
-    "Electronics/Electronics Overview.md",
     "Astronomy Software",
     "Astronomy Equipment",
     "Power",
