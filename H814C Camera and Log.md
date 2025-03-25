@@ -1,33 +1,29 @@
 # Trius 814c and OAG
- 
+ [[#814C manual]]
+ [[#USB Cable]]
+[[#USB Isolation]]
 
-[Trius 814c and OAG](https://docs.google.com/document/d/1aSCN8wj_mqPyKdyTX2BAWdrv_FQ2Ejb2qEACn3iynaE/edit#heading=h.xprm8uhe6y75)
+[[#Power]]
 
-[814C manual](https://docs.google.com/document/d/1aSCN8wj_mqPyKdyTX2BAWdrv_FQ2Ejb2qEACn3iynaE/edit#heading=h.jh2px3yt5fvp)
+[[#OAG - setup]]
 
-[USB Cable](https://docs.google.com/document/d/1aSCN8wj_mqPyKdyTX2BAWdrv_FQ2Ejb2qEACn3iynaE/edit#heading=h.nra9dl32imm8)
+[[#Backfocus]]
 
-[USB Isolation](https://docs.google.com/document/d/1aSCN8wj_mqPyKdyTX2BAWdrv_FQ2Ejb2qEACn3iynaE/edit#heading=h.jq1wq4p2mvxp)
+[[#Camera Spacer calculation]]
 
-[Power](https://docs.google.com/document/d/1aSCN8wj_mqPyKdyTX2BAWdrv_FQ2Ejb2qEACn3iynaE/edit#heading=h.pjo3g8f2f8os)
+[[#Focus position]]
 
-[OAG - setup](https://docs.google.com/document/d/1aSCN8wj_mqPyKdyTX2BAWdrv_FQ2Ejb2qEACn3iynaE/edit#heading=h.a1onc9xa8ww2)
 
-[Backfocus:](https://docs.google.com/document/d/1aSCN8wj_mqPyKdyTX2BAWdrv_FQ2Ejb2qEACn3iynaE/edit#heading=h.nas1m6oqodt7)
+[[#Camera connection problems log]]
 
-[Camera Spacer calculation](https://docs.google.com/document/d/1aSCN8wj_mqPyKdyTX2BAWdrv_FQ2Ejb2qEACn3iynaE/edit#heading=h.6exp9og5vzux)
+[[#Problems with the camera.]]
 
-[Focus position](https://docs.google.com/document/d/1aSCN8wj_mqPyKdyTX2BAWdrv_FQ2Ejb2qEACn3iynaE/edit#heading=h.k49ubfl0xrkv)
+[[#Things to try re connection]]
 
-[Camera connection problems log](https://docs.google.com/document/d/1aSCN8wj_mqPyKdyTX2BAWdrv_FQ2Ejb2qEACn3iynaE/edit#heading=h.ywgzo7rdqheb)
+[[#All below Archived on 22-4-23]]
 
-[Problems with the camera.](https://docs.google.com/document/d/1aSCN8wj_mqPyKdyTX2BAWdrv_FQ2Ejb2qEACn3iynaE/edit#heading=h.ccdpuxws5afu)
+[[#Sub exposure calculation]]
 
-[Things to try re connection](https://docs.google.com/document/d/1aSCN8wj_mqPyKdyTX2BAWdrv_FQ2Ejb2qEACn3iynaE/edit#heading=h.31aj8dchhg7x)
-
-[All below Archived on 22-4-23](https://docs.google.com/document/d/1aSCN8wj_mqPyKdyTX2BAWdrv_FQ2Ejb2qEACn3iynaE/edit#heading=h.is7pf0p1k0c7)
-
-[Sub exposure calculation](https://docs.google.com/document/d/1aSCN8wj_mqPyKdyTX2BAWdrv_FQ2Ejb2qEACn3iynaE/edit#heading=h.eodaqkh7xcqj)
 
 ## 814C manual
 
@@ -109,53 +105,32 @@ Focus using the above image train was found at SGP/ Microtouch position = 16375 
 
 The spreadsheet [here](https://docs.google.com/spreadsheets/u/0/d/1v8Hg5aNnxRuQZh3xVUaXHrOCD4nP9vMGMGENeRVEr9M/edit) shows how many physical coarse knob turns out this relates to, in case this information is useful in future - 7.7 turns out from the fully screwed in position.
 
-  
-
 Notes
 
 1. that the house image can easily be seen 800 steps either side of focus - it’s not difficult to find focus in daytime.
     
 2. the exposure time of 0.001 seconds IS critical, anything longer causes white out and the pulsar dome shutter needs to be only one third open on a cloudy day to get an image.
     
-
-  
-
 ## Camera connection problems log
 
 ### Problems with the camera.
 
 The camera has been plagued with problems which manifest as pure black images - most of the time. So If I’m taking images of the black sky, there will be a mix of black and white (stars). If you’re not in focus you won’t see the stars and I’ve virtually gone mad trying.
 
-  
-
 Progress - So on 21st May, I found that images I had taken at 8 second exposure times just after sunset (9.30pm 21st May) were in focus around 17000 microtouch scale. Then they went black and only a computer restart allowed images to be taken again.
-
-  
 
 The lodestar also had a problem running from the 814C hub - error polling camera.
 
-  
-
 August 18th 2023
 
-  
-
 1. MPPT controller disconnected from the battery at the breaker. As it might be introducing RF noise (amateur radio article)
-    
 2. Battery voltage measured as 12.5 V
-    
-3. The hub USB3 cable was connected into the front blue USB socket on the NUC. Hub was powered after the NUC boot.
-    
-4. Monitor program connected on COM3 and used to provide power to the camera/ rotator
-    
-5. Rotator allowed to home
-    
-6. Run SGP and Connected all kit - Sitech, focuser, Rotator, dome, camera
-    
-7. Took images of rhossili down on a 0.001 sec exposure, focus position 17000 as before.
-    
-8. Cycled power three times to all kit and repeated the above without any error
-    
+3. The hub USB3 cable was connected into the front blue USB socket on the NUC. Hub was powered after the NUC boot. 
+4. Monitor program connected on COM3 and used to provide power to the camera/ rotator 
+5. rotator allowed to home    
+6. Run SGP and Connected all kit - Sitech, focuser, Rotator, dome, camera    
+7. Took images of rhossili down on a 0.001 sec exposure, focus position 17000 as before.    
+8. Cycled power three times to all kit and repeated the above without any error    
 9. Next step - repeat the above for a week
     
 
@@ -168,16 +143,9 @@ Note that as of 17th August the two power connectors on the 814C are now supplie
   
 
 July 28th 2023 update
-
-  
-
 The dome functions (drive, encoder, monitoring) have now been remodelled into a ‘[control box](https://docs.google.com/spreadsheets/u/0/d/1RLFg1F5WgP97Ck7IOUJbF8Lhts_1J4T0fl-OKxMCbDc/edit)’ system which uses only two USB cables - one for ASCOM and one for monitoring. There is only one MCU. The system has been tested at home with a stepper controller connected to a small stepper motor. The encoder also connected, so a good simulation of the dome systems. All functions worked.
 
-  
-
 On July 27th, the box was installed and tried in the observatory. Both cameras connected and took images (814c in SGP and lodestar in PHD2) (not real focused images, just went through process).
-
-  
 
 Next steps for camera tests.
 
@@ -185,13 +153,8 @@ Next steps for camera tests.
     
 - Do the same in PHD2 and mark the camera body position if possible
     
-
-  
-  
-
 ## Things to try re connection
 
-- Perhaps the hifime isolator - £47
     
 - Provide 12 V via a completely separate battery - note though that there is obviously a gnd connection between the camera USB and the Camera power supply, as evidenced by the fact that the fan speeds up when USb is inserted.
     

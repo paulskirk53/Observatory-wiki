@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "H814C Camera.md",
+                "file": "H814C Camera and Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "H814C Camera"
+              "title": "H814C Camera and Log"
             }
           }
         ],
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H814C Camera.md",
+                "file": "H814C Camera and Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for H814C Camera"
+              "title": "Backlinks for H814C Camera and Log"
             }
           },
           {
@@ -298,7 +298,7 @@
   "active": "7ea91bba5c3293db",
   "lastOpenFiles": [
     "Diaries/Technical diary -Electronics.md",
-    "H814C Camera.md",
+    "H814C Camera and Log.md",
     "Observatory Home.md",
     "Todo.md",
     "Power/Power Supply.md",
