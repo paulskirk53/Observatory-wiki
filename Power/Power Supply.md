@@ -1,19 +1,18 @@
 Everything in the observatory is powered by 12 v batteries as the base source of power.
 
-This buck boost [converter](https://kunkune.co.uk/shop/dc-to-dc-converters/250w-10a-boost-converter-step-up-module-8-48v-to-12-50v-adjustable/)  operates at a frequency of 160 KHz so using a capacitor across the o/p terminals will filter any noise problems there might be. Using a metal case is also a good idea to stop radiated noise interference.
+This buck boost [converter](https://kunkune.co.uk/shop/dc-to-dc-converters/250w-10a-boost-converter-step-up-module-8-48v-to-12-50v-adjustable/)  operates at a frequency of 160 KHz so using a capacitor across the o/p terminals will filter any noise problems there might be. Using a metal case is also a good idea to stop radiated noise interference. The leads from the main battery feed into a wooden box which houses the boost device. There is one input (from the 12 V battery) and three outputs. The boost device has a potentiometer inside which allows adjustment of the output voltage. Only adjust this **if the devices are not connected** as over voltage is easily applied and the devices will be destroyed.
 
-Another device I used in the past has a current rating of 5A. 
+Another boost device I used in the past has a current rating of 5A. 
 I gave copilot the device number and it returned this:
 Yes, the device with the number **YH11057D** appears to be a **DC-DC boost converter**
 It is designed to step up a lower DC voltage to a higher DC voltage. For example, it can take an input voltage range of **6-32V** and output a voltage range of **6-42V**, with a maximum current of **5A**
 
 **Current demand**
 The devices in the observatory draw 4.5 A , as measured with a clamp meter, when the monitor is on and 4 A when the monitor is off.
-The devices powered are Sitech controller, Camera H814c and lodestar, focuser - microtouch, Pyxis rotator, USB hub, Intel NUC screen, AVR microcontrollers via USB hub
+The devices powered are Sitech controller, H814c and Lodestar Cameras, Microtouch focuser, Pyxis rotator, USB hub, Intel NUC & screen, AVR microcontrollers via USB hub
 
 **Battery Voltage monitoring**
-
-See [here](https://www.re-innovation.co.uk/docs/accurate-voltage-measurment/)
+There is no voltage monitoring at present, but see [here](https://www.re-innovation.co.uk/docs/accurate-voltage-measurment/)
 
 basic voltage divider diagram from the link above:
 
