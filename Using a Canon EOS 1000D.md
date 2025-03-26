@@ -19,7 +19,7 @@ OAG uses 16.5 mm (from flo web) checked with rule
 Usually a spacer is required to ensure the camera chip sits at the working distance specified by the reducer manufacturer, in this case the spacer turns out to be v small:
 
 **Length of spacer** = 97.5 - 36.25 - 16.5 - 44 = 0.75mm
-However I think the T adaptor used to attach the EOS to the optical train takes up more than 0.75 mm, so we'll have to see if attaching the camera works. It will be further away from the reducer than the 97.5mm specified by TS Optics.
+However I think the T adaptor used to attach the EOS to the optical train takes up 11mm, so we'll have to see if attaching the camera works. It will be further away from the reducer than the 97.5mm specified by TS Optics. by about 10mm.
 
 Check 0.75 +16.5 + 44 + 36.25 =  97.5 
 
