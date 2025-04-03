@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "monitoring.md",
+                "file": "Diaries/Fault & Problem log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "monitoring"
+              "title": "Fault & Problem log"
             }
           }
         ],
@@ -235,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "monitoring.md",
+                "file": "Diaries/Fault & Problem log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for monitoring"
+              "title": "Backlinks for Fault & Problem log"
             }
           },
           {
@@ -339,6 +339,7 @@
   },
   "active": "8d50c007de833f45",
   "lastOpenFiles": [
+    "monitoring.md",
     "Untitled.md",
     "USB to Serial Converters.md",
     "Power/Power Supply.md",
@@ -350,7 +351,6 @@
     "User Guide/User guide.md",
     "Troubleshooting.md",
     "Assets/Monitoring.png",
-    "monitoring.md",
     "Port Forwarding.md",
     "conflict-files-obsidian-git.md",
     "Assets/Voltage divider circuit.PNG",

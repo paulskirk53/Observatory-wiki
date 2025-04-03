@@ -1,3 +1,12 @@
+**Newset entries at top**
+
+**3-4-2025**
+A lot has happened, in the period since the last entry on 18th March an update below
+It has been a frustrating time as the night sky has been clear for about three weeks due to high pressure. Her's the problems:
+
+Camera would not work 814C would not connect. Discussions with Terry Platt tried install of drivers, no joy. Decided to try installing the drivers on the WIN 10 dev m/c and the camera connected and continued to connect when transferred back to the NUC where there had beenn no changes. I have no idea what's going on. Greg is phasing out the SX cams and using the ZWO aps cmos chips instead. Good idea. So camera now working :)
+
+
 **18-3-2025**
 **Cameras**
 Tuesday - a lovely blue sky day and same at night. h814C Camera connected but a 90 second image of a starry sky was jet black. Lodestar would not connect.
