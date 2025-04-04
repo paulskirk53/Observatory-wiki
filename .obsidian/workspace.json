@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AutoFocus.md",
+                "file": "Plate Solving.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AutoFocus"
+              "title": "Plate Solving"
             }
           }
         ],
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AutoFocus.md",
+                "file": "Plate Solving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AutoFocus"
+              "title": "Backlinks for Plate Solving"
             }
           },
           {
@@ -367,8 +367,9 @@
   },
   "active": "0838addab8c6bb12",
   "lastOpenFiles": [
-    "Plate Solving.md",
+    "Observatory Home.md",
     "AutoFocus.md",
+    "Plate Solving.md",
     "Diaries/Fault & Problem log.md",
     "monitoring.md",
     "Untitled.md",
@@ -377,7 +378,6 @@
     "Using a Canon EOS 1000D.md",
     "H814C Camera and Log.md",
     "Diaries/Technical diary -Electronics.md",
-    "Observatory Home.md",
     "Todo.md",
     "User Guide/User guide.md",
     "Troubleshooting.md",

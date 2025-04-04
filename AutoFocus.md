@@ -33,3 +33,7 @@ Also from Copilot AI
 3. **General Rule**:
     
     - Choose the direction that ensures the final focus adjustments are always made in the same direction, avoiding any "dead zone" caused by backlash.
+
+
+[[Observatory Home]]
+
