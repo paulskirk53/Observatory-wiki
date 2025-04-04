@@ -6,3 +6,6 @@ As a blind solver, ASTAP will work if radius is set to 180 degres. Normally have
 
 As a blind solve failover we use ansvr but it can be slow up to 8 minutes to solv. I am trying to optimise this by removing unused indexes.
 
+**File locations**
+the ansvr asrometry files are not stored in the normal location, they are in c:\astrometry\data
+
