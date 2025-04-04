@@ -15,6 +15,10 @@ From Copilot AI:
     
     - Once you know the number of rotations or steps needed to overcome backlash, configure the MicroTouch focuser or your software (e.g., SGPro) to account for this during focusing routines.
 
+### **Finding the Right Balance**
+
+While it's better to slightly overcompensate than undercompensate (to ensure the backlash is fully accounted for), try to keep the compensation as close to the actual measured value as possible. This minimizes unnecessary movements and ensures smoother and more precise focus adjustments.
+
 Also from Copilot AI
 ### **Choosing the Correct Direction:**
 
