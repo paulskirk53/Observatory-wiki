@@ -2,16 +2,19 @@
 
 recheck the dome geometry:
 things to take
+string
 tape measure with lock facility
 spirit level
 long timber about 90 cm to 1 metre
 fishing weight
 paper clip to mark 1.1 metre point on string for U/D measurement
 procedure:
+	- Move scope horizontal
 	- install plumb line
-	- measure with tape & level to ensure plumb is centred in dome NESW and also to measure accurately how much offset there is due to plumb/ mount interference
+	- measure with tape & level to ensure plumb is centred in dome NESW and also to measure accurately how much offset there is due to plumb/ mount interference if necessary
 	- make sure the measurements taken are in NESW directions
-	- 
+	- scope east of dome O is +
+	- scope north of dome O is +
 
 **March 2025**
 1. Install the buck boost for the dome drive done Apr 2025
