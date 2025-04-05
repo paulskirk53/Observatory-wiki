@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plate Solving.md",
+                "file": "Todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plate Solving"
+              "title": "Todo"
             }
           }
         ],
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plate Solving.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Plate Solving"
+              "title": "Backlinks for Todo"
             }
           },
           {
@@ -367,9 +367,9 @@
   },
   "active": "0838addab8c6bb12",
   "lastOpenFiles": [
+    "Plate Solving.md",
     "Observatory Home.md",
     "AutoFocus.md",
-    "Plate Solving.md",
     "Diaries/Fault & Problem log.md",
     "monitoring.md",
     "Untitled.md",
