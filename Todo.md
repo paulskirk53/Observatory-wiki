@@ -9,6 +9,7 @@ long timber about 90 cm to 1 metre
 fishing weight
 paper clip to mark 1.1 metre point on string for U/D measurement
 procedure:
+- # first - move the dome by hand through 360 to check azimuth is consistent
 	- Move scope horizontal
 	- install plumb line
 	- measure with tape & level to ensure plumb is centred in dome NESW and also to measure accurately how much offset there is due to plumb/ mount interference if necessary
