@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
+                "file": "Computer Control/Dome  Rotation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "Dome  Rotation"
             }
           }
         ],
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Computer Control/Dome  Rotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Todo"
+              "title": "Backlinks for Dome  Rotation"
             }
           },
           {
@@ -367,8 +367,9 @@
   },
   "active": "0838addab8c6bb12",
   "lastOpenFiles": [
-    "Plate Solving.md",
     "Observatory Home.md",
+    "Todo.md",
+    "Plate Solving.md",
     "AutoFocus.md",
     "Diaries/Fault & Problem log.md",
     "monitoring.md",
@@ -378,7 +379,6 @@
     "Using a Canon EOS 1000D.md",
     "H814C Camera and Log.md",
     "Diaries/Technical diary -Electronics.md",
-    "Todo.md",
     "User Guide/User guide.md",
     "Troubleshooting.md",
     "Assets/Monitoring.png",
