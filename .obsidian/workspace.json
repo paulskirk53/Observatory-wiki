@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Troubleshooting.md",
+                "file": "Todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Troubleshooting"
+              "title": "Todo"
             }
           }
         ],
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Troubleshooting.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Troubleshooting"
+              "title": "Backlinks for Todo"
             }
           },
           {
@@ -367,8 +367,9 @@
   },
   "active": "0838addab8c6bb12",
   "lastOpenFiles": [
-    "Computer Control/Dome  Rotation.md",
     "Observatory Home.md",
+    "Troubleshooting.md",
+    "Computer Control/Dome  Rotation.md",
     "Todo.md",
     "Plate Solving.md",
     "AutoFocus.md",
@@ -381,7 +382,6 @@
     "H814C Camera and Log.md",
     "Diaries/Technical diary -Electronics.md",
     "User Guide/User guide.md",
-    "Troubleshooting.md",
     "Assets/Monitoring.png",
     "Port Forwarding.md",
     "conflict-files-obsidian-git.md",
