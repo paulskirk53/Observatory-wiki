@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
+                "file": "Astronomy Software/Dome Driver.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "Dome Driver"
             }
           }
         ],
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Astronomy Software/Dome Driver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Todo"
+              "title": "Backlinks for Dome Driver"
             }
           },
           {
@@ -367,10 +367,11 @@
   },
   "active": "0838addab8c6bb12",
   "lastOpenFiles": [
+    "Todo.md",
+    "Astronomy Software/Dome Driver.md",
     "Observatory Home.md",
     "Troubleshooting.md",
     "Computer Control/Dome  Rotation.md",
-    "Todo.md",
     "Plate Solving.md",
     "AutoFocus.md",
     "Diaries/Fault & Problem log.md",
@@ -397,7 +398,6 @@
     "Astronomy Equipment/Telescope.md",
     "Astronomy Software/Sequence Generator Pro.md",
     "User Guide",
-    "Astronomy Software/Plate Solving - ASTAP.md",
     "Computer Control",
     "Astronomy Software",
     "Astronomy Equipment",
