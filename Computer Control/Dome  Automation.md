@@ -1,5 +1,5 @@
-Originally the observatory was in the garden of Pitton Mill Cottage Rhossilli
-It went through a few designs from starting as the converted Wendy house, to the roll off roof, then the polycarbonate dome which leaked and then the custom fibreglass coated cardboard which distorted badly.
+There is an **ascom device driver** I wrote, it is called pauldomeinC. Load visual studio on the NUC or Dev machine at home to access it. It's pretty specialised stuff and took me about eighteen month elapsed time to get to grips with the ASCOM context for drivers. You c an find it on Github under paulskirk53 The driver inplements everything required for operating a GEM mount. It will not work for an altaz mount - it would need amending.
+There are also programs which receive data (commands and requests) from the ASCOM driver and carry them out. e.g. the ASCOM dome driver might get a request from the SGP client to slew to a particular azimuth. It passes this request to the microcontroller which drives the stepper motor and monitors the shaft encoder. All these programs reside on microcontrollers - Arduin Mega2560 and AVR4809
 
 
 
