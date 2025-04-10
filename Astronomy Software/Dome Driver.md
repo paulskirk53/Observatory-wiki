@@ -1,4 +1,7 @@
-Dome Driver Registration with RegAsm on NUC and Dev
+
+this document is curent and replaces the version on google docs
+
+**Dome Driver Registration with RegAsm on NUC and Dev**
 ## Current location for NUC Dome Driver
 
 The upshot of the above is that whereas previously the dome driver was transferred from the dev machine and pasted into NUC C:\Dome, this is no longer necessary since visual studio is now on the NUC and the Dome Driver is registered in: 
