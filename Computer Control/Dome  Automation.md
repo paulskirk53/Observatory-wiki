@@ -23,9 +23,23 @@ Fourth Pair - measured against plumb bob line
 7. 'A' is 105 North of DO
 8. 'A' is 10 West of DO
 
-Averages
-North figure 395/4 = 
-West figure 35/4 = 9
+**Averages**
+North figure 395/4 = 99
+West figure 35/4 = 9 - as this is 'A' West of DO, the value entered will be minus, see below.
+
+There is also the Up / Down figure for which two measurements were taken from the roof of the dome down to point 'A' (in mm)
+1. 960
+2. 970
+Average 965
+
+The dome Origin for vertical measurement is 1100mm from the top down vertically, so point 'A' is 1100- 965 = 135 UP from the DO
+
+**Summary**
+in SGP and also in the ASCOM device hub enter the following figures in mm
+N/S enter 99 (north +ve)
+E/W enter -9  (minus 9 as west is defined as -ve)
+U/D enter 135 Up defined as +ve
+
 
 
 **Use of SGPro Sync function** in Observatory panel:
