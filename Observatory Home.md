@@ -10,7 +10,7 @@ The Obsidian vault is synced with Git so commits and pushes to the paulskirk53 r
 # [[Camera]]
 # [[Camera Rotator]]
 # [[Focuser]]
-# [[Dome  Rotation]]
+# [[Dome  Automation]]
 # [[Dome shutter]]
 
 # [[User guide]]

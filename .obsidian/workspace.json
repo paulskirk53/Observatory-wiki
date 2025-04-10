@@ -41,138 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Astronomy Software/ASCOM - Read this.md",
+                "file": "Observatory Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ASCOM - Read this"
-            }
-          },
-          {
-            "id": "21f127764b953418",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Dome building.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Dome building"
-            }
-          },
-          {
-            "id": "b9324d824b60b7b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diaries/Technical diary -Electronics.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Technical diary -Electronics"
-            }
-          },
-          {
-            "id": "00ec841db50e44c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "User Guide/User guide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "User guide"
-            }
-          },
-          {
-            "id": "0b823a79f011d43e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diaries/Technical diary -Electronics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Technical diary -Electronics"
-            }
-          },
-          {
-            "id": "7ea91bba5c3293db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "H814C Camera and Log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "H814C Camera and Log"
-            }
-          },
-          {
-            "id": "8b3547a095e0fedd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Power/Power Supply.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Power Supply"
-            }
-          },
-          {
-            "id": "7f8885efe9c12878",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "USB to Serial Converters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "USB to Serial Converters"
-            }
-          },
-          {
-            "id": "8d50c007de833f45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diaries/Fault & Problem log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fault & Problem log"
-            }
-          },
-          {
-            "id": "f21e705dbda073a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plate Solving.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plate Solving"
+              "title": "Observatory Home"
             }
           },
           {
@@ -181,16 +55,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Astronomy Software/Dome Driver.md",
+                "file": "Computer Control/Dome  Automation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dome Driver"
+              "title": "Dome  Automation"
+            }
+          },
+          {
+            "id": "8b3af6eb81e0ec8f",
+            "type": "leaf",
+            "state": {
+              "type": "spreadsheet-view",
+              "state": {
+                "file": "Untitled.sheet"
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -263,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Astronomy Software/Dome Driver.md",
+                "file": "Untitled.sheet",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dome Driver"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -316,38 +202,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "8001e303894f7b92",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1355edb3082d15a3",
-            "type": "leaf",
-            "state": {
-              "type": "map-of-content",
-              "state": {},
-              "icon": "stacked-levels",
-              "title": "Map of Content"
-            }
-          }
-        ]
-      },
-      {
-        "id": "78d8abd91b75fdb0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c032f0ac0769d16d",
-            "type": "leaf",
-            "state": {
-              "type": "map-of-content",
-              "state": {},
-              "icon": "stacked-levels",
-              "title": "Map of Content"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -362,29 +216,33 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "map-of-content:Update Map of Content": false
+      "map-of-content:Update Map of Content": false,
+      "spreadsheets:New Spreadsheet": false
     }
   },
-  "active": "0838addab8c6bb12",
+  "active": "8b3af6eb81e0ec8f",
   "lastOpenFiles": [
-    "Todo.md",
-    "Astronomy Software/Dome Driver.md",
+    "Computer Control/Dome  Automation.md",
+    "Untitled.sheet",
     "Observatory Home.md",
-    "Troubleshooting.md",
-    "Computer Control/Dome  Rotation.md",
-    "Plate Solving.md",
-    "AutoFocus.md",
+    "Astronomy Software/ASCOM - Read this.md",
+    "The Dome building.md",
+    "User Guide/User guide.md",
+    "USB to Serial Converters.md",
+    "Diaries/Technical diary -Electronics.md",
+    "H814C Camera and Log.md",
+    "Power/Power Supply.md",
     "Diaries/Fault & Problem log.md",
+    "Plate Solving.md",
+    "Port Forwarding.md",
+    "Astronomy Software/Dome Driver.md",
+    "Todo.md",
+    "Troubleshooting.md",
+    "AutoFocus.md",
     "monitoring.md",
     "Untitled.md",
-    "USB to Serial Converters.md",
-    "Power/Power Supply.md",
     "Using a Canon EOS 1000D.md",
-    "H814C Camera and Log.md",
-    "Diaries/Technical diary -Electronics.md",
-    "User Guide/User guide.md",
     "Assets/Monitoring.png",
-    "Port Forwarding.md",
     "conflict-files-obsidian-git.md",
     "Assets/Voltage divider circuit.PNG",
     "Assets/A Steel Drum Project.docx",
@@ -392,11 +250,8 @@
     "Electronics/Control Boxes.md",
     "Electronic switches.md",
     "Assets/SSR-40DD.pdf",
-    "The Dome building.md",
     "Computer Control/The observatory computer.md",
-    "Astronomy Software/ASCOM - Read this.md",
     "Astronomy Equipment/Telescope.md",
-    "Astronomy Software/Sequence Generator Pro.md",
     "User Guide",
     "Computer Control",
     "Astronomy Software",
@@ -404,7 +259,6 @@
     "Power",
     "Programming",
     "Electronics",
-    "Diaries",
     "Assets/Gemini.jpg",
     "Assets/Pasted image 20250310205410.png",
     "Assets/y(78).jpg"
