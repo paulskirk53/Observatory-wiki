@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "H814C Camera and Log.md",
+                "file": "Programming/Programming useful snips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "H814C Camera and Log"
+              "title": "Programming useful snips"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H814C Camera and Log.md",
+                "file": "Programming/Programming useful snips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for H814C Camera and Log"
+              "title": "Backlinks for Programming useful snips"
             }
           },
           {
@@ -209,6 +209,8 @@
   },
   "active": "beeb07124d0297bf",
   "lastOpenFiles": [
+    "Power/Power Supply.md",
+    "H814C Camera and Log.md",
     "Electronic switches.md",
     "Dome Shutter.md",
     "Electronics/Control Boxes.md",
@@ -227,8 +229,6 @@
     "User Guide/User guide.md",
     "USB to Serial Converters.md",
     "Diaries/Technical diary -Electronics.md",
-    "H814C Camera and Log.md",
-    "Power/Power Supply.md",
     "Diaries/Fault & Problem log.md",
     "Plate Solving.md",
     "Port Forwarding.md",
