@@ -53,14 +53,12 @@
             "id": "beeb07124d0297bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Todo.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/Voltage divider circuit.PNG"
               },
-              "icon": "lucide-file",
-              "title": "Todo"
+              "icon": "lucide-image",
+              "title": "Voltage divider circuit"
             }
           }
         ],
@@ -137,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Assets/Voltage divider circuit.PNG",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Todo"
+              "title": "Backlinks for Voltage divider circuit"
             }
           },
           {
@@ -209,6 +207,11 @@
   },
   "active": "beeb07124d0297bf",
   "lastOpenFiles": [
+    "Assets/SSR-40DD.pdf",
+    "Assets/Port Forwarding.PNG",
+    "Troubleshooting.md",
+    "Untitled.md",
+    "Todo.md",
     "Programming/Programming useful snips.md",
     "Computer Control/Dome  Automation.md",
     "Observatory Home.md",
@@ -224,11 +227,8 @@
     "Plate Solving.md",
     "Port Forwarding.md",
     "Astronomy Software/Dome Driver.md",
-    "Todo.md",
-    "Troubleshooting.md",
     "AutoFocus.md",
     "monitoring.md",
-    "Untitled.md",
     "Using a Canon EOS 1000D.md",
     "Assets/Monitoring.png",
     "conflict-files-obsidian-git.md",
@@ -237,9 +237,7 @@
     "Diaries/Technical diary - Programming.md",
     "Electronics/Control Boxes.md",
     "Electronic switches.md",
-    "Assets/SSR-40DD.pdf",
     "Computer Control/The observatory computer.md",
-    "Astronomy Equipment/Telescope.md",
     "User Guide",
     "Computer Control",
     "Astronomy Software",
