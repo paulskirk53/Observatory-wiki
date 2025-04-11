@@ -1,4 +1,4 @@
-One control box services the [[Sitech Telescope]] and another one services the shutter open / close function.
+One control box services the [[Sitech Telescope]] and [[Dome  Automation]] and another one services the [[Dome Shutter]] open / close function.
 
 Picture of Dome control box:
 
@@ -9,6 +9,6 @@ The software is on github here.
 
 
 
-Picture of Dome control box:
+
 
 return to [[Observatory Home]] home page

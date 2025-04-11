@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
+                "file": "H814C Camera and Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "H814C Camera and Log"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "H814C Camera and Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Todo"
+              "title": "Backlinks for H814C Camera and Log"
             }
           },
           {
@@ -209,6 +209,9 @@
   },
   "active": "beeb07124d0297bf",
   "lastOpenFiles": [
+    "Electronic switches.md",
+    "Dome Shutter.md",
+    "Electronics/Control Boxes.md",
     "Assets/Voltage divider circuit.PNG",
     "Assets/SSR-40DD.pdf",
     "Assets/Port Forwarding.PNG",
@@ -237,8 +240,6 @@
     "conflict-files-obsidian-git.md",
     "Assets/A Steel Drum Project.docx",
     "Diaries/Technical diary - Programming.md",
-    "Electronics/Control Boxes.md",
-    "Electronic switches.md",
     "Computer Control/The observatory computer.md",
     "User Guide",
     "Computer Control",
