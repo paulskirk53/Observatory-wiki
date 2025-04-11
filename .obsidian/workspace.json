@@ -53,12 +53,14 @@
             "id": "beeb07124d0297bf",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Voltage divider circuit.PNG"
+                "file": "Todo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Voltage divider circuit"
+              "icon": "lucide-file",
+              "title": "Todo"
             }
           }
         ],
@@ -135,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Voltage divider circuit.PNG",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Voltage divider circuit"
+              "title": "Backlinks for Todo"
             }
           },
           {
@@ -207,6 +209,7 @@
   },
   "active": "beeb07124d0297bf",
   "lastOpenFiles": [
+    "Assets/Voltage divider circuit.PNG",
     "Assets/SSR-40DD.pdf",
     "Assets/Port Forwarding.PNG",
     "Troubleshooting.md",
@@ -232,7 +235,6 @@
     "Using a Canon EOS 1000D.md",
     "Assets/Monitoring.png",
     "conflict-files-obsidian-git.md",
-    "Assets/Voltage divider circuit.PNG",
     "Assets/A Steel Drum Project.docx",
     "Diaries/Technical diary - Programming.md",
     "Electronics/Control Boxes.md",
