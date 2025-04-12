@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Programming useful snips.md",
+                "file": "Observatory Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programming useful snips"
+              "title": "Observatory Home"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Programming useful snips.md",
+                "file": "Observatory Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Programming useful snips"
+              "title": "Backlinks for Observatory Home"
             }
           },
           {
@@ -209,6 +209,7 @@
   },
   "active": "beeb07124d0297bf",
   "lastOpenFiles": [
+    "Programming/Programming useful snips.md",
     "Power/Power Supply.md",
     "H814C Camera and Log.md",
     "Electronic switches.md",
@@ -220,7 +221,6 @@
     "Troubleshooting.md",
     "Untitled.md",
     "Todo.md",
-    "Programming/Programming useful snips.md",
     "Computer Control/Dome  Automation.md",
     "Observatory Home.md",
     "The Dome building.md",

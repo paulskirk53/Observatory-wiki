@@ -48,4 +48,5 @@ to check for anode / cathode with a DVM:
         
         - If the diode does not conduct (shows infinite resistance or no voltage drop), the connections are reversed.
             
-- **Confirm Polarity**:
+[[Observatory Home]]
+
