@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Observatory Home.md",
+                "file": "Astronomy Software/Autoguiding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Observatory Home"
+              "title": "Autoguiding"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Observatory Home.md",
+                "file": "Astronomy Software/Autoguiding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Observatory Home"
+              "title": "Backlinks for Autoguiding"
             }
           },
           {
@@ -209,6 +209,7 @@
   },
   "active": "beeb07124d0297bf",
   "lastOpenFiles": [
+    "Observatory Home.md",
     "Programming/Programming useful snips.md",
     "Power/Power Supply.md",
     "H814C Camera and Log.md",
@@ -222,7 +223,6 @@
     "Untitled.md",
     "Todo.md",
     "Computer Control/Dome  Automation.md",
-    "Observatory Home.md",
     "The Dome building.md",
     "Computer Control/Dome offset.sheet",
     "Astronomy Software/ASCOM - Read this.md",
