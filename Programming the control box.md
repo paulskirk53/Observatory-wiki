@@ -54,4 +54,4 @@ I posted because all of the above DOES NOT WORK on the NUC, only on DEV m/c - ch
   
   
 
-docker run -d -p 8080:3000 --name wiki --restart unless-stopped -e "DB_TYPE=postgres" -e "DB_HOST=db" -e "DB_PORT=5432" -e "DB_USER=wikijs" -e "DB_PASS=wikijsrocks" -e "DB_NAME=wiki_db-data" ghcr.io/requarks/wiki:2
+[[Observatory Home]]

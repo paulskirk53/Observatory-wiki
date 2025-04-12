@@ -1,7 +1,7 @@
 **11-4-2025**
-* Take the jtag2updi programmer and upload the code to the control box*
-* Check the new driver amendments re dome geometry and sync to azimuth. Hopefully the dome positioning will be more accurate. Try positions at NSEW
-* Check the radio box works - tested at home fine - a new switch has been installed on the box which has a normal and override position. In the override position the shutter is always reported to ascom driver as open. It's a way of being able to keep going with imaging if the bluetooth or something shutter related goes awry. Shutter must be opened and closed manually by hand.
+* Take the jtag2updi programmer and upload the code to the control box - **does not work**
+* Check the new driver amendments re dome geometry and sync to azimuth. Hopefully the dome positioning will be more accurate. Try positions at NSEW - **awful result**
+* Check the radio box works - tested at home fine - a new switch has been installed on the box which has a normal and override position. In the override position the shutter is always reported to ascom driver as open. It's a way of being able to keep going with imaging if the bluetooth or something shutter related goes awry. Shutter must be opened and closed manually by hand. **Worked fine at Observatory**
 * take up some drawing pins
 * Paint the walls of the building
 
