@@ -1,4 +1,4 @@
-When entering the observatory to initialise the equipment for an observing session, the following text describes the workflow. You must be at the observatory to do all the following things, it takes about 10-15 minutes once you've done it a few times. Once the setup is done, all functions can be controlled remotely - see [[monitoring]].
+When entering the observatory to initialise the equipment for an observing session, the following text describes the workflow. You must be at the observatory to do all the following things, it takes about 10-15 minutes once you've done it a few times. Once the setup is done, all functions can be controlled remotely - see [[Remote session management]].
 
 **Power**
 Connect the Main 12 volt battery., by closing the switch connected to the positive 12V battery lead. The circuit is protected by a 5 amp fuse which you can see near the switch. Closing this switch provides power to the following:
@@ -33,7 +33,7 @@ The NUC computer has a password which is 3633. Connect it as follows power lead,
 
 **Power for the Cameras and rotator**
 The power on / off is controlled in software, so that the devices can be powered off until such times as they are required to take images, which saves battery power. 
-In order to turn on, the program called '[[monitoring]]' must be run on the NUC in the observatory. This is a windows program I wrote which allows remote monitoring and control of all the observatory functions from home - Pitton Mill Cottage or anywhere that has an internet connection and [[Port Forwarding]] set up on the house internet router.
+In order to turn on, the program called '[[Remote session management]]' must be run on the NUC in the observatory. This is a windows program I wrote which allows remote monitoring and control of all the observatory functions from home - Pitton Mill Cottage or anywhere that has an internet connection and [[Port Forwarding]] set up on the house internet router.
 
 Once the monitoring program is running, you'll see the following:
 

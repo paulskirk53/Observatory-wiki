@@ -1,0 +1,1 @@
+This is a remote session manager - very easy to use and allows unattended access to the remote computer at the observatory.

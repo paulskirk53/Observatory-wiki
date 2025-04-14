@@ -1,7 +1,4 @@
   
-
-## This page now maintained on Obsidian wiki as of April 2025
-
 ## Jtag2updi programmer for AVR4809
 
   
@@ -49,7 +46,7 @@ PIO works with jtag2updi. See the PIO.ini for the control box project.
 
 Pio forum 14-10-23
 
-I posted because all of the above DOES NOT WORK on the NUC, only on DEV m/c - check the board is powered
+I posted because all of the above DOES NOT WORK on the NUC, only on DEV m/c - check the board is powered. Problem solved in April 2025. The version of avrdude in use on the nuc was old & did not support jtag2updi as a programmer. I thought PIO would update the package, but it doesn't.
 
   
   
