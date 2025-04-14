@@ -1,4 +1,5 @@
-In the **dome driver** write / read profile/ can use this to print values to console - brill
+# In the **dome driver** 
+write / read profile/ can use this to print values to console - brill
 
 ```
 //  Console.WriteLine($"Parkplace value: {Parkplace}");   // pk -  a test for profile empty error
@@ -6,8 +7,8 @@ In the **dome driver** write / read profile/ can use this to print values to con
 
 
 
-**Voltage divider Code from AI** for use with a resistor voltage divider:
-```
+# **Voltage divider Code from AI** for use with a resistor voltage divider:
+```cpp
 
 // Pin Definitions
 const int analogPin = A0;
@@ -33,8 +34,11 @@ void loop() {
   delay(1000);  // Wait 1 second before the next reading
 }
 
+```
 
-to protect the pin use a 5.1 V zenerPlace the **cathode** (striped end) to the Arduino analog pin.
+
+# **to protect the pin**
+use a 5.1 V zenerPlace the **cathode** (striped end) to the Arduino analog pin.
 to check for anode / cathode with a DVM:
 - **Set the DVM to Diode Test Mode**:
     
@@ -55,5 +59,5 @@ to check for anode / cathode with a DVM:
         - If the diode does not conduct (shows infinite resistance or no voltage drop), the connections are reversed.
             
 [[Observatory Home]]
-```
+
 

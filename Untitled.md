@@ -1,6 +1,8 @@
-```div.markdown-preview-view pre {
+```css
+div.markdown-preview-view pre {
   background-color: #000000 !important; /* Black background */
   color: #FFFFFF !important;           /* Bright white text */
+  
 }
 
 ```
@@ -8,6 +10,7 @@
 ```cpp
 
   
+#define x 6
 
 if (SRAMToggle == 1 )
 
@@ -39,7 +42,7 @@ if (SRAMToggle == 1 )
 
   
 
-  // Change below to suit the stepper
+  /// Change below to suit the stepper
 
   
 
