@@ -1,7 +1,13 @@
 In the **dome driver** write / read profile/ can use this to print values to console - brill
-//  Console.WriteLine($"Parkplace value: {Parkplace}");   // pk -  a test for profile empty error
 
-Code from AI for use with a resistor voltage divider:
+```
+//  Console.WriteLine($"Parkplace value: {Parkplace}");   // pk -  a test for profile empty error
+```
+
+
+
+**Voltage divider Code from AI** for use with a resistor voltage divider:
+```
 
 // Pin Definitions
 const int analogPin = A0;
@@ -49,4 +55,5 @@ to check for anode / cathode with a DVM:
         - If the diode does not conduct (shows infinite resistance or no voltage drop), the connections are reversed.
             
 [[Observatory Home]]
+```
 
