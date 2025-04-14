@@ -1,6 +1,9 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "accentColor": "#5fbbec",
   "textFontFamily": "Calibri",
-  "baseFontSize": 20
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "codeBlock_Style"
+  ]
 }
