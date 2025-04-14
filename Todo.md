@@ -1,7 +1,7 @@
 **14-4-2025**
 * 
 * Take a saw to saw off the plywood back of stepper  motor support.
-* Retry the dome slew & sync to scope tests with a client connected e.g. Cartes du Ciel, the scope and dome. Check NSEW alignment. DOne N is poor with the dome too far east. Try increasing the GEM offset by 50 mm
+* Retry the dome slew & sync to scope tests with a client connected e.g. Cartes du Ciel, the scope and dome. Check NSEW alignment. **Done** N is poor with the dome too far east. Try increasing the GEM offset by 50 mm
 
 * check the ticks per dome rev accuracy by rotating the dome through 360 and check if the misalignment is consistently over or under. There are 44 ticks per degree, so mod the code as req'd.
 
