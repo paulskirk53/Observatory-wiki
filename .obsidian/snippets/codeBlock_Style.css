@@ -11,3 +11,31 @@ div.markdown-preview-view pre code {
     font-family: Consolas, "Courier New", monospace !important; /* Font */
     font-size: 14px !important;          /* Ensure readable size */
 }
+
+/* Style for comments (e.g., // or /* */) */
+div.markdown-preview-view pre code span.token.comment {
+    color: #00FF00 !important; /* Green for comments */
+    font-style: italic;        /* Optional: Italics for comments */
+}
+
+/* Style for strings (e.g., "Hello") */
+div.markdown-preview-view pre code span.token.string {
+    color: #FF9900 !important; /* Dull orange for strings */
+}
+
+/* Style for variables (e.g., myVariable) */
+div.markdown-preview-view pre code span.token.variable {
+    color: #87CEEB !important; /* Light blue for variables */
+}
+
+/* Style for function names */
+div.markdown-preview-view pre code span.token.function {
+    color: #FFFF00 !important; /* Yellow for functions */
+    font-weight: bold;         /* Optional: Make function names bold */
+}
+
+/* Style for keywords (e.g., int, return, if, while) */
+div.markdown-preview-view pre code span.token.keyword {
+    color: #9370DB !important; /* Mauve for keywords */
+    font-weight: bold;         /* Optional: Highlight keywords with bold */
+}
