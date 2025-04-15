@@ -1,5 +1,4 @@
 
-
 # To-Do -Current, tick when complete
 - [ ]  1: Try increasing the GEM offset by 50 mm to cure the N misalignment
 - [ ]  2: Take a saw to saw off the plywood back of stepper  motor support.
