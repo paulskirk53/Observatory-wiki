@@ -4,16 +4,12 @@
 - [ ]  2: Take a saw to saw off the plywood back of stepper  motor support.
 - [ ]  3: Retry the dome slew & sync to scope tests with a client connected e.g. Cartes du Ciel, the scope and dome. Check NSEW alignment.
 - [ ]  4: **don't do this until the new toothed wheel arrives** check the ticks per dome rev accuracy by rotating the dome through 360 and check if the misalignment is consistently over or under. There are 44 ticks per degree, so mod the code as req'd.
-- [ ] 4: 
+- [ ] 4: Upload the shutter code
+- [ ] connect up the chain
+- [ ] connect battery power to shutter
+- [ ] 
 
-
-
-## **current - not complete**
-* Try increasing the GEM offset by 50 mm to cure the N misalignment
-* Take a saw to saw off the plywood back of stepper  motor support.
-* Retry the dome slew & sync to scope tests with a client connected e.g. Cartes du Ciel, the scope and dome. Check NSEW alignment. 
-* **don't do this until the new toothed wheel arrives** check the ticks per dome rev accuracy by rotating the dome through 360 and check if the misalignment is consistently over or under. There are 44 ticks per degree, so mod the code as req'd.
-* 
+ 
 **14-4-25**
 * cut the encoder wood bracket to make it a sliding fit. Still use elastic as safeguard. Think of some better way to hold it against the dome edge. **done and** working on new mount for it. 14-4-25
 
