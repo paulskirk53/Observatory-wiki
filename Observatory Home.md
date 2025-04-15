@@ -12,10 +12,24 @@ The Obsidian vault is synced with Git so commits and pushes to the paulskirk53 r
 ## Electronics
 - [[Control Boxes]]
 - [[Power Switches]]
-- 
+- [[Laser Sync]]
+- [[Shaft Encoder]]
+## Power Considerations
 ## Software
-- [[Automation Scripts]]
-
+- [[Remote session management]]
+- [[Autoguiding]]
+- [[Sequence Generator Pro]]
+- [[ASCOM]]
+- [[Dome Driver]]
+- [[monitor Program]]
+- [[Plate Solving - ASTAP]]
+- 
+## Programming
+- [[Dome Driver]]
+- [[Dome Shutter]]
+- [[monitor Program]]
+- [[code repositories]]
+- 
 
 
 
