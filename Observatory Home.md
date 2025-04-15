@@ -14,7 +14,10 @@ The Obsidian vault is synced with Git so commits and pushes to the paulskirk53 r
 - [[Power Switches]]
 - [[Laser Sync]]
 - [[Shaft Encoder]]
-## Power Considerations
+## Power Supply Context
+- [[Power Introduction]]
+- [[Power Supply]]
+- 
 ## Software
 - [[Remote session management]]
 - [[Autoguiding]]
