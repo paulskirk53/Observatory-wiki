@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Astronomy Equipment/Sitech Telescope.md",
+                "file": "Observatory Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sitech Telescope"
+              "title": "Observatory Home"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Astronomy Equipment/Sitech Telescope.md",
+                "file": "Observatory Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sitech Telescope"
+              "title": "Backlinks for Observatory Home"
             }
           },
           {
@@ -170,7 +170,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -182,13 +184,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Camera Rotator.md"
+                "file": "Observatory Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Camera Rotator"
+              "title": "Outline of Observatory Home"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -210,6 +216,13 @@
   "active": "a1fcaeadd02f49a7",
   "lastOpenFiles": [
     "Electronics/Control Boxes.md",
+    "Observatory Home.md",
+    "Power Switches.md",
+    "Telescope C14.md",
+    "Telescope Specifications.md",
+    "Main Components.md",
+    "Astronomy Equipment/MESU Mount.md",
+    "Astronomy Equipment/Sitech Telescope Controller.md",
     "Assets/control_box_pinout.xlsx",
     "Assets/20-80v-24-72a-digital-stepper-motor-driver-nema-34-datasheet.pdf",
     "Assets/SSR-40DD.pdf",
@@ -238,16 +251,10 @@
     "Programming/Programming useful snips.md",
     "Untitled.md",
     "Programming/EEPROM Use.md",
-    "Observatory Home.md",
     "Astronomy Software/Autoguiding.md",
     "Power/Power Supply.md",
     "Troubleshooting.md",
-    "Computer Control/Dome  Automation.md",
-    "The Dome building.md",
     "Computer Control/Dome offset.sheet",
-    "Astronomy Software/ASCOM - Read this.md",
-    "User Guide/User guide.md",
-    "USB to Serial Converters.md",
     "Assets/A Steel Drum Project.docx",
     "User Guide",
     "Assets/y(78).jpg"

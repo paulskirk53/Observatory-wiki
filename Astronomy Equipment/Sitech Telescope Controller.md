@@ -4,5 +4,6 @@ try this
 
 [Link to Excel Spreadsheet](file:///C:/Path/To/Vault/Assets/control_box_pinout.xlsx)
 
+#telescope #Controller #Sitech
 
 return to [[Observatory Home]] home page
