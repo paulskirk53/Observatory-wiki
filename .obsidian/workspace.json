@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Remote session management.md",
+                "file": "Todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Remote session management"
+              "title": "Todo"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Remote session management.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Remote session management"
+              "title": "Backlinks for Todo"
             }
           },
           {
@@ -208,6 +208,7 @@
   },
   "active": "a1fcaeadd02f49a7",
   "lastOpenFiles": [
+    "Remote session management.md",
     "Assets/Pasted image 20250414230611.png",
     "Introduction.md",
     "H814C Camera and Log.md",
