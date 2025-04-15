@@ -14,9 +14,10 @@ The Obsidian vault is synced with Git so commits and pushes to the paulskirk53 r
 - [[Power Switches]]
 - [[Laser Sync]]
 - [[Shaft Encoder]]
+- [[USB to Serial Converters]]
 ## Power Supply Context
 - [[Power Introduction]]
-- [[Power Supply]]
+- More info on [[Power Supply]] DC boost and voltage monitoring.
 - 
 ## Software
 - [[Remote session management]]
@@ -33,6 +34,8 @@ The Obsidian vault is synced with Git so commits and pushes to the paulskirk53 r
 - [[monitor Program]]
 - [[code repositories]]
 - 
+## User Guide
+[[User guide]]
 
 
 
@@ -41,35 +44,6 @@ The Obsidian vault is synced with Git so commits and pushes to the paulskirk53 r
 
 
 
-
-
-
-# Contents
- #[[Introduction]]
-# [[The Dome building]]
-# [[Main Components]]
-# [[Telescope]]
-# [[MESU Mount]]
-# [[Camera]]
-# [[Camera Rotator]]
-# [[Focuser]]
-# [[Dome  Automation]]
-# [[Dome shutter]]
-
-# [[User guide]]
-
-# [[Technical diary -Electronics]]
-
-# [[Technical diary - Programming]]
-
-# [[Todo]]
-
-# [[Plate Solving]]
-# [[AutoFocus]]
-
-# [[Autoguiding]]
-
-# [[Power Supply]]
 
 
 

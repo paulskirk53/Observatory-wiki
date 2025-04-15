@@ -22,11 +22,6 @@ The main battery which powers all the equipment mentioned above is connected to 
 
 See [[Programming useful snips]] for some sample code to obtain the supply voltage value using a voltage divider and arduino analog pin.
 
-**Dome Drive power**
-The other battery for the dome drive is (todo March 2025) connected to a buck boost device to convert the voltage from 12v to 24 V this is connected to the [[DM860I Stepper controller]] . The battery doesn't get charged directly, so the options for charging are take it home (they weigh a ton) or connect it to the Photonic Universe solar charger. This can only be connected to one battery at a time.
-
-
-
 
 
 return to [[Observatory Home]] home page
