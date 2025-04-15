@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Control Boxes.md",
+                "file": "Astronomy Equipment/Sitech Telescope.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Control Boxes"
+              "title": "Sitech Telescope"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Control Boxes.md",
+                "file": "Astronomy Equipment/Sitech Telescope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Control Boxes"
+              "title": "Backlinks for Sitech Telescope"
             }
           },
           {
@@ -209,6 +209,8 @@
   },
   "active": "a1fcaeadd02f49a7",
   "lastOpenFiles": [
+    "Electronics/Control Boxes.md",
+    "Assets/control_box_pinout.xlsx",
     "Assets/20-80v-24-72a-digital-stepper-motor-driver-nema-34-datasheet.pdf",
     "Assets/SSR-40DD.pdf",
     "Assets/Voltage divider circuit.PNG",
@@ -221,7 +223,6 @@
     "Assets/New Text Document.txt",
     "Assets/Control Box Pinout.xlsx",
     "Assets/Control Box Pinout.txt",
-    "Electronics/Control Boxes.md",
     "Todo.md",
     "Remote session management.md",
     "Introduction.md",
@@ -249,7 +250,6 @@
     "USB to Serial Converters.md",
     "Assets/A Steel Drum Project.docx",
     "User Guide",
-    "Computer Control",
     "Assets/y(78).jpg"
   ]
 }

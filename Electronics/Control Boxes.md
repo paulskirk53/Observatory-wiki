@@ -9,7 +9,9 @@ The software is on github here.
 
 AVR4809 layout:
 look at the markdown below to add a link to a SS in the assets folder
-[Link to Excel Spreadsheet](./Assets/mydata.xlsx)
+[Link to Excel Spreadsheet](./Assets/control_box_pinout.xlsx)
+
+
 
 Archived - Control Box 
 
