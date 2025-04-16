@@ -1,8 +1,13 @@
-**Newset entries at top**
+**Newest entries at top**
+
+**16-4-2025**
+A clear night PA looks good as a 30 sec main cam image showed nice round stars.  Remote management worked, I plate solved from home, but the Lodestar failed to download images - an error was posted by PHD2 - see the snip on NUC desktop. End of observing session.
+The other irritting probelm is that when platesolving using control panel in SGP, SGP complains that binning is incorrect (!) and scraps the values of scale factor, so I have to enter the FL and pixel size for the main Camera again and click the calc button to get the scale - which is the same as it was before of course. See NUC desktop for snip of error.
+
 
 **3-4-2025**
 A lot has happened, in the period since the last entry on 18th March an update below
-It has been a frustrating time as the night sky has been clear for about three weeks due to high pressure. Her's the problems:
+It has been a frustrating time as the night sky has been clear for about three weeks due to high pressure. Here's the problems:
 
 - Camera would not work 814C would not connect. Discussions with Terry Platt tried install of drivers, no joy. Decided to try installing the drivers on the WIN 10 dev m/c and the camera connected and continued to connect when transferred back to the NUC where there had beenn no changes. I have no idea what's going on. Greg is phasing out the SX cams and using the ZWO aps cmos chips instead. Good idea. So camera now working :) .....
 - I have now accurately determined the offsets dome/ RA & Dec and added these to ASCOM device hub and SGP In tests the dome seemed to position properly when slewing to various daytime targets. However it would not track when used in SGP and today by chance I found in the SGP forum that there's a bug in the observatory panel - clicking slave here does not work, it has to be done in control panel.

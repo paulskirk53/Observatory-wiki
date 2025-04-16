@@ -1,10 +1,10 @@
 
 # To-Do -Current, tick when complete
-- [ ]  Try increasing the GEM offset by 50 mm to cure the N misalignment
+- [ ]  Try increasing the GEM offset by 50 mm to cure the N misalignment. Tried on 16-4-25. It had the desired effect when looking E, more testing req'd
 - [ ]  Upload the control box code
 - [ ]  Upload the shutter code
 - [ ] Set up the rotator & check it connects
-- [ ]  Take a saw to saw off the plywood back of stepper  motor support.
+- [ ]  T**ake a saw to saw off the plywood back** of stepper  motor support.
 - [ ]  Retry the dome slew & sync to scope tests with a client connected e.g. Cartes du Ciel, the scope and dome. Check NSEW alignment.
 - [ ] 
 - [ ] tonight target is around 140 deg azimuth ra 12 dec 32 - align the scope
