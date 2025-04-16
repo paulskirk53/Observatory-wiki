@@ -2,6 +2,12 @@ Use the links on the left to navigate to sections & pages, or use the links belo
 The Obsidian vault is synced with Git so commits and pushes to the paulskirk53 remote are made every 10 minutes *change this in the community plugins if required*
 
 # Observatory Dashboard
+
+| xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx | yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy |
+| ---------------------------------- | ---------------------------------- |
+| row 1 c1                           | row c2                             |
+
+
 ## Equipment
 - [[Telescope C14]]
 - [[Camera]]
