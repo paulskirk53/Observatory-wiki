@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Observatory Home.md",
+                "file": "Todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Observatory Home"
+              "title": "Todo"
             }
           },
           {
@@ -225,8 +225,8 @@
   },
   "active": "a1fcaeadd02f49a7",
   "lastOpenFiles": [
-    "Todo.md",
     "Observatory Home.md",
+    "Todo.md",
     "USB to Serial Converters.md",
     "Power Introduction.md",
     "Power/Power Supply.md",

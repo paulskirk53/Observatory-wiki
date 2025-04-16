@@ -3,6 +3,7 @@
 - [ ]  Try increasing the GEM offset by 50 mm to cure the N misalignment
 - [ ]  Upload the control box code
 - [ ]  Upload the shutter code
+- [ ] Set up the rotator & check it connects
 - [ ]  Take a saw to saw off the plywood back of stepper  motor support.
 - [ ]  Retry the dome slew & sync to scope tests with a client connected e.g. Cartes du Ciel, the scope and dome. Check NSEW alignment.
 - [ ] 
