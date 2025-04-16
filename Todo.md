@@ -1,16 +1,18 @@
 
 # To-Do -Current, tick when complete
-- [ ]  Try increasing the GEM offset by 50 mm to cure the N misalignment. Tried on 16-4-25. It had the desired effect when looking E, more testing req'd
+- [ ] Take some daytime images with the lodestar connected to see if it stays connected in PHD2, and also that the image quality is good.  Then - see next item below:
+- [ ] Connect the SX camera USB directly to the NUC - this can be done by removing the mouse USB transmitter to the HUB
+- [ ] Try increasing the GEM offset by 50 mm to cure the N misalignment. **Tried on 16-4-25.** It had the desired effect when looking E, more testing req'd
 - [ ]  Upload the control box code
 - [ ]  Upload the shutter code
 - [ ] Set up the rotator & check it connects
-- [ ]  T**ake a saw to saw off the plywood back** of stepper  motor support.
+- [ ]  **Take a saw to saw off the plywood back** of stepper  motor support.
 - [ ]  Retry the dome slew & sync to scope tests with a client connected e.g. Cartes du Ciel, the scope and dome. Check NSEW alignment.
 - [ ] 
 - [ ] tonight target is around 140 deg azimuth ra 12 dec 32 - align the scope
 - [ ] connect up the chain
 - [ ] connect battery power to shutter
-- [ ] run anydesk
+- [x] run anydesk
 - [ ]  **Don't do this until the new toothed wheel arrives** check the ticks per dome rev accuracy by rotating the dome through 360 and check if the misalignment is consistently over or under. There are 44 ticks per degree, so mod the code as req'd.
 
 

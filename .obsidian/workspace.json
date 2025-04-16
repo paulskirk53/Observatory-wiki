@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diaries/Fault & Problem log.md",
+                "file": "Todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fault & Problem log"
+              "title": "Todo"
             }
           },
           {
@@ -225,6 +225,7 @@
   },
   "active": "a1fcaeadd02f49a7",
   "lastOpenFiles": [
+    "Diaries/Fault & Problem log.md",
     "Observatory Home.md",
     "Todo.md",
     "USB to Serial Converters.md",
@@ -263,7 +264,6 @@
     "H814C Camera and Log.md",
     "Electronic switches.md",
     "Dome Shutter.md",
-    "Anydesk.md",
     "Computer Control/Dome offset.sheet",
     "Assets/A Steel Drum Project.docx",
     "User Guide",
