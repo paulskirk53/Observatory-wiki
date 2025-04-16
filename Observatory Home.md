@@ -3,10 +3,21 @@ The Obsidian vault is synced with Git so commits and pushes to the paulskirk53 r
 
 # Observatory Dashboard
 
-| //////// ///// Column 1 //////// | //////////////// Column 2 //////////// |
-| :------------------------------: | :------------------------------------: |
-|        <h2>Equipment</h2>        |              Regular Text              |
-|       - [[Telescope C14]]        |              More content              |
+| ///////////// Column 1 ////////                                                                               | //////////////// Column 2 ////////////                                                                                                                                                |
+| :------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <h2>Equipment</h2>                                                                                            | <h2>Electronics</h2>                                                                                                                                                                  |
+| - [[Telescope C14]]<br>- [[Camera]]<br>- [[Camera Rotator]]<br>- [[Focuser]]<br>- [[MESU Mount]]              | - [[Control Boxes]]<br>- [[Power Switches]]<br>- [[Laser Sync]]<br>- [[Shaft Encoder]]<br>- [[USB to Serial Converters]]                                                              |
+| <h2>Power Supply</h2>                                                                                         | <h2>Software</h2>                                                                                                                                                                     |
+| - [[Power Introduction]]<br>- More info on [[Power Supply]] <br>- e.g. DC boost and <br>- voltage monitoring. | - [[Remote session management]]<br>- [[Autoguiding]]<br>- [[Sequence Generator Pro]]<br>- [[ASCOM]]<br>- [[Dome Driver]]<br>- [[monitor Program]]<br>- [[Plate Solving - ASTAP]]<br>- |
+| <h2>Programming</h2>                                                                                          | <h2>User Guide</h2>                                                                                                                                                                   |
+| - [[Dome Driver]]<br>- [[Dome Shutter]]<br>- [[monitor Program]]<br>- [[code repositories]]<br>- <br>-        | - [[User guide]]                                                                                                                                                                      |
+| <h2>To Do</h2>                                                                                                |                                                                                                                                                                                       |
+| [[Todo]]                                                                                                      |                                                                                                                                                                                       |
+|                                                                                                               |                                                                                                                                                                                       |
+
+Use <> with h2 inside for heading in the table end te heading with <> with /h2 inside the brackets
+for a line break within a cell use <> with br inside
+
 ## Equipment
 - [[Telescope C14]]
 - [[Camera]]
