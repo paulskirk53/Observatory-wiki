@@ -5,11 +5,12 @@
 - [ ]  Upload the shutter code
 - [ ]  Take a saw to saw off the plywood back of stepper  motor support.
 - [ ]  Retry the dome slew & sync to scope tests with a client connected e.g. Cartes du Ciel, the scope and dome. Check NSEW alignment.
-- [ ]  **Don't do this until the new toothed wheel arrives** check the ticks per dome rev accuracy by rotating the dome through 360 and check if the misalignment is consistently over or under. There are 44 ticks per degree, so mod the code as req'd.
+- [ ] 
 - [ ] tonight target is around 140 deg azimuth ra 12 dec 32 - align the scope
 - [ ] connect up the chain
 - [ ] connect battery power to shutter
 - [ ] run anydesk
+- [ ]  **Don't do this until the new toothed wheel arrives** check the ticks per dome rev accuracy by rotating the dome through 360 and check if the misalignment is consistently over or under. There are 44 ticks per degree, so mod the code as req'd.
 
 
 **11-4-2025**

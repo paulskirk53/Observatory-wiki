@@ -3,10 +3,10 @@ The Obsidian vault is synced with Git so commits and pushes to the paulskirk53 r
 
 # Observatory Dashboard
 
-|      Column 1       |   Column 2   |
-| :-----------------: | :----------: |
-| <h2>Equipment</h2>  | Regular Text |
-| - [[Telescope C14]] | More content |
+| //////// ///// Column 1 //////// | //////////////// Column 2 //////////// |
+| :------------------------------: | :------------------------------------: |
+|        <h2>Equipment</h2>        |              Regular Text              |
+|       - [[Telescope C14]]        |              More content              |
 ## Equipment
 - [[Telescope C14]]
 - [[Camera]]
