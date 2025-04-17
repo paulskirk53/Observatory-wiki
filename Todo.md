@@ -1,5 +1,7 @@
 
 # To-Do -Current, tick when complete
+- [ ] shutter ssr40dd only shows its light for two seconds then goes off. no power supplied to dome stepper. this was testing the already open feature when power comes on.
+- [ ] usb hub failure monitor would not connect but would connect when directly connected to nuc port. The on / off switch has stopped working.
 - [ ] Take some daytime images with the lodestar connected to see if it stays connected in PHD2, and also that the image quality is good.  Then - see next item below:
 - [ ] Connect the SX camera USB directly to the NUC - this can be done by removing the mouse USB transmitter to the HUB
 - [ ] Try increasing the GEM offset by 50 mm to cure the N misalignment. **Tried on 16-4-25.** It had the desired effect when looking E, more testing req'd
@@ -10,7 +12,7 @@
 - [ ]  Retry the dome slew & sync to scope tests with a client connected e.g. Cartes du Ciel, the scope and dome. Check NSEW alignment.
 - [ ] 
 - [x] tonight target is around 140 deg azimuth ra 12 dec 32 - align the scope
-- [ ] connect up the chain
+- [x] connect up the chain
 - [ ] connect battery power to shutter
 - [x] run anydesk
 - [ ]  **Don't do this until the new toothed wheel arrives** check the ticks per dome rev accuracy by rotating the dome through 360 and check if the misalignment is consistently over or under. There are 44 ticks per degree, so mod the code as req'd.
