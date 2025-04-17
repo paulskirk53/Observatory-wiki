@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Observatory Home.md",
+                "file": "Bluetooth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Observatory Home"
+              "title": "Bluetooth"
             }
           },
           {
@@ -225,9 +225,12 @@
   },
   "active": "a1fcaeadd02f49a7",
   "lastOpenFiles": [
+    "Observatory Home.md",
+    "Bluetooth.md",
+    "Dome Shutter.md",
+    "Master Radio control box.md",
     "Todo.md",
     "Diaries/Fault & Problem log.md",
-    "Observatory Home.md",
     "USB to Serial Converters.md",
     "Power Introduction.md",
     "Power/Power Supply.md",
@@ -261,9 +264,6 @@
     "Assets/Control Box Pinout.txt",
     "Remote session management.md",
     "Introduction.md",
-    "H814C Camera and Log.md",
-    "Electronic switches.md",
-    "Dome Shutter.md",
     "Computer Control/Dome offset.sheet",
     "Assets/A Steel Drum Project.docx",
     "User Guide",
