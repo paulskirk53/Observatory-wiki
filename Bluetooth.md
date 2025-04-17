@@ -1,9 +1,43 @@
 Archived - HC05 Master- SLave Configuration
 
-Now maintained on wiki JS as of November 2023
+Now maintained on Obsidian as of April 2025
 
- 
-## Overview
+
+
+- [Go to Section 1](#Overview)
+- [Go to Section 2](##Good-resources)
+- [Go to Section 3](#Section-3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Overview
 
 This text describes the process for setting up two HC05 devices for bi directional text transmission via the Bluetooth protocol. These are brilliant devices, so easy to use. 
 - Note that master and slave is about address linking and pairing and does not constrain one or other devices to only send or only receive. Both Tx and Rx Comms are bi directional. 
