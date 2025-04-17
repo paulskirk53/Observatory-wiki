@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bluetooth.md",
+                "file": "Observatory Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bluetooth"
+              "title": "Observatory Home"
             }
           },
           {
@@ -225,8 +225,8 @@
   },
   "active": "a1fcaeadd02f49a7",
   "lastOpenFiles": [
-    "Observatory Home.md",
     "Bluetooth.md",
+    "Observatory Home.md",
     "Dome Shutter.md",
     "Master Radio control box.md",
     "Todo.md",

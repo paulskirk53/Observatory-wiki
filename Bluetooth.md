@@ -3,40 +3,23 @@ Archived - HC05 Master- SLave Configuration
 Now maintained on Obsidian as of April 2025
 
 
+[[#Overview]]
+[[#Good resources]]
+[[#Showing how to connect and configure as master and slave]]
+[[#Straightforward send / receive arduino code]]
+[[#HC05 datasheet]]
+[[#TO CONFIGURE SLAVE]]
+[[#Important]]
+[[#Entering config mode]]
+[[#Also Note the baud rate]]
+[[#Sequence of commands to configure SLAVE]]
+[[#TO CONFIGURE MASTER]]
+[[#Sequence of commands to configure MASTER]]
+[[#To test the devices]]
+[[#Useful Config Commands HC-05]]
+[[#**Old stuff from 2018 **]]
 
-- [Go to Section 1](#Overview)
-- [Go to Section 2](##Good-resources)
-- [Go to Section 3](#Section-3)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[[Observatory Home]]
 # Overview
 
 This text describes the process for setting up two HC05 devices for bi directional text transmission via the Bluetooth protocol. These are brilliant devices, so easy to use. 
@@ -131,48 +114,31 @@ AT+ORGL RESTORES FACTORY SETTINGS
 AT+RESET SWITCH OUT OF AT MODE WITHOUT DISCONNECTING PWR
 AT+PSWD? ENQUIRE PASSWORD 
 
+===================================================================  
   
-  
-Old stuff from 2018 below:
+# **Old stuff from 2018 below:**
 
 HC05 and 6
 
 HC05
 
-  
-
 AT+UART=9600,1,0 WORKED WITH THE hc05 SET AS SLAVE
-
-  
 
 tested with Arduino IDE serial monitor as com5
 
 sent various text to acer termite
 
-  
-
 ACER Termite settings - COM3 9600, 1 stop, no parity
 
-  
-
 need to investigate setting as master and connection to HC06 slave
-
-  
-  
 
 HC06
 
 2-2-18 currently receiving messages printed from arduino - these are displayed on com5 on Acer termite
 
-  
-
 HC06
 
-  
-
 Tried this on the HC05 board to do a comm send and receive test and it can receive from the boiler pc arduino ide com5 to acer termite and transmit from termite via com5 to boiler PC arduino ide so the bluetooth recive from acer works
-
-  
 
 WHAT IS KNOWN
 
