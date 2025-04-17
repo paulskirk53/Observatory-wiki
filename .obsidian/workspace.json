@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Astronomy Software/Plate Solving - ASTAP.md",
+                "file": "monitor Program.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plate Solving - ASTAP"
+              "title": "monitor Program"
             }
           },
           {
@@ -226,6 +226,9 @@
   "active": "a1fcaeadd02f49a7",
   "lastOpenFiles": [
     "Observatory Home.md",
+    "Electronics/Control Boxes.md",
+    "monitor Program.md",
+    "Astronomy Software/Plate Solving - ASTAP.md",
     "Bluetooth.md",
     "Dome Shutter.md",
     "Master Radio control box.md",
@@ -240,9 +243,7 @@
     "The Dome building.md",
     "Astronomy Software/ASCOM.md",
     "Shaft Encoder.md",
-    "monitor Program.md",
     "Laser Sync.md",
-    "Electronics/Control Boxes.md",
     "Power Switches.md",
     "Telescope C14.md",
     "Telescope Specifications.md",
@@ -263,7 +264,6 @@
     "Assets/Control Box Pinout.xlsx",
     "Assets/Control Box Pinout.txt",
     "Remote session management.md",
-    "Introduction.md",
     "Computer Control/Dome offset.sheet",
     "Assets/A Steel Drum Project.docx",
     "User Guide",
