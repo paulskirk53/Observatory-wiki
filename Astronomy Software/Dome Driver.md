@@ -1,5 +1,9 @@
 
-this document is curent and replaces the version on google docs
+this document is current and replaces the version on google docs
+
+I wrote the Dome Driver with some initial help from Tom How (who created the driver videos on the ASCOM website). He's a friend of Greg Parker and that's how I got in touch. ASCOM drivers are essentially an abstraction layer, which facilitates a standard set of commands and processes which all clients can use. The driver is on github [here](https://github.com/paulskirk53/Dome). It's built using the ASCOM Developer driver templates. It has no user interface, excepting when at startup, if he user chooses 'properties', a Setup() dialog is shown. It's essential to access the dialog when connecting the Dome as it use
+
+The driver is a DLL which targets a particular version of the dot net framework and it has to be registered in the MS Windows registry. Visual Studio takes care of this when the code is compiled. 
 
 **Dome Driver Registration with RegAsm on NUC and Dev**
 ## Current location for NUC Dome Driver
