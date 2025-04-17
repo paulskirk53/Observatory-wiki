@@ -3,13 +3,13 @@
 - [ ] Take some daytime images with the lodestar connected to see if it stays connected in PHD2, and also that the image quality is good.  Then - see next item below:
 - [ ] Connect the SX camera USB directly to the NUC - this can be done by removing the mouse USB transmitter to the HUB
 - [ ] Try increasing the GEM offset by 50 mm to cure the N misalignment. **Tried on 16-4-25.** It had the desired effect when looking E, more testing req'd
-- [ ]  Upload the control box code
-- [ ]  Upload the shutter code
+- [x]  Upload the control box code
+- [x]  Upload the shutter code
 - [ ] Set up the rotator & check it connects
-- [ ]  **Take a saw to saw off the plywood back** of stepper  motor support.
+- [x]  **Take a saw to saw off the plywood back** of stepper  motor support.
 - [ ]  Retry the dome slew & sync to scope tests with a client connected e.g. Cartes du Ciel, the scope and dome. Check NSEW alignment.
 - [ ] 
-- [ ] tonight target is around 140 deg azimuth ra 12 dec 32 - align the scope
+- [x] tonight target is around 140 deg azimuth ra 12 dec 32 - align the scope
 - [ ] connect up the chain
 - [ ] connect battery power to shutter
 - [x] run anydesk
