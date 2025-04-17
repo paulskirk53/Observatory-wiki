@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Astronomy Software/Dome Driver.md",
+                "file": "Observatory Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dome Driver"
+              "title": "Observatory Home"
             }
           },
           {
@@ -225,6 +225,10 @@
   },
   "active": "a1fcaeadd02f49a7",
   "lastOpenFiles": [
+    "Telescope Specifications.md",
+    "code repositories.md",
+    "AutoFocus.md",
+    "Astronomy Software/Dome Driver.md",
     "Observatory Home.md",
     "monitor Program.md",
     "Electronics/Control Boxes.md",
@@ -239,17 +243,14 @@
     "Power/Power Supply.md",
     "Computer Control/Dome  Automation.md",
     "Computer Control/Computer Control Overview.md",
-    "code repositories.md",
     "The Dome building.md",
     "Astronomy Software/ASCOM.md",
     "Shaft Encoder.md",
     "Laser Sync.md",
     "Power Switches.md",
     "Telescope C14.md",
-    "Telescope Specifications.md",
     "Main Components.md",
     "Astronomy Equipment/MESU Mount.md",
-    "Astronomy Equipment/Sitech Telescope Controller.md",
     "Assets/control_box_pinout.xlsx",
     "Assets/20-80v-24-72a-digital-stepper-motor-driver-nema-34-datasheet.pdf",
     "Assets/SSR-40DD.pdf",
@@ -263,7 +264,6 @@
     "Assets/New Text Document.txt",
     "Assets/Control Box Pinout.xlsx",
     "Assets/Control Box Pinout.txt",
-    "Remote session management.md",
     "Computer Control/Dome offset.sheet",
     "Assets/A Steel Drum Project.docx",
     "User Guide",

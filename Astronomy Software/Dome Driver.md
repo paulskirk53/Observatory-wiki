@@ -1,7 +1,7 @@
 
 this document is current and replaces the version on google docs
 
-I wrote the Dome Driver with some initial help from Tom How (who created the driver videos on the ASCOM website). He's a friend of Greg Parker and that's how I got in touch. ASCOM drivers are essentially an abstraction layer, which facilitates a standard set of commands and processes which all clients can use. The driver is on github [here](https://github.com/paulskirk53/Dome). It's built using the ASCOM Developer driver templates. It has no user interface, excepting when at startup, if he user chooses 'properties', a Setup() dialog is shown. It's essential to access the dialog when connecting the Dome as it use
+I wrote the Dome Driver with some initial help from Tom How (who created the driver videos on the ASCOM website). He's a friend of Greg Parker and that's how I got in touch. ASCOM drivers are essentially an abstraction layer, which facilitates a standard set of commands and processes which all clients can use. The driver is on github [here](https://github.com/paulskirk53/Dome). It's built using the ASCOM Developer driver templates. It has no user interface, excepting when at startup, if he user chooses 'properties', a Setup() dialog is shown. It's essential to access the dialog when connecting the Dome as it uses two USB ports, one for ASCOM comms and another for data comms with the [[monitor Program]] 
 
 The driver is a DLL which targets a particular version of the dot net framework and it has to be registered in the MS Windows registry. Visual Studio takes care of this when the code is compiled. 
 
@@ -32,21 +32,13 @@ The error message you posted appears because your test application is set to com
 
 So, to get on an even keel, I suggest that you complete these steps in order:
 
-- Start VS as admin
-    
-- Clean the build
-    
-- Change the assembly version number to something fixed like 6.2.0.0
-    
-- Create and apply a further new GUID for the driver (important to avoid assembly version number confusion with previous builds)
-    
-- Build a debug version (this will create a 64bit COM registration)
-    
+- Start VS as admin    
+- Clean the build    
+- Change the assembly version number to something fixed like 6.2.0.0    
+- Create and apply a further new GUID for the driver (important to avoid assembly version number confusion with previous builds)    
+- Build a debug version (this will create a 64bit COM registration)    
 - Register the driver in the 32bit portion of the registry using this command from a command prompt in the bin\debug folder.
-    
-
 - C:\Windows\Microsoft.NET\Framework\v4.0.30319\Regasm ascom.gowercdome.dome.dll /codebase
-
 - Run the 32bit test program and you should now be able to set the driver properties from the Chooser dialogue.
 
 As a by-product of the steps above you should no longer need to run VS as administrator nor register after every build.
@@ -71,17 +63,14 @@ There are typically multiple versions of REGASM on your system and you may have 
 
 The 32-bit version of REGASM is in C:\Windows\Microsoft.NET\Framework\v4.0.30319
 
-  
-
 The 64-bit version of REGASM is in C:\Windows\Microsoft.NET\Framework64\v4.0.30319.
 
 I believe that you should also use the /codebase switch during registration.
-
 So 32-bit registration would look like this:
 
 "C:\Windows\Microsoft.NET\Framework\v4.0.30319\RegAsm.exe" /register /codebase "C:\dome driver\ASCOM.GowerCDome.Dome.dll"
 
-NB - the above worked on the NUC
+NB - the above worked on the NUC (until Visual Studio became a 63bit application - as per Peter Simpson above.)
 
   
 
@@ -103,10 +92,7 @@ I hope this helps.
 
 ﻿ Rick B
 
-  
-  
-
-Text below based on the above, posted to stack exchange, as I’d asked for help there too Aug ‘23
+  Text below based on the above, posted to stack exchange, as I’d asked for help there too Aug ‘23
 
 Background
 
