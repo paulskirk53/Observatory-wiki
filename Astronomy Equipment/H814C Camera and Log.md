@@ -27,8 +27,6 @@ Cables are difficult, as they rarely specify anything about the construction. Th
 
 This [article](https://www.analog.com/en/analog-dialogue/articles/digital-isolators-in-medical-and-industrial-apps.html) is good and there are many isolators based on the [ADUM4160](https://www.analog.com/media/en/technical-documentation/user-guides/EVAL-ADuM4160EBZ-UG-043.pdf) or 3160 (no difference apparently)
 
-This device from [HiFime](https://hifimediy.com/product/hifime-high-speed-usb-isolator-v2/) looks as though it works at 480 Mb/ s
-
 ## Power
 
 From Terry P re power:

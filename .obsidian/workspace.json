@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "H814C Camera and Log.md",
+                "file": "Todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "H814C Camera and Log"
+              "title": "Todo"
             }
           },
           {
@@ -120,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 270.5
   },
   "right": {
     "id": "b03dc9f79efe2c8f",
@@ -225,8 +225,9 @@
   },
   "active": "a1fcaeadd02f49a7",
   "lastOpenFiles": [
-    "Astronomy Equipment/Camera.md",
     "Observatory Home.md",
+    "Astronomy Equipment/Camera.md",
+    "Astronomy Equipment/H814C Camera and Log.md",
     "Telescope Specifications.md",
     "code repositories.md",
     "AutoFocus.md",
@@ -250,7 +251,6 @@
     "Laser Sync.md",
     "Power Switches.md",
     "Telescope C14.md",
-    "Main Components.md",
     "Assets/control_box_pinout.xlsx",
     "Assets/20-80v-24-72a-digital-stepper-motor-driver-nema-34-datasheet.pdf",
     "Assets/SSR-40DD.pdf",
