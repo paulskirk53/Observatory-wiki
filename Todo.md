@@ -18,7 +18,7 @@ link to [[Fault & Problem log]]
 - [ ] 
 - [x] tonight target is around 140 deg azimuth ra 12 dec 32 - align the scope
 - [x] connect up the chain
-- [ ] connect battery power to shutter
+- [x] connect battery power to shutter
 - [x] run anydesk
 - [ ]  **Don't do this until the new toothed wheel arrives** check the ticks per dome rev accuracy by rotating the dome through 360 and check if the misalignment is consistently over or under. There are 44 ticks per degree, so mod the code as req'd.
 
