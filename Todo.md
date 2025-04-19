@@ -1,8 +1,8 @@
 
 # To-Do -Current, tick when complete
 - [ ] Check voltage at the USB Hub power lead.
-- [ ] shutter ssr40dd only shows its light for two seconds then goes off. no power supplied to dome stepper. this was testing the already open feature when power comes on. **I suspect from testing with the simulator, that the oen position is not set - use queryop and setop and try again. Chheck the emergency stop button on the HC too**
-- [ ] Re the above SSR40DD point - . A value of zero for open position in the simulator seemed to reproduce the problem.
+- [ ] shutter ssr40dd only shows its light for two seconds then goes off. no power supplied to dome stepper. this was testing the already open feature when power comes on. **I suspect from testing with the simulator, that the open position is not set - use queryop and setop and try again. Check the emergency stop button on the HC too**  A value of zero for open position in the simulator seemed to reproduce the problem.
+- [ ] 
 - [ ] usb hub failure - the monitor would not connect but would connect when the control box was directly connected to nuc port. The on / off switch has stopped working too.
 - [ ] Take some daytime images with the lodestar connected to see if it stays connected in PHD2, and also that the image quality is good.  Then - see next item below:
 - [ ] Connect the SX camera USB directly to the NUC - this can be done by removing the mouse USB transmitter to the HUB
