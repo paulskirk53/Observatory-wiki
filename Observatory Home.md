@@ -13,60 +13,9 @@ The Obsidian vault is synced with Git so commits and pushes to the paulskirk53 r
 | <h2>Programming</h2>                                                                                               | <h2>User Guide</h2>                                                                                                                                                                   |
 | - [[Dome Driver]]<br>- [[Dome Shutter]]<br>- [[monitor Program]]<br>- [[code repositories]]<br>- <br>-             | - [[User guide]]<br>-                                                                                                                                                                 |
 | <h2>To Do</h2>                                                                                                     | <h2>Techniques</h2>                                                                                                                                                                   |
-| - [[Todo]]<br>-                                                                                                    | - [[Plate Solving - ASTAP]]<br>-                                                                                                                                                      |
+| - [[Todo]]<br>-                                                                                                    | - [[Plate Solving - ASTAP]]<br>- [[Image Processing]]<br>-                                                                                                                            |
 |                                                                                                                    |                                                                                                                                                                                       |
 
 Use <> with h2 inside for heading in the table end te heading with <> with /h2 inside the brackets
 for a line break within a cell use <> with br inside
-
-## Equipment
-- [[Telescope C14]]
-- [[Camera]]
-- [[Camera Rotator]]
-- [[Focuser]]
-- [[MESU Mount]]
-- 
-## Electronics
-- [[Control Boxes]]
-- [[Power Switches]]
-- [[Laser Sync]]
-- [[Shaft Encoder]]
-- [[USB to Serial Converters]]
-## Power Supply Context
-- [[Power Introduction]]
-- More info on [[Power Supply]] DC boost and voltage monitoring.
-- 
-## Software
-- [[Remote session management]]
-- [[Autoguiding]]
-- [[Sequence Generator Pro]]
-- [[ASCOM]]
-- [[Dome Driver]]
-- [[monitor Program]]
-- [[Plate Solving - ASTAP]]
-- 
-## Programming
-- [[Dome Driver]]
-- [[Dome Shutter]]
-- [[monitor Program]]
-- [[code repositories]]
-- 
-## User Guide
-[[User guide]]
-
-## To Do
-[[Todo]]
-
-
-
-
-
-
-
-
-
-
-
-
-
 
