@@ -1,5 +1,10 @@
 **Newest entries at top**
-
+**19-4-2025**
+see the [[Todo]] page for problems found recently e.g. 
+- failed USB hub leading to lodestar lost connection - I connected the SX H814C hub with a different cable directly to NUC and took some daylight pictures using PHD2 0.02 sec exposures. The camera kept its connection and images were good if a little out of focus as to be expected.
+- the shutter code needs debug due to power failure.
+- 
+[[Observatory Home]]
 **16-4-2025**
 A clear night PA looks good as a 30 sec main cam image showed nice round stars.  Remote management worked, I plate solved from home, but the Lodestar failed to download images - an error was posted by PHD2 - see the snip on NUC desktop. End of observing session.
 The other irritting probelm is that when platesolving using control panel in SGP, SGP complains that binning is incorrect (!) and scraps the values of scale factor, so I have to enter the FL and pixel size for the main Camera again and click the calc button to get the scale - which is the same as it was before of course. See NUC desktop for snip of error. See [[Todo]] for actions related to this post.

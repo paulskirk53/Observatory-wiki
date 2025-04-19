@@ -3,5 +3,7 @@
   "accentColor": "#5fbbec",
   "textFontFamily": "Calibri",
   "baseFontSize": 20,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "Background-colour"
+  ]
 }
