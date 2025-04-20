@@ -21,8 +21,13 @@ diagram of sensor
         |---------|
        GND       (E)
 Higher value R increases sensitivity but may introduce noise
-example code from copilot:
 
+I built the diagram below using circuit-diagram.org [link](https://www.circuit-diagram.org/editor/)
+
+![[Laser Sensor.PNG]]
+
+example code from copilot:
+```
 int sensorPin = A0; // Analog pin connected to phototransistor output
 int sensorValue;
 
@@ -35,6 +40,6 @@ void loop() {
   Serial.println(sensorValue);         // Print the value to monitor response
   delay(100);                          // Small delay for readability
 }
-
+```
 
 [[Observatory Home]]
