@@ -3,13 +3,38 @@ A laser and sensor are used to detect the sync position of the dome. Sync is use
 
 ### Devices
 * Laser transmitter
-
+- 650nm wavelength
 
 * Laser Sensor
 
+- SFH 300 Phototransistor
 
+diagram of sensor
 
+       +5V
+        |
+        R (1kΩ - 10kΩ)
+        |
+        |-------> Output Signal to Arduino (analog input)
+    (C) |
+           SFH 300
+        |---------|
+       GND       (E)
+Higher value R increases sensitivity but may introduce noise
+example code from copilot:
 
+int sensorPin = A0; // Analog pin connected to phototransistor output
+int sensorValue;
+
+void setup() {
+  Serial.begin(9600);
+}
+
+void loop() {
+  sensorValue = analogRead(sensorPin);  // Read the phototransistor signal
+  Serial.println(sensorValue);         // Print the value to monitor response
+  delay(100);                          // Small delay for readability
+}
 
 
 [[Observatory Home]]
