@@ -1,7 +1,7 @@
 22-4-2025
 a better way to set the switch up if the shutter returns CONNECTED to the Master radio request for connection, set a bool BTConnected= true;
 
-what we want to achieve is if the BT is not working the master radio can return shuter 'open' so that the dome can connect and imaging can continue.
+what we want to achieve is if the BT is not working the master radio can return shutter 'open' so that the dome can connect and imaging can continue.
 
 So in the if clause which tests if the dome driver has requested shutter status, test if BTConnected=false and if so sendviascom open
 
