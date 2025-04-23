@@ -11,6 +11,8 @@ AVR4809 layout:
 look at the markdown below to add a link to a SS in the assets folder
 [Link to Excel Spreadsheet]("C:\Observatory\Observatory wiki\Assetscontrol_box_pinout.xlsx")
 
+AVR4809 40 pin variant [pinout](https://github.com/MCUdude/MegaCoreX?tab=readme-ov-file) on Megacorex website
+
 
 
 Archived - Control Box 
