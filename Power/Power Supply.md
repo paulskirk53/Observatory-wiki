@@ -13,7 +13,7 @@ The devices powered are Sitech controller, H814c and Lodestar Cameras, Microtouc
 
 **Battery Voltage monitoring**
 There is no voltage monitoring at present, but see [here](https://www.re-innovation.co.uk/docs/accurate-voltage-measurment/)
-
+The resistor vlues for 
 basic voltage divider diagram from the link above:
 
 ![[Voltage divider circuit.png|500x600]]
