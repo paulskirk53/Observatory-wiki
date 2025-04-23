@@ -25,12 +25,14 @@
             "id": "dd332ff5b7772a5b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Electronics/Control Boxes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "Control Boxes"
             }
           },
           {
@@ -238,6 +240,8 @@
   },
   "active": "dd332ff5b7772a5b",
   "lastOpenFiles": [
+    "Assets/~$control_box_pinout.xlsx",
+    "Computer Control/Dome  Automation.md",
     "Observatory Home.md",
     "Diaries/Technical diary - Programming.md",
     "Laser Sync.md",
@@ -261,10 +265,8 @@
     "USB to Serial Converters.md",
     "Power Introduction.md",
     "Power/Power Supply.md",
-    "Computer Control/Dome  Automation.md",
     "Computer Control/Computer Control Overview.md",
     "The Dome building.md",
-    "Shaft Encoder.md",
     "Assets/control_box_pinout.xlsx",
     "Assets/20-80v-24-72a-digital-stepper-motor-driver-nema-34-datasheet.pdf",
     "Assets/SSR-40DD.pdf",
