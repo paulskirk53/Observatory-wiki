@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Power/Power Supply.md",
+                "file": "Todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Power Supply"
+              "title": "Todo"
             }
           },
           {
@@ -241,8 +241,8 @@
   "active": "dd332ff5b7772a5b",
   "lastOpenFiles": [
     "Observatory Home.md",
-    "Electronics/Control Boxes.md",
     "Power/Power Supply.md",
+    "Electronics/Control Boxes.md",
     "Assets/Voltage divider circuit.PNG",
     "Assets/~$control_box_pinout.xlsx",
     "Computer Control/Dome  Automation.md",

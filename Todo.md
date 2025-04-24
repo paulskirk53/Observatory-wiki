@@ -2,9 +2,13 @@
 # To-Do -Current, tick when complete
 link to [[Fault & Problem log]]
 
+- [ ] take up the new encoder wheel housing & fix in place need drill & power driver
+- [ ] 
+- [ ] install and solder up the three new banana sockets on control box.
+- [ ] Check the power supply cable to the USB hub to see it is properly intact
 - [ ] ~={red} 22-4-25: IMPORTANT=~ Upload the new code to shutter on next visit - the BT connection will not work without this upload. The matching Master radio code  was uploaded at home 22-4-25
 - [ ] Check the battery voltage of the shutter power battery
-- [ ] Check that the epever USB sockets supply from the battery NOT the solar
+- [x] Check that the epever USB sockets supply from the battery NOT the solar - **checked on AI - powered from battery**
 - [ ] found leak at seam to left of shutter drips coming in. it looks like it is the seam as fingers either side if up near the wheels stayed dry.dome seam not collar seam.
 - [x] Check voltage at the USB Hub power lead. done 12.6v
 - [ ] shutter ssr40dd only shows its light for two seconds then goes off. no power supplied to dome stepper. this was testing the already open feature when power comes on. **I suspect from testing with the simulator, that the open position is not set - use queryop and setop and try again. Check the emergency stop button on the HC too**  A value of zero for open position in the simulator seemed to reproduce the problem. ~={green}**Done** queryop reports open position as 5000 ....=~
