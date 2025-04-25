@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telescope C14.md",
+                "file": "Observatory Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Telescope C14"
+              "title": "Observatory Home"
             }
           },
           {
@@ -255,6 +255,8 @@
   },
   "active": "bd7c40bb1b70b8ad",
   "lastOpenFiles": [
+    "Telescope C14.md",
+    "Astronomy Equipment/Camera.md",
     "Observatory Home.md",
     "Computer Control/Dome  Automation.md",
     "Astronomy Software/Dome Driver.md",
@@ -271,7 +273,6 @@
     "Assets/Laser Sensor.PNG",
     "Astronomy Software/ASCOM.md",
     "Image Processing.md",
-    "Astronomy Equipment/Camera.md",
     "Astronomy Equipment/H814C Camera and Log.md",
     "Telescope Specifications.md",
     "code repositories.md",
@@ -283,7 +284,6 @@
     "Master Radio control box.md",
     "USB to Serial Converters.md",
     "Power Introduction.md",
-    "Computer Control/Computer Control Overview.md",
     "Assets/control_box_pinout.xlsx",
     "Assets/20-80v-24-72a-digital-stepper-motor-driver-nema-34-datasheet.pdf",
     "Assets/SSR-40DD.pdf",
