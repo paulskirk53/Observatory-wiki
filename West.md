@@ -14,6 +14,10 @@ Why am I writing this? To try to get my own head around it. When is west not wes
 **Key Part**
 So if we set the scope counterweight down and scope pointing due west and levelled with a spiritual level, the scope azimuth will be due west 270 degrees. If we arrange the dome aperture to align with the scope so that the scope 'sees' out of the aperture, what is the dome azimuth ? I have no idea, but it's not due west 270 degrees. Empirical testing has shown that the software which controls the dome positioning taking into account the scope azimuth - software such as [[Sequence Generator Pro]] or [[ASCOM Device hub]] requests the dome to move to Azimuth position 255 degrees. There is no way to know what are the equivalent azimuth positions for the scope and dome, but they are NOT the same due to the GEM offsets.
 
-**Why is this so tiresome?** Well, the answer lies in two places. One is te
+**Why is this so tiresome?** Well, the answer lies in two places. 
+- One is the dome 'park position' - which is set in the ASCOM dome driver setup dialog which also of course relates to a physical position of the dome, 
+- and the other is that an azimuth figure has to be set in the control box microcontroller software and this also equates to a position of the dome.
+So I think the solution is to position the scope due west and initialise it there, set park and park. Then physically align the dome aperture with the scope so the scope can 'see' out of the aperture. This is dome azimuth 255 de 
+
 
 
