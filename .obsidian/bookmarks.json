@@ -5,6 +5,60 @@
       "ctime": 1745617453761,
       "path": "Observatory Home.md",
       "title": "Contents page"
+    },
+    {
+      "type": "group",
+      "ctime": 1745618362807,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1745618463185,
+          "path": "Telescope C14.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1745618527225,
+          "path": "Astronomy Equipment/Camera.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1745618546881,
+          "path": "Astronomy Equipment/Camera Rotator.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1745618564505,
+          "path": "Astronomy Equipment/Focuser.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1745618584120,
+          "path": "Astronomy Equipment/MESU Mount.md"
+        }
+      ],
+      "title": "Equipment"
+    },
+    {
+      "type": "group",
+      "ctime": 1745618654468,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1745618681850,
+          "path": "Electronics/Control Boxes.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1745618710176,
+          "path": "Power Switches.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1745618737338,
+          "path": "Laser Sync.md"
+        }
+      ],
+      "title": "Electronics"
     }
   ]
 }
