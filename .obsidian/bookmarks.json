@@ -56,9 +56,36 @@
           "type": "file",
           "ctime": 1745618737338,
           "path": "Laser Sync.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1745618759736,
+          "path": "Shaft Encoder.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1745618782741,
+          "path": "USB to Serial Converters.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1745618808481,
+          "path": "Bluetooth.md"
         }
       ],
       "title": "Electronics"
+    },
+    {
+      "type": "group",
+      "ctime": 1745618845761,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1745618863698,
+          "path": "Bluetooth.md"
+        }
+      ],
+      "title": "Programming"
     }
   ]
 }
