@@ -10,7 +10,7 @@ The other point of relevance is the intersection of the RA and DEC axes. This is
 
 I took four readings, two with a carefully centralised plumb bob hanging down from the top of the dome aperture. It coincided nicely with the cross strings. The readings need to be averaged.
 
-Here are the measurements - DO is Dome Origin and Point 'A' is the RA/ DEC intersection. All measurements in mm, but it matters not as long as the same measurement unit is used throughout...
+Here are the pairs of measurements - DO is Dome Origin and Point 'A' is the RA/ DEC intersection. All measurements in mm, but it matters not as long as the same measurement unit is used throughout...
 
 First pair:
 1. 'A' is 90 North of DO
@@ -37,12 +37,12 @@ Average 965
 The dome Origin for vertical measurement is 1100mm from the top down vertically, so point 'A' is 1100- 965 = 135 UP from the DO
 
 **Summary**
-in SGP and also in the ASCOM device hub enter the following figures in mm
+in SGP and also in the ASCOM device hub (which we sometimes use ) enter the following figures in mm
 N/S enter 99 (north +ve)
 E/W enter -9  (minus 9 as west is defined as -ve)
 U/D enter 135 Up defined as +ve
 
-
+[[Observatory Home]]
 
 **Use of SGPro Sync function** in Observatory panel:
 
