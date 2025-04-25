@@ -9,6 +9,11 @@ GEM offsets describe the difference  in the positions of the Dome Origin (DO) an
 - The TMO is the intersection of the RA axis and the DEC axis. Generally it's not an easy spot to define and brain power is needed.
 Our process is described here [[Dome  Automation]] and the page identifies the GEM offsets required for our setup with the Pulsar Dome and [[MESU200 mount]]. 
 
+Why am I writing this? To try to get my own head around it. When is west not west? when its affected aby a GEM offset. 
 
+**Key Part**
+So if we set the scope counterweight down and scope pointing due west and levelled with a spiritual level, the scope azimuth will be due west 270 degrees. If we arrange the dome aperture to align with the scope so that the scope 'sees' out of the aperture, what is the dome azimuth ? I have no idea, but it's not due west 270 degrees. Empirical testing has shown that the software which controls the dome positioning taking into account the scope azimuth - software such as [[Sequence Generator Pro]] or [[ASCOM Device hub]] requests the dome to move to Azimuth position 255 degrees. There is no way to know what are the equivalent azimuth positions for the scope and dome, but they are NOT the same due to the GEM offsets.
+
+**Why is this so tiresome?** Well, the answer lies in two places. One is te
 
 
