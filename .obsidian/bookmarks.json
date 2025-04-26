@@ -34,6 +34,11 @@
           "type": "file",
           "ctime": 1745618584120,
           "path": "Astronomy Equipment/MESU Mount.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1745700931814,
+          "path": "Dongle Data Plan.md"
         }
       ],
       "title": "Equipment"
@@ -83,9 +88,36 @@
           "type": "file",
           "ctime": 1745618863698,
           "path": "Bluetooth.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1745701352840,
+          "path": "Astronomy Software/Dome Driver.md"
         }
       ],
       "title": "Programming"
+    },
+    {
+      "type": "group",
+      "ctime": 1745701240940,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1745701285165,
+          "path": "Astronomy Software/ASCOM.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1745701312313,
+          "path": "Astronomy Software/Autoguiding.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1745701338412,
+          "path": "Astronomy Software/Dome Driver.md"
+        }
+      ],
+      "title": "Astronomy Software"
     }
   ]
 }
