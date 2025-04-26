@@ -74,7 +74,16 @@ If your telescope is correctly pointing at an object but the dome aperture is mi
 By syncing the dome's azimuth to its true position, you correct any discrepancies between the dome's reported position and its actual orientation. This ensures accurate alignment for the rest of your session. Let me know if you'd like further clarification!
 
 
+possible query to ascom developer hgroup
+Hi All,
 
+I think I need to know the formula used to calculate dome azimuth from scope azimuth so that I can properly initialise the dome in the right place.
+
+For example, at the start of an imaging session, I roughly initialise my scope (GEM Mount) counterweight down and scope optical axis horizontal looking at azimuth 270 degrees. I can physically align the dome aperture with the scope, no problem, but what azimuth is that? It's not 270, mostly because of the GEM axis offset, which on my setup is 500mm (14 inch SCT).
+
+Is the formula used available anywhere ?
+
+I'm using a workaround which is to use an initial dome azimuth of 270 and then sync the dome to the scope. As part of the sync, the dome receives a request to move to 255 degrees, at which point I manually align the dome aperture with the scope without changing the shaft encoder which measures dome azimuth. I could hard code 255 into my microcontroller but that wouldn't be a good idea....
 
 
 return to [[Observatory Home]] home page

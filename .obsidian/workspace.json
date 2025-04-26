@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "West.md",
+                "file": "Computer Control/Dome  Automation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "West"
+              "title": "Dome  Automation"
             }
           },
           {
@@ -254,11 +254,12 @@
   },
   "active": "bd7c40bb1b70b8ad",
   "lastOpenFiles": [
-    "Astronomy Equipment/MESU Mount.md",
+    "Astronomy Software/Dome Driver.md",
+    "Observatory Home.md",
     "West.md",
+    "Astronomy Equipment/MESU Mount.md",
     "MESU200 mount.md",
     "Bluetooth.md",
-    "Observatory Home.md",
     "USB to Serial Converters.md",
     "Shaft Encoder.md",
     "Laser Sync.md",
@@ -269,7 +270,6 @@
     "Astronomy Equipment/Camera Rotator.md",
     "Astronomy Equipment/Focuser.md",
     "Computer Control/Dome  Automation.md",
-    "Astronomy Software/Dome Driver.md",
     "Diaries/Fault & Problem log.md",
     "Lenses for ASTRO.md",
     "Todo.md",
