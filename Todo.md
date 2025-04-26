@@ -5,7 +5,7 @@ link to [[Fault & Problem log]]
 - [ ] install a banana plug in top of DC boost box.
 - [ ] take up the new encoder wheel housing & fix in place need drill & power driver
 - [ ] Take up the master radio
-- [ ] install and solder up the three new banana sockets on control box.
+- [x] install and solder up the three new banana sockets on control box.
 - [ ] Check the power supply cable to the USB hub to see it is properly intact
 - [ ] ~={red} 22-4-25: IMPORTANT=~ Upload the new code to shutter on next visit - the BT connection will not work without this upload. The matching Master radio code  was uploaded at home 22-4-25
 - [ ] Check the battery voltage of the shutter power battery
