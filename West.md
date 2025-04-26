@@ -17,7 +17,12 @@ So if we set the scope counterweight down and scope pointing due west and levell
 **Why is this so tiresome?** Well, the answer lies in two places. 
 - One is the dome 'park position' - which is set in the ASCOM dome driver setup dialog which also of course relates to a physical position of the dome, 
 - and the other is that an azimuth figure has to be set in the control box microcontroller software and this also equates to a position of the dome.
-So I think the solution is to position the scope due west and initialise it there, set park and park. Then physically align the dome aperture with the scope so the scope can 'see' out of the aperture. This is dome azimuth 255 de 
+So I think the solution is to position the scope due west and initialise it there, set park and park. Then physically align the dome aperture with the scope so the scope can 'see' out of the aperture. This is dome azimuth 255 degrees so this needs to be the value to which the shaft encoder is initialised in the control box software.
+
+Does it matter if the software initialises to any other number? to be continued....
+
+
+
 
 
 
