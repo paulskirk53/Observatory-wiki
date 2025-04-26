@@ -115,9 +115,25 @@
           "type": "file",
           "ctime": 1745701338412,
           "path": "Astronomy Software/Dome Driver.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1745701505118,
+          "path": "Astronomy Software/Plate Solving - ASTAP.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1745701524358,
+          "path": "Astronomy Software/Sequence Generator Pro.md"
         }
       ],
       "title": "Astronomy Software"
+    },
+    {
+      "type": "group",
+      "ctime": 1745701576675,
+      "items": [],
+      "title": "Power Supply"
     }
   ]
 }
