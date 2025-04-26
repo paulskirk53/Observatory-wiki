@@ -76,6 +76,11 @@
           "type": "file",
           "ctime": 1745618808481,
           "path": "Bluetooth.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1745704403812,
+          "path": "Programming/EEPROM Use.md"
         }
       ],
       "title": "Electronics"
@@ -93,6 +98,16 @@
           "type": "file",
           "ctime": 1745701352840,
           "path": "Astronomy Software/Dome Driver.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1745704380769,
+          "path": "Programming/EEPROM Use.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1745704435803,
+          "path": "Programming/Programming useful snips.md"
         }
       ],
       "title": "Programming"
