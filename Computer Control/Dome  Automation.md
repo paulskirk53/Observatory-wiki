@@ -2,13 +2,15 @@ There is an **ascom Dome device driver** I wrote, it is called pauldomeinC. Load
 There are also programs which receive data (commands and requests) from the ASCOM driver and carry them out. e.g. the ASCOM dome driver might get a request from the SGP client to slew to a particular azimuth. It passes this request to the microcontroller which drives the stepper motor and monitors the shaft encoder. All these programs reside on microcontrollers - Arduino Mega2560 and AVR4809
 All the code is on github remote and also on the local machines (NUC  & Dev) I have kept them all up to date and the Master branch is always the current version.
 
-For the automation to work properly in terms of syncing the dome aperture with the telescope pointing direction, there are offsets. This concept arises because the telescope centre is very unlikely to be the same as the Dome origin.
+**GEM Offsets**
+For the automation to work properly in terms of syncing the dome aperture with the telescope pointing direction, there are offsets. This concept arises because the telescope centre is very unlikely to be the same as the Dome origin. To really tangle up your brain, see this note ( [[West]] ) which refers the reader back to this note for the GEM offset identification process described below....
+
 So on 10th April 2025, I set up strings inside the dome tied to sticks clamped onto the dome perimeter. I used two at right angles and where they cross is the Dome origin.
 The other point of relevance is the intersection of the RA and DEC axes. This isn't easy to pinpoint as it's inside the intersection point of the RA and DEC shafts. You need to estimate carefully.
 
 I took four readings, two with a carefully centralised plumb bob hanging down from the top of the dome aperture. It coincided nicely with the cross strings. The readings need to be averaged.
 
-Here are the measurements - DO is Dome Origin and Point 'A' is the RA/ DEC intersection. All measurements in mm
+Here are the pairs of measurements - DO is Dome Origin and Point 'A' is the RA/ DEC intersection. All measurements in mm, but it matters not as long as the same measurement unit is used throughout...
 
 First pair:
 1. 'A' is 90 North of DO
@@ -35,12 +37,12 @@ Average 965
 The dome Origin for vertical measurement is 1100mm from the top down vertically, so point 'A' is 1100- 965 = 135 UP from the DO
 
 **Summary**
-in SGP and also in the ASCOM device hub enter the following figures in mm
+in SGP and also in the ASCOM device hub (which we sometimes use ) enter the following figures in mm
 N/S enter 99 (north +ve)
 E/W enter -9  (minus 9 as west is defined as -ve)
 U/D enter 135 Up defined as +ve
 
-
+[[Observatory Home]]
 
 **Use of SGPro Sync function** in Observatory panel:
 
@@ -72,7 +74,16 @@ If your telescope is correctly pointing at an object but the dome aperture is mi
 By syncing the dome's azimuth to its true position, you correct any discrepancies between the dome's reported position and its actual orientation. This ensures accurate alignment for the rest of your session. Let me know if you'd like further clarification!
 
 
+possible query to ascom developer hgroup
+Hi All,
 
+I think I need to know the formula used to calculate dome azimuth from scope azimuth so that I can properly initialise the dome in the right place.
+
+For example, at the start of an imaging session, I roughly initialise my scope (GEM Mount) counterweight down and scope optical axis horizontal looking at azimuth 270 degrees. I can physically align the dome aperture with the scope, no problem, but what azimuth is that? It's not 270, mostly because of the GEM axis offset, which on my setup is 500mm (14 inch SCT).
+
+Is the formula used available anywhere ?
+
+I'm using a workaround which is to use an initial dome azimuth of 270 and then sync the dome to the scope. As part of the sync, the dome receives a request to move to 255 degrees, at which point I manually align the dome aperture with the scope without changing the shaft encoder which measures dome azimuth. I could hard code 255 into my microcontroller but that wouldn't be a good idea....
 
 
 return to [[Observatory Home]] home page

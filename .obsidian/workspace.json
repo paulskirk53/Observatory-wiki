@@ -34,6 +34,20 @@
             }
           },
           {
+            "id": "f1cf3e44ff7f89c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "62f3f30ac0043027",
             "type": "leaf",
             "state": {
@@ -76,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,8 +250,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab9399b0e1cec38e",
+  "active": "f1cf3e44ff7f89c0",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "West.md",
+    "MESU200 mount.md",
+    "Lenses for ASTRO.md",
+    "Dongle Data Plan.md",
     "Observatory Home.md",
     "Laser Sync.md",
     "Assets/Laser Sensor.PNG",
@@ -260,10 +279,6 @@
     "USB to Serial Converters.md",
     "Power Introduction.md",
     "Power/Power Supply.md",
-    "Computer Control/Dome  Automation.md",
-    "Computer Control/Computer Control Overview.md",
-    "The Dome building.md",
-    "Shaft Encoder.md",
     "Assets/control_box_pinout.xlsx",
     "Assets/20-80v-24-72a-digital-stepper-motor-driver-nema-34-datasheet.pdf",
     "Assets/SSR-40DD.pdf",

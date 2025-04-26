@@ -1,4 +1,2 @@
 
-
-
 [[Observatory Home]]
