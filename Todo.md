@@ -2,6 +2,7 @@
 # To-Do -Current, tick when complete
 link to [[Fault & Problem log]]
 
+- [ ] bring the camera back for sale
 - [ ] Take up the jtag2updi programmer and install new ticks per dome rev code.
 - [ ] install a banana plug in top of DC boost box.
 - [x] take up the new encoder wheel housing & fix in place need drill & power driver
