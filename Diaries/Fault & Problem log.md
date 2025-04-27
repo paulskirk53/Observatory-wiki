@@ -1,4 +1,10 @@
-**Newest entries at top**
+**Newest entries at top**     see here for [[Todo]]  and here for [[Long term todo]]
+[[Observatory Home]]
+
+**27-4-25**
+The shutter code persists in being problematic. The fix applied which noted that the wdt was updated before the timer was enabled seems to have been a red herring. The shutter still does not work. Needs more brain power.
+
+
 **19-4-2025**
 see the [[Todo]] page for problems found recently e.g. 
 - failed USB hub leading to lodestar lost connection - I connected the SX H814C hub with a different cable directly to NUC and took some daylight pictures using PHD2 0.02 sec exposures. The camera kept its connection and images were good if a little out of focus as to be expected.
