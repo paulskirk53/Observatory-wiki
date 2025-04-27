@@ -1,7 +1,7 @@
 
 # To-Do -Current, tick when complete
 link to [[Fault & Problem log]]
-
+Immediate todo below:            [[Long term todo]]
 - [ ] try the shutter with 24 v power, but with the arduio powered from the nuc.
 - [ ] bring the camera back for sale
 - [ ] Take up the jtag2updi programmer and install new ticks per dome rev code.
