@@ -2,15 +2,17 @@
 # To-Do -Current, tick when complete
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]
-- [ ] try the shutter with 24 v power, but with the arduio powered from the nuc.
-- [ ] bring the camera back for sale
+- [ ] Take up the Victron inverter and a multi plug
+- [ ] try the shutter with 24 v power, but with the arduino powered from the nuc.
+- [ ] Take up camera
+- [x] bring the camera back for sale
 - [ ] Take up the jtag2updi programmer and install new ticks per dome rev code.
 - [ ] install a banana plug in top of DC boost box.
 - [x] take up the new encoder wheel housing & fix in place need drill & power driver
 - [x] Take up the master radio
 - [x] install and solder up the three new banana sockets on control box.
-- [ ] Check the power supply cable to the USB hub to see it is properly intact
-- [ ] ~={red} 22-4-25: IMPORTANT=~ Upload the new code to shutter on next visit - the BT connection will not work without this upload. The matching Master radio code  was uploaded at home 22-4-25
+- [x] Check the power supply cable to the USB hub to see it is properly intact
+- [x] ~={red} 22-4-25: IMPORTANT=~ Upload the new code to shutter on next visit - the BT connection will not work without this upload. The matching Master radio code  was uploaded at home 22-4-25
 - [ ] Check the battery voltage of the shutter power battery
 - [x] Check that the epever USB sockets supply from the battery NOT the solar - **checked on AI - powered from battery**
 - [ ] found leak at seam to left of shutter drips coming in. it looks like it is the seam as fingers either side if up near the wheels stayed dry.dome seam not collar seam.
