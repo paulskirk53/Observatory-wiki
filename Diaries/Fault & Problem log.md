@@ -1,5 +1,10 @@
 **Newest entries at top**     see here for [[Todo]]  and here for [[Long term todo]]
 [[Observatory Home]]
+28-4-25
+I have had a difficiult day and finally decided that the SXH814C has to go. It wouldn't connect when run from a 12V battery (no DC boost), so that's it.
+I intend to go back to the Canon EOS for now the backfocus is 44mm compared to SX 17mm, so the focus position will be 27 mm further in and this means the  lodestar will be further out - it may not be able to get out by  27mm, so an axtension tube may be necessary.
+
+THe other thing was that the toothed wheel was not a T10, so it didn't work on the toothed belt, so reverting back to friction wheel for now.
 
 **27-4-25**
 The shutter code persists in being problematic. The fix applied which noted that the wdt was updated before the timer was enabled seems to have been a red herring. The shutter still does not work. Needs more brain power.
