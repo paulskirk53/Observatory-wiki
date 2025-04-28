@@ -4,7 +4,8 @@ link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]
 - [ ] Take up the Victron inverter and a multi plug
 - [ ] try the shutter with 24 v power, but with the arduino powered from the nuc.
-- [ ] Take up camera
+- [ ] Take up Canon camera, its PSU, long camera usb cable & connection piece
+- [ ] need to buy a 2 metre cable for connecting the lodestar.
 - [x] bring the camera back for sale
 - [ ] Take up the jtag2updi programmer and install new ticks per dome rev code.
 - [ ] install a banana plug in top of DC boost box.
