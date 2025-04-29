@@ -8,7 +8,7 @@ Immediate todo below:            [[Long term todo]]
 - [ ] Install New encoder wheel
 - [ ] try the shutter with 24 v power, but with the arduino powered from the nuc.
 - [ ] Take up Canon camera, its PSU, long camera usb cable & connection piece
-- [ ] need to buy a 2 metre cable for connecting the lodestar.
+- [ ] use the usb extender or buy a 2 metre cable for connecting the lodestar.
 - [x] bring the camera back for sale
 - [ ] Take up the jtag2updi programmer and install new ticks per dome rev code.
 - [ ] install a banana plug in top of DC boost box.
