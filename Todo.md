@@ -3,9 +3,9 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]
 
-- [ ] Take up the Victron inverter and a multi plug
-- [ ] check if USb for lodestar is in plastic box - can use cable extender if needs be.
-- [ ] Install New encoder wheel
+- [x] Take up the Victron inverter and a multi plug
+- [x] check if USb for lodestar is in plastic box - can use cable extender if needs be.
+- [x] Install New encoder wheel
 - [ ] try the shutter with 24 v power, but with the arduino powered from the nuc.
 - [ ] Take up Canon camera, its PSU, long camera usb cable & connection piece
 - [ ] use the usb extender or buy a 2 metre cable for connecting the lodestar.
