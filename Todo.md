@@ -3,7 +3,10 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]
 
-- [x] Take up the Victron inverter and a multi plug
+- [ ] Check the ansvr solve for which index was used
+- [ ] optimise ansvr for index files
+- [ ] check astap settings on NUC
+- [ ] Take up the Victron inverter and a multi plug
 - [x] check if USb for lodestar is in plastic box - can use cable extender if needs be.
 - [x] Install New encoder wheel
 - [ ] try the shutter with 24 v power, but with the arduino powered from the nuc.
