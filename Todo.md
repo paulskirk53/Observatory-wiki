@@ -3,7 +3,10 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]
 
-- [ ] Check the ansvr solve for which index was used
+- [ ] rerun the image on  nuc through ansvr and note index file used. ditto images on dev
+- [ ] Keep indexes n, n+1 and n-1 where n is the one that solves.
+- [ ] look at Han's email of 1st May 2025 for settings to use on ASTAP and the process for saving them in SATP
+- [x] Check the ansvr solve for which index was used
 - [ ] optimise ansvr for index files
 - [ ] check astap settings on NUC
 - [ ] Take up the Victron inverter and a multi plug

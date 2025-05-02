@@ -1,5 +1,9 @@
 We use ASTAP and ANSVR
 
+# ANSVR
+
+**Index file locations**
+the ANSVR astrometry files are not stored in the normal location, they are in c:\astrometry\data
 
 **ANSVR - from copilot**
 ### **Optimizing Index Files**
@@ -10,7 +14,7 @@ To limit ANSVR’s search time:
     
 2. **Remove unnecessary indexes** that are clearly outside your field scale range.
     
-3. **Keep one neighboring scale index** (+1 and -1 step) in case of minor variations.
+3. **Keep one neighbouring scale index** (+1 and -1 step) in case of minor variations.
     
 If your setup is stable, reducing the number of active index files should improve solving speed without compromising reliability. Have you checked which specific indexes are being used in your logs yet? That could help fine-tune your selection.
 
