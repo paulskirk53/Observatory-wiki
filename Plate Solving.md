@@ -2,8 +2,13 @@ We use ASTAP and ANSVR
 
 # ANSVR
 
-**Index file locations**
+**Local Index file locations**
 the ANSVR astrometry files are not stored in the normal location, they are in c:\astrometry\data
+
+**Online index files**
+https://data.astrometry.net/4200/
+
+Note that the ANSVR index downloader no longer works :(
 
 **ANSVR - from copilot**
 ### **Optimizing Index Files**
