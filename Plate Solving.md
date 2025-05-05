@@ -35,6 +35,8 @@ As a blind solver, ASTAP will work if radius is set to 180 degrees. Normally hav
 
 As a blind solve failover we use ansvr but it can be slow up to 8 minutes to solve. I am trying to optimise this by removing unused indexes.
 
+ASTAP solved from SGP binning 3x3 in SGP one minute image on nuc starting 5-5-25 
+
 
 
 

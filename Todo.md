@@ -3,6 +3,8 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]
 
+- [ ] Check the meridian flip setting in Sitech
+- [ ] Check if in skyview marking due west and right click > goto recovers the mount.
 - [ ] rerun the image on  nuc through ansvr and note index file used. ditto images on dev
 - [ ] Keep indexes n, n+1 and n-1 where n is the one that solves.
 - [ ] look at Han's email of 1st May 2025 for settings to use on ASTAP and the process for saving them in SATP
