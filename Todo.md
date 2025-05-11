@@ -3,7 +3,8 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]
 
-- [ ] Check the meridian flip setting in Sitech
+- [ ] get sgp log for Ken
+- [ ] Check the meridian flip setting in Sitech don't conflict with SGP - that may have been the problem on 5-5-25
 - [ ] Check if in skyview marking due west and right click > goto recovers the mount.
 - [ ] rerun the image on  nuc through ansvr and note index file used. ditto images on dev
 - [ ] Keep indexes n, n+1 and n-1 where n is the one that solves.
