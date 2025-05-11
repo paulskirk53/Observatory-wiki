@@ -1,5 +1,17 @@
 ## Contents
 
+## [[#Terms]]
+[[#Purpose]]
+[[#Preamble]]
+[[#Considering the Meridian Limit East]]
+[[#Considering the Meridian Limit West]]
+[[#Setting the Limits]]
+[[#Setting the Meridian Limit East]]
+[[#Setting the Meridian Limit West]]
+[[#Other things to consider]]
+[[#Meridian and Mesu - Sitech Forum]]
+[[#Explanation about limits in Sitech]]
+[[#Further advice on limits 18-4-21]]
 
 ## Terms
 In the following description M denotes the meridian, LE denotes the Sitech Meridian limit East and LW denotes the Sitech Meridian limit West.
