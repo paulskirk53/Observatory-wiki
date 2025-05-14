@@ -3,7 +3,8 @@ A laser and sensor are used to detect the sync position of the dome. Sync is use
 
 ### Devices
 * Laser transmitter
-- 650nm wavelength
+- 650nm wavelength pinout S= signal. - = Gnd, middle pin 5V
+- 
 
 * Laser Sensor
 
