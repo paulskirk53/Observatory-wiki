@@ -1,10 +1,12 @@
 
 # To-Do -Current, tick when complete
 link to [[Fault & Problem log]]
-Immediate todo below:            [[Long term todo]]
+Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
 - [ ] get sgp log for Ken
 - [ ] check the PHD2 profile to see that it has the pixel scale of 0.55
+- [ ] set 2x2 binning in camera tab
+- [ ] 
 - [ ] Check the meridian flip setting in Sitech don't conflict with SGP - that may have been the problem on 5-5-25
 - [x] Check if in skyview marking due west and right click > goto recovers the mount.
 - [x] rerun the image on  nuc through ansvr and note index file used. ditto images on dev

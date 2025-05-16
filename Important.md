@@ -9,5 +9,8 @@ Sometimes if there's an error, Sitech loses sync. You can tell by taking an imag
 
 If the mount is parked it goes to a crazy unknown position and is not recoverable except by visiting the observatory and setting the mount counterweight down and scope horizontal facing west (the usual park position).
 
-**Backlash**
+**Focuser Backlash**
 Try about 150 steps - from AI Direction IN works best with SCT apparently
+
+PHD2
+In camera tab, set 2 x 2 binning as If guide stars are **faint**, **2x2 binning** will improve tracking reliability.
