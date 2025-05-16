@@ -1,5 +1,7 @@
 **Newest entries at top**     see here for [[Todo]]  and here for [[Long term todo]]
 [[Observatory Home]]
+
+Get the 
 night of 15th a.m. of 16th May
 Get the sgp log for night of 15th as focuse error : obtained half flux radius of zero twice something must be wrong
 
