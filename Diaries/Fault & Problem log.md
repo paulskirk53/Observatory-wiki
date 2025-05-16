@@ -1,5 +1,10 @@
 **Newest entries at top**     see here for [[Todo]]  and here for [[Long term todo]]
 [[Observatory Home]]
+night of 15th a.m. of 16th May
+Get the sgp log for night of 15th as focuse error : obtained half flux radius of zero twice something must be wrong
+
+
+
 28-4-25
 I have had a difficiult day and finally decided that the SXH814C has to go. It wouldn't connect when run from a 12V battery (no DC boost), so that's it.
 I intend to go back to the Canon EOS for now the backfocus is 44mm compared to SX 17mm, so the focus position will be 27 mm further in and this means the  lodestar will be further out - it may not be able to get out by  27mm, so an axtension tube may be necessary.
