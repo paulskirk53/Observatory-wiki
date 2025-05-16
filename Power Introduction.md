@@ -26,5 +26,9 @@ For the shutter, which is of course on the rotating upper part of the Dome, two 
 	
 [[Observatory Home]]
 
+200AH battery
+https://www.alpha-batteries.co.uk/12v-200ah-expedition-plus-agm-leisure-battery-exp12-200/
+
+
 Tags
 #battery #12volts #DC #Boost #power 
