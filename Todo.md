@@ -4,22 +4,23 @@ link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]
 
 - [ ] get sgp log for Ken
+- [ ] check the PHD2 profile to see that it has the pixel scale of 0.55
 - [ ] Check the meridian flip setting in Sitech don't conflict with SGP - that may have been the problem on 5-5-25
-- [ ] Check if in skyview marking due west and right click > goto recovers the mount.
-- [ ] rerun the image on  nuc through ansvr and note index file used. ditto images on dev
-- [ ] Keep indexes n, n+1 and n-1 where n is the one that solves.
-- [ ] look at Han's email of 1st May 2025 for settings to use on ASTAP and the process for saving them in SATP
+- [x] Check if in skyview marking due west and right click > goto recovers the mount.
+- [x] rerun the image on  nuc through ansvr and note index file used. ditto images on dev
+- [x] Keep indexes n, n+1 and n-1 where n is the one that solves.
+- [x] look at Han's email of 1st May 2025 for settings to use on ASTAP and the process for saving them in SATP
 - [x] Check the ansvr solve for which index was used
-- [ ] optimise ansvr for index files
-- [ ] check astap settings on NUC
-- [ ] Take up the Victron inverter and a multi plug
+- [x] optimise ansvr for index files
+- [x] check astap settings on NUC
+- [x] Take up the Victron inverter and a multi plug
 - [x] check if USb for lodestar is in plastic box - can use cable extender if needs be.
 - [x] Install New encoder wheel
 - [ ] try the shutter with 24 v power, but with the arduino powered from the nuc.
 - [ ] Take up Canon camera, its PSU, long camera usb cable & connection piece
 - [ ] use the usb extender or buy a 2 metre cable for connecting the lodestar.
 - [x] bring the camera back for sale
-- [ ] Take up the jtag2updi programmer and install new ticks per dome rev code.
+- [x] Take up the jtag2updi programmer and install new ticks per dome rev code.
 - [ ] install a banana plug in top of DC boost box.
 - [x] take up the new encoder wheel housing & fix in place need drill & power driver
 - [x] Take up the master radio

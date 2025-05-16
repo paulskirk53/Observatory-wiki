@@ -1,5 +1,6 @@
 
 This is a list of useful stuff
+[[Observatory Home]]
 
 **If the Mount loses Sync during remote observing.**
 Sometimes if there's an error, Sitech loses sync. You can tell by taking an image - say 15 seconds and look for star trails. Also on the Sitech interface it will indicate 'Stopped'
