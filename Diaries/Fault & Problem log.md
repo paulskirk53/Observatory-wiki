@@ -1,7 +1,7 @@
 **Newest entries at top**     see here for [[Todo]]  and here for [[Long term todo]]
 [[Observatory Home]]
 
-Get the log of **night of 16th**  too as focuser error and centering error session finished at  23.34 probably started at 22:00 
+Get the log of **night of 16th**  too as focuser error and centering error when aborting center operation - the dialog stays open and the only option is to kill SGP. Session finished at  23.34 probably started at 22:00 
 from AI re guiding becoming erratic when autofocus runs - as star shapes change, guiding errors creep in. Best to pause guiding. Also dithering conflicts - probably dithering after each autofocus image.
 
 **night of 15th and a.m. of 16th May**
