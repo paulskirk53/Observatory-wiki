@@ -1,9 +1,10 @@
 **Newest entries at top**     see here for [[Todo]]  and here for [[Long term todo]]
 [[Observatory Home]]
 
-Get the 
-night of 15th a.m. of 16th May
-Get the sgp log for night of 15th as focuse error : obtained half flux radius of zero twice something must be wrong
+Get the log of **night of 16th**  too as focuser error and centering error session finished at  23.34 probably started at 22:00 
+
+**night of 15th a.m. of 16th May**
+Get the sgp log for night of 15th as focuser error : obtained half flux radius of zero twice something must be wrong
 
 
 
