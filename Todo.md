@@ -3,9 +3,11 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
-- [ ] check dome and scope alignment with some slews in daytime
-- [ ] check the oag in daylight
-- [ ] check oag fixing as it wobbles
+- [ ] ~={red}On the night of 17th May, guiding was good then bad with no star seemingly available and focussing half flux radius was all over the place, with masses of 'stars' so do the following=~
+	- [ ] check dome and scope alignment with some slews in daytime
+	- [ ] check oag fixing as it wobbles - tighten the grub screw
+
+- [ ] 
 - [ ] check oag depth into image cone
 - [x] get sgp log for Ken
 - [ ] 
