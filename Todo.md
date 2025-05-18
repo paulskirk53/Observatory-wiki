@@ -3,9 +3,13 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
-- [ ] get sgp log for Ken
-- [ ] check the PHD2 profile to see that it has the pixel scale of 0.55
-- [ ] set 2x2 binning in camera tab
+- [ ] check dome and scope alignment with some slews in daytime
+- [ ] check the oag in daylight
+- [ ] check oag fixing as it wobbles
+- [ ] check oag depth into image cone
+- [x] get sgp log for Ken
+- [ ] 
+- [x] set 2x2 binning in camera tab
 - [ ] 
 - [ ] Check the meridian flip setting in Sitech don't conflict with SGP - that may have been the problem on 5-5-25
 - [x] Check if in skyview marking due west and right click > goto recovers the mount.
