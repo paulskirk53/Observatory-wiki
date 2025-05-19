@@ -33,7 +33,8 @@ The above circuit needs the following leads:
 The laser device needs three leads 
 - 5v, Gnd and signal - which turns the laser on / off
 So in total, we need to provide the following leads to the sync device:
-- 5V, Gnd, Signal, o/p from sfh300 to controlbox
+- 5V, Gnd, Signal, o/p from sfh300 to controlbox 5V and Gnd are on the old hall sensor
+A way to do this is to add a terminal block on top of the wooden frame of the Laser.  If the laser is to be left on, then its signal pin can be connected to 5v at the terminal block, leaving just three leads required at the terminal block - 5V, Gnd and o/p
 
 
 
