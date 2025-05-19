@@ -27,6 +27,16 @@ I built the diagram below using circuit-diagram.org [link](https://www.circuit-d
 
 ![[Laser Sensor.PNG]]
 
+The above circuit needs the following leads:
+- 5v & Gnd
+- O/p to the control box (there is a connection on the 4 way terminal block near DM860I)
+The laser device needs three leads 
+- 5v, Gnd and signal - which turns the laser on / off
+So in total, we need to provide the following leads to the sync device:
+- 5V, Gnd, Signal, o/p from sfh300 to controlbox
+
+
+
 example code from copilot:
 ```
 int sensorPin = A0; // Analog pin connected to phototransistor output
