@@ -28,3 +28,7 @@ Try about 150 steps - from AI Direction IN works best with SCT apparently
 - ** recalibrate**
 - star mass detection is deprecated
 - For the **Mesu 200 Mk II**, which is a **friction-drive mount**, backlash is minimal, but enabling **Declination Compensation** can still help refine guiding accuracy. - **careful** as there's a Sitech config setting for it too - don't enable both.
+
+### Battery life 
+on may 19/ 20 battery life was from 9 pm to 01:30
+
