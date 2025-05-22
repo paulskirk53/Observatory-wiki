@@ -10,7 +10,7 @@ Sometimes if there's an error, Sitech loses sync. You can tell by taking an imag
 If the mount is parked it goes to a crazy unknown position and is not recoverable except by visiting the observatory and setting the mount counterweight down and scope horizontal facing west (the usual park position).
 
 **Focuser Backlash**
-Try about 150 steps - from AI Direction IN works best with SCT apparently
+Try about 150 steps - from AI Direction IN works best with SCT apparently. Although checking with AI, primary mirror movement may need backlash set more like between 800 and 1200
 **Autofocus**
 #### use 2 x2 binning - essential
 - get best focus possible manually (could look at HFR in image stats as adjusting)
