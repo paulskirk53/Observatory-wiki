@@ -25,6 +25,7 @@ If your setup is stable, reducing the number of active index files should improv
 
 # ASTAP
 
+Following advice from Han at ASTAP, SGP is now set to 'Bin 3x3 i.e. Downsample 3' with 40 second exposure. Han's other advice also implemented. Sometimes if no solve occurs, just nudging the scope will be enough to get a solve.
 
 **from Han at HNSKY:**
 'You can keep triples on. It slow down a little but your field of view is small. It will switch automatically to quads if  more stars are detected. Just active triples and press once the solve button and ASTAP will remember the setting.
