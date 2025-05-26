@@ -4,7 +4,7 @@ link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
 - [ ] ~={red}On the night of 17th May, guiding was good then bad with no star seemingly available and focussing half flux radius was all over the place, with masses of 'stars' so do the following=~
-	- [ ] check dome and scope alignment with some slews in daytime
+	- [x] check dome and scope alignment with some slews in daytime - done and was good
 	- [ ] check oag fixing as it wobbles - tighten the grub screw
 
 - [ ] 
