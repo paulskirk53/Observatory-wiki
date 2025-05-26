@@ -1,4 +1,4 @@
-
+[[Contents]]
 ## Components required
 
 Ticked items in place:
