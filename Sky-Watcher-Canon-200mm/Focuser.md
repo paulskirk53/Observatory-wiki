@@ -14,3 +14,4 @@ Ticked items in place:
 	- [ ] bolts - ordered on ebay 26-5-25
 - [ ] Arduino - use Mega 2560 see below...
 - [ ] Arduino box - use the one found which accommodates a mega 2560. Tape it to the stepper controller which can be lower down the mount in accessories tray. Just four thin motor control wires feed to the stepper motor.
+- [ ] 
