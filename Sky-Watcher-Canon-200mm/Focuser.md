@@ -11,5 +11,5 @@ Ticked items in place:
 - [ ] Arduino code for interface between stepper controller and ASCOM
 - [ ] Mounting fixings for stepper - 
 	- [ ] plywood 
-	- [ ] bolts
+	- [ ] bolts - ordered on ebay 26-5-25
 - [ ] 
