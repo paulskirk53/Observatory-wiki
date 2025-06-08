@@ -3,6 +3,7 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
+- [ ] Need to do some focus backlash tests during the daytime. It's so light that a restricted aperture is needed - a sheet of play 15 inches square with some lugs on the periphery to hang on the scope and a small  - say 8 inch square hole in the centre. Could also may an overlay so if 8 inch sq lets in too much light a six inch sq overlay might work. I guess the hole has to be larger than the central obstruction. The board in garage with plane hole cutout may be perfect. 
 - [ ] ~={red}On the night of 17th May, guiding was good then bad with no star seemingly available and focussing half flux radius was all over the place, with masses of 'stars' so do the following=~
 	- [x] check dome and scope alignment with some slews in daytime - done and was good
 	- [ ] check oag fixing as it wobbles - tighten the grub screw
