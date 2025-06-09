@@ -1,6 +1,7 @@
 ### Description
 A laser and sensor are used to detect the sync position of the dome. Sync is used to improve accuracy of measuring dome rotation. There might be cumulative errors in measuring azimuth or slippage of the encoder wheel. Sync ensures that once per rotation  (or more if slews pass the sync point), the azimuth angle is synchronised to a known point - the angle used is due east 270 Degrees
 [[Observatory Home]]
+
 ### Devices
 * Laser transmitter
 - 650nm wavelength pinout S= signal. - = Gnd, middle pin 5V
@@ -8,7 +9,7 @@ A laser and sensor are used to detect the sync position of the dome. Sync is use
 
 * Laser Sensor
 
-- SFH 300 Phototransistor
+- SFH 300 Phototransistor datasheet [[SFH 300_EN.pdf]] 
 
 diagram of sensor
 

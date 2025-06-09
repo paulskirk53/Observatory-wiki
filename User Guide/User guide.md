@@ -1,8 +1,9 @@
 When entering the observatory to initialise the equipment for an observing session, the following text describes the workflow. You must be at the observatory to do all the following things, it takes about 10-15 minutes once you've done it a few times. Once the setup is done, all functions can be controlled remotely - see [[Remote session management]].
 
 **Power**
+During 2025, I started to use the victron phoenix 12 | 500 inverter to power the computer, usb hub and sxH814C camera. The stable power seemed to help the camera and the connection problems went away on the new lenovo m720Q computer. The monitor is also powered from the inverter whilst in the observatory.
 Connect the Main 12 volt battery., by closing the switch connected to the positive 12V battery lead. The circuit is protected by a 5 amp fuse which you can see near the switch. Closing this switch provides power to the following:
-NUC 
+Computer 
 Sitech Telescope controller (rocker switch on side of controller)
 USB Hub
 Microtouch Focuser

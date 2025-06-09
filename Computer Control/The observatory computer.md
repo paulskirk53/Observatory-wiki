@@ -1,6 +1,7 @@
 
-The observatory computer is a NUC the password to get into it is 3633
-It runs Windows 11 as of Feb 2025
+The observatory computer used to be a NUC the password to get into it is 3633
+It runs Windows 11 as of Feb 2025 The new computer is a lenovo m720.
+
 It has the ASCOM platform installed (essential for most other programs to integrate)
 
 It also has the following software installed
