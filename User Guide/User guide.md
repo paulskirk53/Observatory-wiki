@@ -31,9 +31,9 @@ That's all for power - a quick summary:
 **Computer connections**
 The computer has a password which is 3633. Connect it as follows power lead, HDMI to monitor, USB cable to USB hub. USB keyboard, mouse. Power up and enter the password. It's windows 11
 
-**Power for the Cameras and rotator**
+**Power for the rotator and focuser**
 The power on / off is controlled in software, so that the devices can be powered off until such times as they are required to take images, which saves battery power. 
-In order to turn on, the program called 'Monitor' ( see [[Remote session management]] ) must be run on the computer in the observatory. This is a windows program I wrote which allows remote monitoring and control of all the observatory functions from home - Pitton Mill Cottage or anywhere that has an internet connection and runs Anydesk.
+In order to turn on, the program called 'Monitor' ( see [[Remote session management]] ) must be run on the computer in the observatory. This is a windows program I wrote which allows remote monitoring of some key aspects of the observatory functions from home, in conjunction with the remote session management software called Anydesk - see below. You can run the observatory from Pitton Mill Cottage or any computer that has an internet connection and runs Anydesk.
 
 Once the monitoring program is running, you'll see the following:
 
@@ -48,6 +48,9 @@ There is nothing else to do with the monitor program at present, note that it's 
 In conjunction with the Monitor program mentioned above, in order to remotely amange the observatory from home, run [[Anydesk]] on both computers. Anydesk is free for personal use
 
 ## Initialising the telescope
+The point of this is to ensure the telescope electronic controller is aligned with the sky. A rough initialistaion can be done as below and is good enough to send the scope to an object which can then be platesolved to get an accurate sky position:
+
+**Rough Inititialisation**
 With the telescope pointing due west and horizontal, align the shutter opening so that the telescope can 'see' out of the Dome aperture. Now, without moving the Dome manually turn the encoder wheel so that it indicates Azimuth 245 degrees. You can see the azimuth value in the monitoring program. Now you need to initialise the Sitech Controller. See here  [[Telescope Initialisation]]
 
 
