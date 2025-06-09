@@ -47,7 +47,7 @@ There is nothing else to do with the monitor program at present, note that it's 
 ## Anydesk - remote operation
 In conjunction with the Monitor program mentioned above, in order to remotely amange the observatory from home, run [[Anydesk]] on both computers. Anydesk is free for personal use
 
-## Initialising the t
+## Initialising the telescope
 With the telescope pointing due west and horizontal, align the shutter opening so that the telescope can 'see' out of the Dome aperture. Now, without moving the Dome manually turn the encoder wheel so that it indicates Azimuth 245 degrees. You can see the azimuth value in the monitoring program. Now you need to initialise the Sitech Controller. See here  [[Telescope Initialisation]]
 
 
