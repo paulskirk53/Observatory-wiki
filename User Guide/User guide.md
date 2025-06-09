@@ -1,17 +1,15 @@
 When entering the observatory to initialise the equipment for an observing session, the following text describes the workflow. You must be at the observatory to do all the following things, it takes about 10-15 minutes once you've done it a few times. Once the setup is done, all functions can be controlled remotely - see [[Remote session management]].
 
 **Power**
-During 2025, I started to use the victron phoenix 12 | 500 inverter to power the computer, usb hub and sxH814C camera. The stable power seemed to help the camera and the connection problems went away on the new lenovo m720Q computer. The monitor is also powered from the inverter whilst in the observatory.
+During 2025, I started to use the victron phoenix 12 | 500 inverter to power the computer, usb hub and sxH814C camera. The stable power seemed to help the camera and the connection problems went away on the new lenovo m720Q computer. The monitor is also powered from the inverter whilst in the observatory. Turn on the inverter at the back panel - do not use eco mode.
+**Other equipment**
 Connect the Main 12 volt battery., by closing the switch connected to the positive 12V battery lead. The circuit is protected by a 5 amp fuse which you can see near the switch. Closing this switch provides power to the following:
-Computer 
-Sitech Telescope controller (rocker switch on side of controller)
-USB Hub
-Microtouch Focuser
-The monitor screen used by the NUC
+ 
+- Sitech Telescope controller (rocker switch on side of controller)
+- Microtouch Focuser
+- The MOSFET switch box which provides power for the Cameras & Rotator see later for how to activate this to provide power for the camera & Rotator.
 Note all the above have their own on / off switch too !
-The MOSFET switch box which provides power for the Cameras & Rotator see later for how to activate this to provide power for the camera & Rotator.
-
-The USB hub has a push switch on the front panel. A good visual indication that the USB  hub is powered on is that the Master Radio Arduino box LCD screen ligts up. This is right in front of you if you sit with your back to the observatory door.
+The USB hub has  push switches for all connections. A good visual indication that the USB  hub is powered on is that the Master Radio Arduino box LCD screen lights up. This is right in front of you if you sit with your back to the observatory door.
 
 **Shutter Power**
 At the base of the shutter, there's the motor box which opens and closes the shutter. This has its own Arduino Mega2560 and you need to insert its USB cable into the epever solar controller in order to provide power to the Arduino. The blue plastic control box has a clear lid, so you can see a dim red glow of the Arduino LED when the power is connected. It's good (and absolutely vital) at this point to release the shutter clamp lock, just above and to the left of the control box. Otherwise if you use the hand controller or software to open the shutter, it will rip the chain and pulleys to bits :(
