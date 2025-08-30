@@ -1,6 +1,12 @@
 **Newest entries at top**     see here for [[Todo]]  and here for [[Long term todo]]
 [[Observatory Home]]
 
+30th August 2025 a rainy day so I decided to goto observatory to check where the leak is:
+- Fibreglass on outside has not bonded to the collar, so water collects on top of the fibreglass and runs onto and underneath the collar. Requires a fibreglass fix as PU sealant will not bond to Fibreglass. You can press down on FG to detect the problem area - 8 inches left of the collar join looking from outside. On the inside water in quite large volume can be seen between the collar and the wood base.
+- there was a small drip on the collar join left of the aperture join - this needs investigation of the seam outside.
+- All other dome joins were watertight - no evidence of water on shelf or inside of dome anywhere
+- serious 'dampness' at the base of the aperture not sure why
+
 Get the log of **night of 16th**  too as focuser error and centring error when aborting centre operation - the dialog stays open and the only option is to kill SGP. Session finished at  23.34 probably started at 22:00 
 from AI re guiding becoming erratic when autofocus runs - as star shapes change, guiding errors creep in. Best to pause guiding. Also dithering conflicts - probably dithering after each autofocus image.
 

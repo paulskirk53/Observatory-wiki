@@ -3,10 +3,11 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
+- [x] 
 - [ ] fibreglass job - do it
-- [ ] cut off corners of stepper drive plate 
-- [ ] measure diameter of pipe used as drive plate pivot
-- [ ] drill hole in plate
+- [x] cut off corners of stepper drive plate 
+- [x] measure diameter of pipe used as drive plate pivot
+- [x] drill hole in plate
 - [ ] Take up the stepper motor and plate, install & test
 - [ ] 
 - [ ] Need to do some focus backlash tests during the daytime. It's so light that a restricted aperture is needed - a sheet of play 15 inches square with some lugs on the periphery to hang on the scope and a small  - say 8 inch square hole in the centre. Could also may an overlay so if 8 inch sq lets in too much light a six inch sq overlay might work. I guess the hole has to be larger than the central obstruction. The board in garage with plane hole cutout may be perfect. 
