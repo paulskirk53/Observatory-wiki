@@ -3,7 +3,7 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
-- [ ] Make a dual cable - need to bring the existing cable back. It needs spade terminal loops on one end of both pieces. the other ends are just bare wire to fit the epever solar screw in cable fix and the new voltage doubler - the connections on the board are obvious, but just in 
+- [ ] Make a dual cable - need to bring the existing cable back. It needs spade terminal loops on one end of both pieces. the other ends are just bare wire to fit the epever solar screw in cable fix and the new voltage doubler - the connections on the board are obvious, but just in case 
 - [ ] Take up staple gun & some staples
 - [ ] Peppermint spray is best
 - [ ] Take up the stepper motor and plate, install & test
