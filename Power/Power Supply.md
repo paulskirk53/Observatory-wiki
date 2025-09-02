@@ -1,6 +1,6 @@
  12 v batteries are the base source of power.
 
-The archived section below shows how power was supplied prior to summer 2025. Because the camera could not be made to work from a battery supply (you'd think it would be the ultimate stable supply), I installed the Victron Inverter which powers th
+The archived section below shows how power was supplied prior to summer 2025. Because the camera could not be made to work from a battery supply (you'd think it would be the ultimate stable supply), I installed the Victron Inverter which powers the following
 
 
 
