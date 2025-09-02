@@ -1,6 +1,12 @@
  12 v batteries are the base source of power.
 
-The archived section below shows how power was supplied prior to summer 2025. Because the camera could not be made to work from a battery supply (you'd think it would be the ultimate stable supply), I installed the Victron Inverter which powers the following
+**Update relating to new power arrangements from May 2025**
+The archived section below shows how power was supplied prior to summer 2025. Because the camera could not be made to work from a battery supply (you'd think it would be the ultimate stable supply), I installed the Victron Inverter which powers the following:
+- computer
+- Cameras (814C and lodestar via USB
+- Computer monitor when it's required
+- USB hub
+Everything else - Sitech, Focuser, Rotator is powered directly from 12V fused circuits.
 
 
 
