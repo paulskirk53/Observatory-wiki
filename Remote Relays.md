@@ -1,4 +1,4 @@
-This is a good tutorial for the qiachip K1204
+This is a good tutorial for the qiachip K1204 [[Observatory Home]]
 
 https://robojax.com/learn/arduino/?vid=robojax_KR1204
 
