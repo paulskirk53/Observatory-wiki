@@ -1,5 +1,8 @@
 This is a good tutorial for the qiachip K1204 [[Observatory Home]]
 
+9:35 - momentary connection
+
+
 https://robojax.com/learn/arduino/?vid=robojax_KR1204
 
 and this is the qiachip product page which I didn't find as useful
