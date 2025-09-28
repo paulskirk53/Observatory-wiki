@@ -24,7 +24,13 @@ There's a connect all button at bottom left.
 
 Options > Plate solving - set up ASTAP
 
-Dome Geometry
+**Dome** > Dome Geometry
+
+**Imaging** > file paths, image formats
+Note - focus has option for NINA or Hocusfocus
+**Autofocus** - The kind of options req'd in sgp - step size, Number of steps etc
+**read up on hocusfocus / NINA option** which is best for SCT
+
 
 
 
