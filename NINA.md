@@ -31,6 +31,12 @@ Note - focus has option for NINA or Hocusfocus
 **Autofocus** - The kind of options req'd in sgp - step size, Number of steps etc
 **read up on hocusfocus / NINA option** which is best for SCT
 
+**Equipment :**
+spec details for camera, mount, scope, planetarium etc
+
+
+
+
 
 
 
