@@ -30,6 +30,7 @@ Options > Plate solving - set up ASTAP
 Note - focus has option for NINA or Hocusfocus
 **Autofocus** - The kind of options req'd in sgp - step size, Number of steps etc
 **read up on hocusfocus / NINA option** which is best for SCT
+How to ensure Hocus Focus is the AF in use: Nina -> Options -> Imaging -> 'Image options' -> Star Detector, Star Annotator, Autofocus 
 
 **Equipment :**
 spec details for camera, mount, scope, planetarium etc
