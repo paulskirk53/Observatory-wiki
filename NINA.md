@@ -40,20 +40,24 @@ spec details for camera, mount, scope, planetarium etc
 startup sequence for observatory:
 
 **Assumptions**
-	Mount is initialised at 270 and parked
-		
+- Mount is initialised at 270 and parked
+- Camera is roughly focused
 
 connect:
-	Camera, auoguider, PHD2, Rotator, Dome, Sitech, focuser.
+- Camera, autoguider, PHD2, Rotator, Dome, Sitech, focuser.
 
 Sync:
-	Dome to mount
+- Dome to mount
 
-Move mount:
-	To platesolve object
+Move to target:
 
-Plate solve
-		To accurately initialise Sitech
+Autofocus:
+- for best platesolve and image results
+
+
+Plate Solve - if it works, or
+Move away, but close to target and Plate Solve
+Move to target
 
 
 
