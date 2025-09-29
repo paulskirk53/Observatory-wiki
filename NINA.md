@@ -36,6 +36,26 @@ How to ensure Hocus Focus is the AF in use: Nina -> Options -> Imaging -> 'Image
 spec details for camera, mount, scope, planetarium etc
 
 
+**Sequencer**
+startup sequence for observatory:
+
+**Assumptions**
+	Mount is initialised at 270 and parked
+		
+
+connect:
+	Camera, auoguider, PHD2, Rotator, Dome, Sitech, focuser.
+
+Sync:
+	Dome to mount
+
+Move mount:
+	To platesolve object
+
+Plate solve
+		To accurately initialise Sitech
+
+
 
 
 
