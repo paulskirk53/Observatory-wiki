@@ -22,7 +22,7 @@ Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 	- [x] check oag depth into image cone
 - [ ] - 
 - [x] set 2x2 binning in camera tab
-- [ ] take up some drawing pins
+- [x] take up some drawing pins
 - [x] paint the observatory walls
 - [ ] Check the meridian flip settings in Sitech don't conflict with SGP - that may have been the problem on 5-5-25
 - [ ] 
