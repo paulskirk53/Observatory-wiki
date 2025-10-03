@@ -4,6 +4,11 @@ Looking at the ZWO OAG and lodestar camera in use on the C14, it is often diffic
 
 I have modelled the fov of the setup in Cartes du Ciel (setup> display> finder rectangle) along with the FOV of the ASKAR M54 OAG and the **ZWO ASI174MM Mini** camera. The latter is virtually twice the field size.
 
+With the C14 at **f/8**, the **actual guide field of view** through the Askar M54 OAG prism is approximately: 11.0 × 7.7 arcminutes. (AI)
+
+That’s a noticeable improvement over the ZWO OAG’s ~8.8 × 6.2 arcminutes at f/11, and even more so compared to the Lodestar’s smaller sensor.
+
+**Specs**
 ASKAR M54 OAG is 19.5mm thickness
 
 ZWO OAG is 16.5mm thickness
