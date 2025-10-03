@@ -6,4 +6,11 @@ I have modelled the fov of the setup in Cartes du Ciel (setup> display> finder r
 
 ASKAR M54 OAG is 19.5mm thickness
 
-ZWO OAG is 
+ZWO OAG is 16.5mm thickness
+
+**Current spacer:**
+Length:
+**Threads:**
+- Scope end of spacer: TBA
+- OAG end of spacer: M42 male thread on spacer, with an M42 thread concentric enlarger to m48 which fits the oag
+
