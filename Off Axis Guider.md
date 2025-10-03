@@ -4,3 +4,6 @@ Looking at the ZWO OAG and lodestar camera in use on the C14, it is often diffic
 
 I have modelled the fov of the setup in Cartes du Ciel (setup> display> finder rectangle) along with the FOV of the ASKAR M54 OAG and the **ZWO ASI174MM Mini** camera. The latter is virtually twice the field size.
 
+ASKAR M54 OAG is 19.5mm thickness
+
+ZWO OAG is 
