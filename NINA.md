@@ -59,9 +59,5 @@ Plate Solve - if it works, or
 Move away, but close to target and Plate Solve
 Move to target
 
-
-
-
-
-
+see here for AI help [[NINA PS]]
 
