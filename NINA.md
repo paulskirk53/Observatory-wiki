@@ -1,9 +1,15 @@
 [[Observatory Home]]
+how to arrange this page:
+## Quicklinks
 
-good tutorial on the sequencer - scroll along
+- [Section One](#section-one)
+- [Section Two](#section-two)
+- [Subsection A](#subsection-a)
+
+## Tutorial on the sequencer - scroll along
 https://www.youtube.com/watch?v=VqfAg2AoPYE&t=921s
 
-**Simulating guiding in PHD2**
+## Simulating guiding in PHD2
 
 the following equipment profile is required:
 Camera - choose 'simulator'
@@ -12,23 +18,26 @@ Aux Mount choose 'Telescope Simulator for .NET (ASCOM)'
 
 The PHD2 profile I created on 27th September 2025 is called Test
 
-**Setting up:**
+## Setting up equipment in NINA:
 
-Equipment > go through the tabs and select the equipment from dropdown.
+**Equipment** > go through the tabs and select the equipment from dropdown.
 See **Options** below for setting up Dome geometry
 
-There's a connect all button at bottom left, but it connects equipment that we haven't got.
+**Connect**
+There's a connect all button at bottom left, but it connects equipment that we haven't got too....
 
-**Options**
-**Plate solve :**
+## Options
+### Plate solve :
 
 Options > Plate solving - set up ASTAP
 
-**Dome** > Dome Geometry
+### DOME
+Options>Dome > Dome Geometry
 
-**Imaging** > file paths, image formats
+### Imaging
+> file paths, image formats
 Note - focus has option for NINA or Hocusfocus
-**Autofocus** - The kind of options req'd in sgp - step size, Number of steps etc
+Autofocus** - The kind of options req'd in sgp - step size, Number of steps etc
 **read up on hocusfocus / NINA option** which is best for SCT
 How to ensure Hocus Focus is the AF in use: Nina -> Options -> Imaging -> 'Image options' -> Star Detector, Star Annotator, Autofocus 
 
@@ -61,3 +70,12 @@ Move to target
 
 see here for AI help [[NINA PS]]
 
+### How to test if PS fails
+Variable StillTrying = 1 
+Sequential instruction set 
+Loop while StillTrying == 1 ...
+variable Failed = 0 ...
+If Fails ( platesolve ) ...... 
+	Set Variable Failed = 1 ...
+If Failed == 0 ...... 
+	Set Variable StillTrying = 0
