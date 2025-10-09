@@ -53,6 +53,17 @@ The point of this is to ensure the telescope electronic controller is aligned wi
 **Rough Inititialisation**
 With the telescope pointing due west and horizontal, align the shutter opening so that the telescope can 'see' out of the Dome aperture. Now, without moving the Dome manually turn the stepper motor drive wheel (which has the encoder attached) so that the Dome Azimuth indicates 255 degrees. You can see the azimuth value in the monitoring program. Now you need to initialise the Sitech Controller. See here  [[Telescope Initialisation]]
 
+Process for a nights imaging using NINA
+
+**Outside of NINA**
+rough initialise, Set park, Park
+
+Park
+Goto an object for purpose of PS and initialise
+**NINA manual** (or sequence)
+Autofocus
+PS & Initialise
+
 
 
 
