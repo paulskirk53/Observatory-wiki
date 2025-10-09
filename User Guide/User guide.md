@@ -59,13 +59,15 @@ Process for a nights imaging using NINA
 rough initialise, Set park, Park
 
 Park
-Sync Dome to Scope (in what software?)
-Goto an object for purpose of PS and initialise (e.g sitech goto Messier object)
+
 **NINA manual** (or sequence start area)
+Sync dome to scope
+**NINA main area**
+Goto Target
 Autofocus
 Start Guiding
 PS & Initialise
-**NINA main area**
+
 Goto target & centre
 Resume guiding
 capture images
