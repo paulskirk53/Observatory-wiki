@@ -21,7 +21,7 @@ Be careful if the battery terminals are removed from the batteries - ensure the 
 
 That's all for power - a quick summary:
 1. Turn on main Battery switch
-2. Turn n inverter
+2. Turn on inverter
 3. Turn on Shutter arduino power at epever controller
 4. Release the shutter clamp lock so that the shutter can open / close.
 5. Power on the Dome drive (battery on floor under computer screen)
@@ -45,7 +45,7 @@ Just below half way down, you can see 'camera and rotator power' click the toggl
 There is nothing else to do with the monitor program at present, note that it's a handy visual for the dome azimuth, which we're interested in because we need to manually align and initialise the telescope. 
 
 ## Anydesk - remote operation
-In conjunction with the Monitor program mentioned above, in order to remotely amange the observatory from home, run [[Anydesk]] on both computers. Anydesk is free for personal use
+In conjunction with the Monitor program mentioned above, in order to remotely manage the observatory from home, run [[Anydesk]] on both computers. Anydesk is free for personal use
 
 ## Initialising the telescope
 The point of this is to ensure the telescope electronic controller is aligned with the sky. A rough initialistaion can be done as below and is good enough to send the scope to an object which can then be platesolved to get an accurate sky position:

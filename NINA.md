@@ -4,7 +4,7 @@ how to arrange this page:
 
 - [Sequencer Tutorial](#Tutorial on the sequencer - scroll along)
 - [Options](#Options)
-- [Powerups](#Sequence Powerups)
+- [Powerups](# Sequence Powerups)11
 
 
 - [Dome](#DOME)
