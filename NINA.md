@@ -2,8 +2,12 @@
 how to arrange this page:
 ## Quicklinks
 
-- [Section One](#section-one)
-- [Section Two](#section-two)
+- [Sequencer Tutorial](#Tutorial on the sequencer - scroll along)
+- [Options](#Options)
+- [Powerups](#Sequence Powerups)
+
+
+- [Dome](#DOME)
 - [Subsection A](#subsection-a)
 
 ## Tutorial on the sequencer - scroll along
