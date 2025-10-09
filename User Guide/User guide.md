@@ -51,7 +51,7 @@ In conjunction with the Monitor program mentioned above, in order to remotely ma
 The point of this is to ensure the telescope electronic controller is aligned with the sky. A rough initialistaion can be done as below and is good enough to send the scope to an object which can then be platesolved to get an accurate sky position:
 
 **Rough Inititialisation**
-With the telescope pointing due west and horizontal, align the shutter opening so that the telescope can 'see' out of the Dome aperture. Now, without moving the Dome manually turn the encoder wheel so that it indicates Azimuth 245 degrees. You can see the azimuth value in the monitoring program. Now you need to initialise the Sitech Controller. See here  [[Telescope Initialisation]]
+With the telescope pointing due west and horizontal, align the shutter opening so that the telescope can 'see' out of the Dome aperture. Now, without moving the Dome manually turn the stepper motor drive wheel (which has the encoder attached) so that the Dome Azimuth indicates 255 degrees. You can see the azimuth value in the monitoring program. Now you need to initialise the Sitech Controller. See here  [[Telescope Initialisation]]
 
 
 
