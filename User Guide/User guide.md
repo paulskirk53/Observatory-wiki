@@ -1,3 +1,5 @@
+[[Observatory Home]]
+
 When entering the observatory to initialise the equipment for an observing session, the following text describes the workflow. You must be at the observatory to do all the following things, it takes about 10-15 minutes once you've done it a few times. Once the setup is done, all functions can be controlled remotely - see [[Remote session management]].
 
 **Power**
@@ -71,7 +73,12 @@ Goto target & centre
 Resume guiding
 capture images
 
-
+**Things to find out in NINA**
+1. How to PS as a one off 
+2. How to nudge/ move mount
+3. How to go to a target quickly in case of failed PS
+4. How to move focuser
+5. How to capture a single image for focus inspection
 
 
 return to [[Observatory Home]] home page
