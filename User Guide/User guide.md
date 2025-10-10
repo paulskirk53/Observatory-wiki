@@ -66,8 +66,7 @@ Sync dome to scope
 Goto Target
 Autofocus
 Start Guiding
-PS & Initialise
-
+PS & Initialise (sync)
 Goto target & centre
 Resume guiding
 capture images
