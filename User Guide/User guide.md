@@ -63,9 +63,11 @@ rough initialise, Set park, Park
 Park
 
 **NINA manual** (or sequence start area)
+unpark scope
 Sync dome to scope
 **NINA main area**
 Goto Target
+start tracking
 Autofocus
 Start Guiding
 PS & Initialise (sync)
