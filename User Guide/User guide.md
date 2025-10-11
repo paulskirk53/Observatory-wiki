@@ -74,8 +74,8 @@ Resume guiding
 capture images
 
 **Things to find out in NINA**
-1. How to PS as a one off 
-2. How to nudge/ move mount > imaging tab top right scope control looks like a Plus sign and toggles apane in the imaging tab
+1. How to PS as a one off Imaging > PS and AF as two tabs on rhs
+2. How to nudge/ move mount > imaging tab top right scope control looks like a Plus sign and toggles a pane in the imaging tab
 3. How to go to a target quickly in case of failed PS
 4. How to move focuser
 5. How to capture a single image for focus inspection
