@@ -84,6 +84,8 @@ capture images
 	2. also a panel in imaging.
 5. How to capture a single image for focus inspection
 	1. Imaging > Imaging tab
+6. Set up a target sequence
+7. 
 
 
 return to [[Observatory Home]] home page
