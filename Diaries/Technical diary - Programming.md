@@ -1,3 +1,5 @@
+[[Observatory Home]]
+
 22-4-2025
 a better way to set the switch up if the shutter returns CONNECTED to the Master radio request for connection, set a bool BTConnected= true;
 

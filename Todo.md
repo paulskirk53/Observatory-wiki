@@ -5,11 +5,12 @@ Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
 - [x] Upload the code update for the encoder - now on the stepper shaft.
 - [ ] install plugns in NINA - powerup, PHD2 tools, Hocus Focus, target scheduler, scope control
+- [ ] install new guider cam in phd2 on obs machine and create dark library
 - [x] Take up some wire to attach the large solar panel to the building - to stop it blowing in wind. about 75 cm is fine.
 - [x] Make a dual cable - need to bring the existing cable back. It needs spade terminal loops on one end of both pieces. the other ends are just bare wire to fit the epever solar screw in cable fix and the new voltage doubler - the connections on the board are obvious, but just in case +12V supply to doubler is red, 12v Gnd is black.
 - [x] Take up staple gun & some staples or pins
 - [ ] Peppermint spray is best
-- [ ] Take up the stepper motor and plate, install & test
+- [x] Take up the stepper motor and plate, install & test
 - [x] fibreglass job - do it done 31 Aug 2025
 - [x] cut off corners of stepper drive plate 
 - [x] measure diameter of pipe used as drive plate pivot
