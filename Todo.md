@@ -3,7 +3,8 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
-- [ ]  Install new cam and test focus
+- [ ] At the Pyxis, we have a dovetail  
+- [ ] Install new cam and test focus
 - [ ] find shims
 - [ ] Upload the code update for the encoder - now on the stepper shaft.
 - [x] install plugns in NINA - powerup, PHD2 tools, Hocus Focus, target scheduler, scope control
