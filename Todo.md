@@ -5,7 +5,7 @@ Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
 - [ ] At the Pyxis, we have a tube (at home) with a dovetail  dovetail at one end and an M54 thread at the other. It looks like FLO have an adapter that will adapt this to M48 male which will then fir the M48 female end of the new spacer stack, 
 - [ ] Install new cam and test focus
-- [ ] find shims
+- [ ] find shims?
 - [ ] Upload the code update for the encoder - now on the stepper shaft.
 - [x] install plugns in NINA - powerup, PHD2 tools, Hocus Focus, target scheduler, scope control
 - [x] install new guider cam in phd2 on obs machine and create dark library
