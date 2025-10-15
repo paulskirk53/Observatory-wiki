@@ -3,10 +3,12 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
+- [ ] find out why no power at the DM860I controller - the dome did not move when requested and it looks like there was no power....
+- [ ] can't connect phd2 and nina to the rotator - posted in nina help
 - [ ] At the Pyxis, we have a tube (at home) with a dovetail  dovetail at one end and an M54 thread at the other. It looks like FLO have an adapter that will adapt this to M48 male which will then fit the M48 female end of the new spacer stack, 
 - [ ] Install new cam and test focus
 - [ ] find shims?
-- [ ] Upload the code update for the encoder - now on the stepper shaft.
+- [x] Upload the code update for the encoder - now on the stepper shaft.
 - [x] install plugns in NINA - powerup, PHD2 tools, Hocus Focus, target scheduler, scope control
 - [x] install new guider cam in phd2 on obs machine and create dark library
 - [x] Take up some wire to attach the large solar panel to the building - to stop it blowing in wind. about 75 cm is fine.
@@ -20,7 +22,7 @@ Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 - [x] drill hole in plate
 - [ ] 
 - [ ] 
-- [ ] Need to do some focus backlash tests during the daytime. It's so light that a restricted aperture is needed - a sheet of play 15 inches square with some lugs on the periphery to hang on the scope and a small  - say 8 inch square hole in the centre. Could also may an overlay so if 8 inch sq lets in too much light a six inch sq overlay might work. I guess the hole has to be larger than the central obstruction. The board in garage with plane hole cutout may be perfect. 
+- [ ]  OCt '25 the board worked but there's a small gap at the base. There is a very significant focus travel before anyNeed to do some focus backlash tests during the daytime. It's so light that a restricted aperture is needed - a sheet of ply 15 inches square with some lugs on the periphery to hang on the scope and a small  - say 8 inch square hole in the centre. Could also may an overlay so if 8 inch sq lets in too much light a six inch sq overlay might work. I guess the hole has to be larger than the central obstruction. The board in garage with plane hole cutout may be perfect.  - OCt '25 the board worked but there's a small gap at the base
 - [ ] ~={red}On the night of 17th May, guiding was good then bad with no star seemingly available and focussing half flux radius was all over the place, with masses of 'stars' so do the following=~
 	- [x] check dome and scope alignment with some slews in daytime - done and was good
 	- [x] check oag fixing as it wobbles - tighten the grub screw
