@@ -3,8 +3,12 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
+- [ ] find psu for Sitechcontroller
+- [ ] get vaseline for battery terminals
+- [ ] pick optec pyxis Universal ASCOM for the connection in PHD2 and in NINA and se if the connection will share
+- [ ] Make / find a gnd cable 35cm long for connection between gnd and the dome power MOSFET box.
 - [ ] find out why no power at the DM860I controller - the dome did not move when requested and it looks like there was no power....
-- [ ] can't connect phd2 and nina to the rotator - posted in nina help
+- [x] can't connect phd2 and nina to the rotator - posted in nina help - see above
 - [ ] At the Pyxis, we have a tube (at home) with a dovetail  dovetail at one end and an M54 thread at the other. It looks like FLO have an adapter that will adapt this to M48 male which will then fit the M48 female end of the new spacer stack, 
 - [ ] Install new cam and test focus
 - [ ] find shims?
