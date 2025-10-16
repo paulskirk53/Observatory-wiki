@@ -3,6 +3,7 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
+- [ ] Battery updates - see here 
 - [ ] update the Pyxis 2 universal driver in the lenovo machine
 - [ ] find psu for Sitech controller
 - [ ] get vaseline for battery terminals
