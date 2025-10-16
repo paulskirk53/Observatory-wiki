@@ -3,7 +3,8 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
-- [ ] find psu for Sitechcontroller
+- [ ] update the Pyxis 2 universal driver in the lenovo machine
+- [ ] find psu for Sitech controller
 - [ ] get vaseline for battery terminals
 - [ ] pick optec pyxis Universal ASCOM for the connection in PHD2 and in NINA and se if the connection will share
 - [ ] Make / find a gnd cable 35cm long for connection between gnd and the dome power MOSFET box.
