@@ -1,5 +1,16 @@
-Everything in the observatory is powered by 12 v batteries as the base source of power.
+12 v batteries are the base source of power.  [[Observatory Home]]
 
+**Update relating to new power arrangements from May 2025**
+The archived section below shows how power was supplied prior to summer 2025. Because the camera could not be made to work from a battery supply (you'd think it would be the ultimate stable supply), I installed the Victron Inverter which powers the following:
+- computer
+- Cameras (814C and lodestar via USB
+- Computer monitor when it's required
+- USB hub
+Everything else - Sitech, Focuser, Rotator is powered directly from 12V fused circuits.
+
+
+
+**Archived:**
 This buck boost [converter](https://kunkune.co.uk/shop/dc-to-dc-converters/250w-10a-boost-converter-step-up-module-8-48v-to-12-50v-adjustable/)  operates at a frequency of 160 KHz so using a capacitor across the o/p terminals will filter any noise problems there might be. Using a metal case is also a good idea to stop radiated noise interference. The leads from the main battery feed into a wooden box which houses the boost device. There is one input (from the 12 V battery) and three outputs. The boost device has a potentiometer inside which allows adjustment of the output voltage. Only adjust this **if the devices are not connected** as over voltage is easily applied and the devices will be destroyed.
 
 Another boost device I used in the past has a current rating of 5A. 

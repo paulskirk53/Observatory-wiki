@@ -1,0 +1,91 @@
+[[Observatory Home]]
+how to arrange this page:
+## Quicklinks
+
+- [Sequencer Tutorial](#Tutorial on the sequencer - scroll along)
+- [Options](#Options)
+- [Powerups](# Sequence Powerups)11
+
+
+- [Dome](#DOME)
+- [Subsection A](#subsection-a)
+
+## Tutorial on the sequencer - scroll along
+https://www.youtube.com/watch?v=VqfAg2AoPYE&t=921s
+
+## Simulating guiding in PHD2
+
+the following equipment profile is required:
+Camera - choose 'simulator'
+Mount - choose 'On-camera'  (phd2 chooses this for you if you pick 'simulator' as the camera.)
+Aux Mount choose 'Telescope Simulator for .NET (ASCOM)'
+
+The PHD2 profile I created on 27th September 2025 is called Test
+
+## Setting up equipment in NINA:
+
+**Equipment** > go through the tabs and select the equipment from dropdown.
+See **Options** below for setting up Dome geometry
+
+**Connect**
+There's a connect all button at bottom left, but it connects equipment that we haven't got too....
+
+## Options
+### Plate solve :
+
+Options > Plate solving - set up ASTAP
+
+### DOME
+Options>Dome > Dome Geometry
+
+### Imaging
+> file paths, image formats
+Note - focus has option for NINA or Hocusfocus
+### Autofocus
+- The kind of options req'd in sgp - step size, Number of steps etc
+- read up on hocusfocus / NINA option which is best for SCT
+### How to ensure Hocus Focus is the AF in use: 
+Nina -> Options -> Imaging -> 'Image options' -> Star Detector, Star Annotator, Autofocus 
+
+**Equipment :**
+spec details for camera, mount, scope, planetarium etc
+
+
+**Sequencer**
+startup sequence for observatory:
+
+**Assumptions**
+- Mount is initialised at 270 and parked
+- Camera is roughly focused
+
+connect:
+- Camera, autoguider, PHD2, Rotator, Dome, Sitech, focuser.
+
+Sync:
+- Dome to mount
+
+Move to target:
+
+Autofocus:
+- for best platesolve and image results
+
+
+Plate Solve - if it works, or
+Move away, but close to target and Plate Solve
+Move to target
+
+see here for AI help [[NINA PS]]
+
+### How to test if PS fails
+Variable StillTrying = 1 
+Sequential instruction set 
+Loop while StillTrying == 1 ...
+variable Failed = 0 ...
+If Fails ( platesolve ) ...... 
+	Set Variable Failed = 1 ...
+If Failed == 0 ...... 
+	Set Variable StillTrying = 0
+
+## Sequence Powerups
+see [here](https://marcblank.github.io/TBR/)
+This is brilliant enhancement to NINA

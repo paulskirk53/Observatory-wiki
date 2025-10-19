@@ -1,79 +1,45 @@
 
 # To-Do -Current, tick when complete
 link to [[Fault & Problem log]]
-Immediate todo below:            [[Long term todo]]
+Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
-- [ ] Check the ansvr solve for which index was used
-- [ ] optimise ansvr for index files
-- [ ] check astap settings on NUC
-- [ ] Take up the Victron inverter and a multi plug
-- [x] check if USb for lodestar is in plastic box - can use cable extender if needs be.
-- [x] Install New encoder wheel
-- [ ] try the shutter with 24 v power, but with the arduino powered from the nuc.
-- [ ] Take up Canon camera, its PSU, long camera usb cable & connection piece
-- [ ] use the usb extender or buy a 2 metre cable for connecting the lodestar.
-- [x] bring the camera back for sale
-- [ ] Take up the jtag2updi programmer and install new ticks per dome rev code.
-- [ ] install a banana plug in top of DC boost box.
-- [x] take up the new encoder wheel housing & fix in place need drill & power driver
-- [x] Take up the master radio
-- [x] install and solder up the three new banana sockets on control box.
-- [x] Check the power supply cable to the USB hub to see it is properly intact
-- [x] ~={red} 22-4-25: IMPORTANT=~ Upload the new code to shutter on next visit - the BT connection will not work without this upload. The matching Master radio code  was uploaded at home 22-4-25
-- [ ] Check the battery voltage of the shutter power battery
-- [x] Check that the epever USB sockets supply from the battery NOT the solar - **checked on AI - powered from battery**
-- [ ] found leak at seam to left of shutter drips coming in. it looks like it is the seam as fingers either side if up near the wheels stayed dry.dome seam not collar seam.
-- [x] Check voltage at the USB Hub power lead. done 12.6v
-- [ ] shutter ssr40dd only shows its light for two seconds then goes off. no power supplied to dome stepper. this was testing the already open feature when power comes on. **I suspect from testing with the simulator, that the open position is not set - use queryop and setop and try again. Check the emergency stop button on the HC too**  A value of zero for open position in the simulator seemed to reproduce the problem. ~={green}**Done** queryop reports open position as 5000 ....=~
+- [ ] Battery updates - see here 
+- [ ] update the Pyxis 2 universal driver in the lenovo machine
+- [ ] find psu for Sitech controller
+- [ ] get vaseline for battery terminals
+- [ ] pick optec pyxis Universal ASCOM for the connection in PHD2 and in NINA and se if the connection will share
+- [ ] Make / find a gnd cable 35cm long for connection between gnd and the dome power MOSFET box.
+- [ ] find out why no power at the DM860I controller - the dome did not move when requested and it looks like there was no power....
+- [x] can't connect phd2 and nina to the rotator - posted in nina help - see above
+- [ ] At the Pyxis, we have a tube (at home) with a dovetail  dovetail at one end and an M54 thread at the other. It looks like FLO have an adapter that will adapt this to M48 male which will then fit the M48 female end of the new spacer stack, 
+- [ ] Install new cam and test focus
+- [ ] find shims?
+- [x] Upload the code update for the encoder - now on the stepper shaft.
+- [x] install plugns in NINA - powerup, PHD2 tools, Hocus Focus, target scheduler, scope control
+- [x] install new guider cam in phd2 on obs machine and create dark library
+- [x] Take up some wire to attach the large solar panel to the building - to stop it blowing in wind. about 75 cm is fine.
+- [x] Make a dual cable - need to bring the existing cable back. It needs spade terminal loops on one end of both pieces. the other ends are just bare wire to fit the epever solar screw in cable fix and the new voltage doubler - the connections on the board are obvious, but just in case +12V supply to doubler is red, 12v Gnd is black.
+- [x] Take up staple gun & some staples or pins
+- [ ] Peppermint spray is best
+- [x] Take up the stepper motor and plate, install & test
+- [x] fibreglass job - do it done 31 Aug 2025
+- [x] cut off corners of stepper drive plate 
+- [x] measure diameter of pipe used as drive plate pivot
+- [x] drill hole in plate
 - [ ] 
-- [ ] usb hub failure - the monitor would not connect but would connect when the control box was directly connected to nuc port. The on / off switch has stopped working too.
-- [x] Take some daytime images with the lodestar connected to see if it stays connected in PHD2, and also that the image quality is good.  Then - see next item below: **done with different (longer) cable connected directly to nuc daytime images at 0.02 secs looked fine and camera stayed connected in PHD2**
-- [ ] Connect the SX camera USB directly to the NUC - this can be done by removing the mouse USB ==transmitter== to the HUB
-- [ ] Try increasing the GEM offset by 50 mm to cure the N misalignment. **Tried on 16-4-25.** It had the desired effect when looking E, more testing req'd can't do this until new usb hub arrives.
-- [x]  Upload the control box code
-- [x]  Upload the shutter code
-- [ ] Set up the rotator & check it connects
-- [x]  **Take a saw to saw off the plywood back** of stepper  motor support.
-- [ ]  Retry the dome slew & sync to scope tests with a client connected e.g. Cartes du Ciel, the scope and dome. Check NSEW alignment.
 - [ ] 
-- [x] tonight target is around 140 deg azimuth ra 12 dec 32 - align the scope
-- [x] connect up the chain
-- [x] connect battery power to shutter
-- [x] run anydesk
-- [ ]  **Don't do this until the new toothed wheel arrives** check the ticks per dome rev accuracy by rotating the dome through 360 and check if the misalignment is consistently over or under. There are 44 ticks per degree, so mod the code as req'd.
+- [ ]  OCt '25 the board worked but there's a small gap at the base. There is a very significant focus travel before any change in focus is detected, so this method isn't really helpful. Probably best to detect backlash on the focus curve. Need to do some focus backlash tests during the daytime. It's so light that a restricted aperture is needed - a sheet of ply 15 inches square with some lugs on the periphery to hang on the scope and a small  - say 8 inch square hole in the centre. Could also may an overlay so if 8 inch sq lets in too much light a six inch sq overlay might work. I guess the hole has to be larger than the central obstruction. The board in garage with plane hole cutout may be perfect.  - 
+- [ ] ~={red}On the night of 17th May, guiding was good then bad with no star seemingly available and focussing half flux radius in SGP was all over the place, with masses of 'stars' so do the following=~
+	- [x] check dome and scope alignment with some slews in daytime - done and was good
+	- [x] check oag fixing as it wobbles - tighten the grub screw
+	- [x] check oag depth into image cone
+- [ ] - 
+- [x] set 2x2 binning in camera tab
+- [x] take up some drawing pins
+- [x] paint the observatory walls
+- [ ] Check the meridian flip settings in Sitech don't conflict with SGP - that may have been the problem on 5-5-25
+- [ ] 
 
-
-**11-4-2025**
-* Take the jtag2updi programmer and upload the code to the control box - **does not work** - the problem has now been fixed on the NUC - incorrect version of avrdude which did not support updi. The code has now been tested on the simulator box
-* Check the new driver amendments re dome geometry and sync to azimuth. Hopefully the dome positioning will be more accurate. Try positions at NSEW - **awful result** , but new information from Bob Denny on ascom developer talk, points out that you MUST have a client connected as well as the scope & Dome. **Re try the test**
-* Check the radio box works - tested at home fine - a new switch has been installed on the box which has a normal and override position. In the override position the shutter is always reported to ascom driver as open. It's a way of being able to keep going with imaging if the bluetooth or something shutter related goes awry. Shutter must be opened and closed manually by hand. **Worked fine at Observatory**
-* take up some drawing pins
-* Paint the walls of the building
-
-**6-4-2025**
-
-recheck the dome geometry: - **done 10th April 2025 new values here** [[Dome  Automation]]
-things to take
-string
-tape measure with lock facility
-spirit level
-long timber about 90 cm to 1 metre
-fishing weight
-paper clip to mark 1.1 metre point on string for U/D measurement
-procedure:
-- # first - move the dome by hand through 360 to check azimuth is consistent - done and a complete rotation was perfect - 1 or 2 degrees out.
-	- Move scope horizontal
-	- install plumb line
-	- measure with tape & level to ensure plumb is centred in dome NESW and also to measure accurately how much offset there is due to plumb/ mount interference if necessary
-	- make sure the measurements taken are in NESW directions
-	- scope east of dome O is +
-	- scope north of dome O is +
-
-**March 2025**
-1. Install the buck boost for the dome drive **done** Apr 2025
-2. Ditto for the main equipment battery when it arrives. **done**
-3. Get a box for the new buck boost device **done**
-4. Try out the dome drive to see if it syncs with the telescope, following the updates to the GEM  offsets - done in ASCOM device hub and also in SGP. done, pretty good except N direction.
 
 
 [[Observatory Home]]

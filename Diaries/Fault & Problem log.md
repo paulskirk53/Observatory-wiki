@@ -1,8 +1,25 @@
 **Newest entries at top**     see here for [[Todo]]  and here for [[Long term todo]]
 [[Observatory Home]]
+
+30th August 2025 a rainy day so I decided to goto observatory to check where the leak is:
+- Fibreglass on outside has not bonded to the collar, so water collects on top of the fibreglass and runs onto and underneath the collar. Requires a fibreglass fix as PU sealant will not bond to Fibreglass. You can press down on FG to detect the problem area - 8 inches left of the collar join looking from outside. On the inside water in quite large volume can be seen between the collar and the wood base.
+- there was a small drip on the collar join left of the aperture join - this needs investigation of the seam outside.
+- All other dome joins were watertight - no evidence of water on shelf or inside of dome anywhere
+- serious 'dampness' at the base of the aperture not sure why
+
+Get the log of **night of 16th**  too as focuser error and centring error when aborting centre operation - the dialog stays open and the only option is to kill SGP. Session finished at  23.34 probably started at 22:00 
+from AI re guiding becoming erratic when autofocus runs - as star shapes change, guiding errors creep in. Best to pause guiding. Also dithering conflicts - probably dithering after each autofocus image.
+
+**night of 15th and a.m. of 16th May**
+Get the sgp log for night of 15th as focuser error : obtained half flux radius of zero twice something must be wrong
+
+
+
 28-4-25
-I have had a difficiult day and finally decided that the SXH814C has to go. It wouldn't connect when run from a 12V battery (no DC boost), so that's it.
+I finally decided that the SXH814C has to go. It wouldn't connect when run from a 12V battery (no DC boost), so that's it. But see below...
 I intend to go back to the Canon EOS for now the backfocus is 44mm compared to SX 17mm, so the focus position will be 27 mm further in and this means the  lodestar will be further out - it may not be able to get out by  27mm, so an axtension tube may be necessary.
+
+When I bought the lenovo machine ( which had to be powered from the victron inmerter) the camera connection problem has gone - completely. So its either the computer, or powering the computer from the mains which made the difference. Download speeds are about 10 seconds.
 
 The other thing was that the toothed wheel was not a T10, so it didn't work on the toothed belt, so reverting back to friction wheel for now.
 
