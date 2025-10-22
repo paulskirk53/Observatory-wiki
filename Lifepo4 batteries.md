@@ -1,6 +1,6 @@
+[[Observatory Home]]
 
-A good ebay supplier in birmingham https://www.ebay.co.uk/itm/365864074198?_skw=100Ah+12V+LITHIUM+LiFePO4+Battery&itmmeta=01K7YVX2T07KQ3GT44C0CHVQA7&hash=item552f32bbd6:g:NhwAAOSwX4Vm4lqV&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1ePoWMerqOQrHM1opn9z1z4K89f%2Bztjw0Gr2MSmFAJAG8nXkJQYGnFn2WWLPlfVHi4dCR565DD3fumDjZfwp6A2p8%2BKuvbQp7DRQ5QkrrE8%2BoEIME7Y24Sh6g4kSit5g99JdTZmt06bOri3cEBpt3hmwhUojeBKNVxsnhotCXxxtAuJiEeiI%2F5OJpUk92UAZM9H6SNXIWN70bDJcsaMiSnrQe5C%2Fg8WucC3P1a7nq6EUZvVNmxB9Ff2bmdfXxHT%2Bsn78OxrMb2gxV64hlHDf3fK%7Ctkp%3ABlBMUKSt9Nu_Zg
-
+A good ebay supplier in birmingham [here](https://www.ebay.co.uk/itm/365864074198?_skw=100Ah+12V+LITHIUM+LiFePO4+Battery&itmmeta=01K7YVX2T07KQ3GT44C0CHVQA7&hash=item552f32bbd6:g:NhwAAOSwX4Vm4lqV&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1ePoWMerqOQrHM1opn9z1z4K89f%2Bztjw0Gr2MSmFAJAG8nXkJQYGnFn2WWLPlfVHi4dCR565DD3fumDjZfwp6A2p8%2BKuvbQp7DRQ5QkrrE8%2BoEIME7Y24Sh6g4kSit5g99JdTZmt06bOri3cEBpt3hmwhUojeBKNVxsnhotCXxxtAuJiEeiI%2F5OJpUk92UAZM9H6SNXIWN70bDJcsaMiSnrQe5C%2Fg8WucC3P1a7nq6EUZvVNmxB9Ff2bmdfXxHT%2Bsn78OxrMb2gxV64hlHDf3fK%7Ctkp%3ABlBMUKSt9Nu_Zg)
 ### I ordered two on 21st October 2025. The supplier stated the following:
 ### After receiving the battery, please perform the following steps:  
 1. After opening the battery packaging, measure the battery voltage.  
