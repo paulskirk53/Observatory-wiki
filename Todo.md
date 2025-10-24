@@ -3,6 +3,8 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
+- [ ] check NUC before tking up to Observatory
+- [ ] ensure anydesk runs on NUC for remote testing of camera
 - [ ] Battery updates - see [[Lifepo4 batteries]] 
 - [ ] update the Pyxis 2 universal driver [here](https://www.optecinc.com/downloads/rotators/universal/) in the lenovo & Nuc machine
 - [ ] find psu for Sitech controller

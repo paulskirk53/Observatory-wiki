@@ -2,7 +2,7 @@
 
 The equipment list and power method is as follows:
 
-Can be viaSSR40DD (switches ample current)
+Can be via SSR40DD (switches ample current)
 
 - Sitech Controller currently powered by a 12v battery cable direct to batt
 - SXH814C imaging camera currently mains adapter in use with victron inverter
@@ -14,6 +14,12 @@ Can be viaSSR40DD (switches ample current)
 
 Powered by the Victron inverter:
 - Computer monitor  on during setup time only, then off
+
+**Plan** 
+- have the computer on at setup time and all other equipment powered via SSR40DD via the monitor program to optimise battery life
+- monitor battery life via Victron connect app installed on NUC
+
+
 
 **Notes:**
 Before buying a victron DC to DC converter, check that the NUC, powered by the victron inverter does actually work with the SXH814C. Otherwise its back to:
