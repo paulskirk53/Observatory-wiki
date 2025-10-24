@@ -4,14 +4,14 @@ link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
 - [ ] Battery updates - see [[Lifepo4 batteries]] 
-- [ ] update the Pyxis 2 universal driver in the lenovo machine
+- [ ] update the Pyxis 2 universal driver [here](https://www.optecinc.com/downloads/rotators/universal/) in the lenovo & Nuc machine
 - [ ] find psu for Sitech controller
 - [ ] get vaseline for battery terminals
-- [ ] pick optec pyxis Universal ASCOM for the connection in PHD2 and in NINA and se if the connection will share
+- [ ] pick optec pyxis Universal ASCOM for the connection in PHD2 and in NINA and see if the connection will share
 - [ ] Make / find a gnd cable 35cm long for connection between gnd and the dome power MOSFET box.
-- [ ] find out why no power at the DM860I controller - the dome did not move when requested and it looks like there was no power....
+- [x] find out why no power at the DM860I controller - the dome did not move when requested and it looks like there was no power....gnd cable missing
 - [x] can't connect phd2 and nina to the rotator - posted in nina help - see above
-- [ ] At the Pyxis, we have a tube (at home) with a dovetail  dovetail at one end and an M54 thread at the other. It looks like FLO have an adapter that will adapt this to M48 male which will then fit the M48 female end of the new spacer stack, 
+- [ ] At the Pyxis, we have a tube (at home) with a dovetail at one end and an M54 thread at the other. It looks like FLO have an adapter that will adapt this to M48 male which will then fit the M48 female end of the new spacer stack, 
 - [ ] Install new cam and test focus
 - [ ] find shims?
 - [x] Upload the code update for the encoder - now on the stepper shaft.
