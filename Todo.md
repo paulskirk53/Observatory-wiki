@@ -6,7 +6,7 @@ Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 - [ ] check NUC before taking up to Observatory
 - [ ] ensure anydesk runs on NUC for remote testing of camera
 - [ ] Battery updates - see [[Lifepo4 batteries]] 
-- [ ] update the Pyxis 2 universal driver [here](https://www.optecinc.com/downloads/rotators/universal/) in the lenovo & Nuc machine
+- [x] update the Pyxis 2 universal driver [here](https://www.optecinc.com/downloads/rotators/universal/) in the lenovo & Nuc machine
 - [ ] find psu for Sitech controller
 - [ ] get vaseline for battery terminals
 - [ ] pick optec pyxis Universal ASCOM for the connection in PHD2 and in NINA and see if the connection will share
