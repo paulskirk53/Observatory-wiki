@@ -6,3 +6,4 @@ a small threaded adapter removed from the spacer attached to the 0.8x reducer th
 
 The adapter mentioned above facilitates connection to the camera nosepiece (from SX blue box) and then into the 3 inch refractor.
 
+main cam needs out by 1/8th turn cf lodestar
