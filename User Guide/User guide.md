@@ -1,4 +1,4 @@
-[[Observatory Home]]
+r[[Observatory Home]]
 
 When entering the observatory to initialise the equipment for an observing session, the following text describes the workflow. You must be at the observatory to do all the following things, it takes about 10-15 minutes once you've done it a few times. Once the setup is done, all functions can be controlled remotely - see [[Remote session management]].
 

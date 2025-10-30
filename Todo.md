@@ -4,13 +4,13 @@ link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
 - [ ] check NUC before taking up to Observatory
-- [ ] ensure anydesk runs on NUC for remote testing of camera
+- [x] ensure anydesk runs on NUC for remote testing of camera
 - [x] check dome rotates under power and request to move e.g. ASCOM Device Hub - done 26-10-25 checked 100 degrees of movement in both directions and the encoder matched exactly 254 -> 154 and 154 -> 254
 - [ ] Check a 180 or 360 degree movement of dome and check that the dome physically moves through 360/ 180
 - [ ] Battery updates - see [[Lifepo4 batteries]] 
 - [x] update the Pyxis 2 universal driver [here](https://www.optecinc.com/downloads/rotators/universal/) in the lenovo & Nuc machine
 - [ ] find psu for Sitech controller
-- [ ] get vaseline for battery terminals
+- [x] get vaseline for battery terminals
 - [ ] pick optec pyxis Universal ASCOM for the connection in PHD2 and in NINA and see if the connection will share
 - [x] Make / find a gnd cable 35cm long for connection between gnd and the dome power MOSFET box.
 - [x] find out why no power at the DM860I controller - the dome did not move when requested and it looks like there was no power....gnd cable missing
