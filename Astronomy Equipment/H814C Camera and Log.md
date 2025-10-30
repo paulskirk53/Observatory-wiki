@@ -1,3 +1,4 @@
+[[Observatory Home]]
 # Trius 814c and OAG
  [[#814C manual]]
  [[#USB Cable]]
@@ -57,19 +58,19 @@ Thread into trius body is 42mm diameter
 
 Use with the 0.8x reducer:
 
-The working distance to the chip is 97,5mm. (from TS optics)  Measured from where????? Face of the reducer I guess.
+- The working distance to the chip is 97,5mm. (from TS optics)  Measured from where????? Face of the reducer I guess.
 
-The sequence of components is c14, 0.8x reducer, rotator, spacer, OAG, Trius 814C, so the working distance of 97.5mm is made up of:
+- The sequence of components is c14, 0.8x reducer, rotator, spacer, OAG, Trius 814C, so the working distance of 97.5mm is made up of:
 
-Rotator uses 11 mm - this is the optec statement, but it is not true see below ++, so the new value is 36.25 mm
+- Rotator uses 11 mm - this is the optec statement, but it is not true see below ++, so the new value is 36.25 mm
 
-Trius backfocus uses 17mm
+- Trius backfocus uses 17mm
 
-OAG uses 16.5 mm (from flo web) checked with rule
+- ZWO OAG uses 16.5 mm (from flo web) checked with rule
 
-## Camera Spacer calculation 
+## Camera Spacer length calculation 
 
-Space = 97.5 - 36.25 - 16.5 - 17 = 27.75mm
+Length of Spacer = 97.5 - 36.25 - 16.5 - 17 = 27.75mm
 
 Check 27.75 +16.5 + 17+ 36.25 =  97.5 
 
@@ -97,6 +98,10 @@ Notes
 2. the exposure time of 0.001 seconds IS critical, anything longer causes white out and the pulsar dome shutter needs to be only one third open on a cloudy day to get an image.
     
 ## Camera connection problems log
+
+**Update 2025**
+By chance I replaced the NUC with a Lenovo M720Q. Te camera connection problem disappeared. So after all the pain of testing over years - it seems to have been the computer.
+AI information about this is that USB3 can cause connection problems with USB2 devices, so force use of USB2 protocol by using a USB 2 cable. Test ongoing Oct 2025
 
 ### Problems with the camera.
 
