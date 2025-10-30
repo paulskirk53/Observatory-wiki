@@ -14,10 +14,14 @@ NINA is installed on the NUC.
 8. Check dome aperture aligns with scope & Azimuth reads 255 degrees.
 9. Run Anydesk
 
+Could shut the observatory and leave at this point.
 ## NINA Specific
 1. connect equipment 
 2. Sync Dome to scope
 3. Go to a well placed target for plate solve (check in Cartes du Ciel)
+	1. NINA sky atlas allows to select an object and slew to it
 4. focus
+	1. Imaging tab -> focus window
 5. Platesolve
-6. 
+	1. Imaging tab -> PS window
+6. run a sequence
