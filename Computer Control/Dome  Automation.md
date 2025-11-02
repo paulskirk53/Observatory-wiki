@@ -42,6 +42,7 @@ in SGP and also in the ASCOM device hub (which we sometimes use ) enter the foll
 N/S enter 99 (north +ve)
 E/W enter -9  (minus 9 as west is defined as -ve)
 U/D enter 135 Up defined as +ve
+There is also the optical axis offset for a GEM Mount and empirically, it seems good alignment is obtained with a value of 500 (added Nov '2025)
 
 [[Observatory Home]]
 
