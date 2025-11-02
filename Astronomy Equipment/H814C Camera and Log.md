@@ -93,6 +93,7 @@ Length of spacer = 97.5 - 20 - 25 -17 = 35.5
 check 35.5 + 20+25+17 = 97.5 
 
 The joy is that because of the measurement mistake, the existing spacer is the correct length for the new Astro Frog. This does of course beg the question of how well the system was working with an incorrect length spacer - as the distance from the reducer to the CCD @ 97.5 is supposed to be critical....
+However, the ASI guide cam reaches focus when the mirror stem is fully into the light cone. If the stem is moved out the camera moves out too
 
 ## **archived:**
     
