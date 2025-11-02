@@ -92,7 +92,9 @@ Length of spacer = 97.5 - 20 - 25 -17 = 35.5
 
 check 35.5 + 20+25+17 = 97.5 
 
-- NB - the new spacer for the camera side needs to be such that the camera is touching the pyxis rotating inner wall to ensure the optical distance is accurate. 
+The joy is that because of the measurement mistake, the existing spacer is the correct length for the new Astro Frog. This does of course beg the question of how well the system was working with an incorrect length spacer - as the distance from the reducer to the CCD @ 97.5 is supposed to be critical....
+
+## **archived:**
     
 - Also, there is an unaccounted for distance between the reducer optical surface and the pyxis 11mm rotating centre - See the diagram in squared book - update - Now accounted for by external measurement of the adapters and the pyxis.
 
