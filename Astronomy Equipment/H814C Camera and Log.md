@@ -77,17 +77,24 @@ Check 27.75 +16.5 + 17+ 36.25 =  97.5 
 
 Checks - looking at the pyxis, just check the optical surface of the reducer to see that it is flush with the wall of the pyxis i.e. there is no extra length - otherwise the pyxis 11mm is not true and the calculation above will need to be redone with the correct value. It just looks wrong when looking from the outside, but may be ok once checked. Update when measured it is apparent that the optical surface of the reducer lies 1.75mm inside the Pyxis wall. 
 
-1- Nov '25 I question now how I can make such an accurate measurement to 2 d.p. without a micrometer and touching the face of the optics which of course I would not do).
-A measurement made on 2nd Nov 2025 is described bel
+1- Nov '25 I question now how I can make such an accurate measurement to 2 d.p. without a micrometer and touching the face of the optics which of course I would not do.
+- A measurement made on 2nd Nov 2025 when introducing a new Astro Frog OAG is described below:
+
 The actual length of optical train occupied by the pyxis is 25mm - assuming the optical surface of the reducer corresponds with the end of its casing - can easily be checked.
 
-  
+  So new calculatuion of spacer length for Astro Frog OAG
+- astro frog thickness = 20
+- Pyxis thickness = 25
+- Trius backfocus= 17
+Length of spacer = 97.5 - 20 - 25 -17 = 35.5
+
+check 35 + 20+25+17 = 
 
 - NB - the new spacer for the camera side needs to be such that the camera is touching the pyxis rotating inner wall to ensure the optical distance is accurate. 
     
 - Also, there is an unaccounted for distance between the reducer optical surface and the pyxis 11mm rotating centre - See the diagram in squared book - update - Now accounted for by external measurement of the adapters and the pyxis.
 
-++ careful measurement of the pyxis externally shows that the pyxis introduces a distance of 36.25mm described as follows. From the front face of the reducer (which sits 1.75mm inside the pyxis) to the edge face of the Trius is measured as 36.25mm
+++ careful measurement of the pyxis externally shows that the pyxis introduces a distance of 36.25mm described as follows. From the front face of the reducer (which sits 1.75mm inside the pyxis) to the edge face of the Trius is measured as 36.25mm - Nov 2025, yes but it's not the 'edge face' that matters it's the face of the recess.
 
 ## Focus position 
 March 2025 - the focuser has been set at 30,000 when at the focus position, just so it is midway on the scale
