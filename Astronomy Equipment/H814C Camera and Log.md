@@ -69,6 +69,7 @@ Use with the 0.8x reducer:
 - ZWO OAG uses 16.5 mm (from flo web) checked with rule
 
 ## Camera Spacer length calculation 
+See below for latest astro frog spacer calculation
 
 Length of Spacer = 97.5 - 36.25 - 16.5 - 17 = 27.75mm
 
@@ -82,13 +83,14 @@ Checks - looking at the pyxis, just check the optical surface of the reducer to 
 
 The actual length of optical train occupied by the pyxis is 25mm - assuming the optical surface of the reducer corresponds with the end of its casing - can easily be checked.
 
-  So new calculatuion of spacer length for Astro Frog OAG
+## So new calculation of spacer length for Astro Frog OAG:
+  
 - astro frog thickness = 20
 - Pyxis thickness = 25
 - Trius backfocus= 17
 Length of spacer = 97.5 - 20 - 25 -17 = 35.5
 
-check 35 + 20+25+17 = 
+check 35.5 + 20+25+17 = 97.5 
 
 - NB - the new spacer for the camera side needs to be such that the camera is touching the pyxis rotating inner wall to ensure the optical distance is accurate. 
     
