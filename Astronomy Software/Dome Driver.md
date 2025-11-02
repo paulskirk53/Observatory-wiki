@@ -1,3 +1,4 @@
+[[Observatory Home]]
 
 this document is current and replaces the version on google docs
 
