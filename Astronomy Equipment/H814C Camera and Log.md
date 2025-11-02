@@ -75,7 +75,7 @@ Length of Spacer = 97.5 - 36.25 - 16.5 - 17 = 27.75mm
 Check 27.75 +16.5 + 17+ 36.25 =  97.5 
 
 
-Checks - looking at the pyxis, just check the optical surface of the reducer to see that it is flush with the wall of the pyxis i.e. there is no extra length - otherwise the pyxis 11mm is not true and the calculation above will need to be redone with the correct value. It just looks wrong when looking from the outside, but may be ok once checked. Update when measured it is apparent that the optical surface of the reducer lies 1.75mm inside the Pyxis wall.
+Checks - looking at the pyxis, just check the optical surface of the reducer to see that it is flush with the wall of the pyxis i.e. there is no extra length - otherwise the pyxis 11mm is not true and the calculation above will need to be redone with the correct value. It just looks wrong when looking from the outside, but may be ok once checked. Update when measured it is apparent that the optical surface of the reducer lies 1.75mm inside the Pyxis wall. (Nov '25 I question now how I can make such an accurate measurement to 2 d.p. without a micrometer and touching the face of the optics which of course I would not do).
 
   
 
