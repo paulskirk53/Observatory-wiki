@@ -3,7 +3,8 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
-- [ ] check NUC before taking up to Observatory
+- [ ] finalise the OAG and set the prism across a corner of the SXH814C chip - adjust the Astro Frog adapter screws to achieve this.
+- [ ] check NUC with USB2 cable before taking up to Observatory
 - [x] ensure anydesk runs on NUC for remote testing of camera
 - [x] check dome rotates under power and request to move e.g. ASCOM Device Hub - done 26-10-25 checked 100 degrees of movement in both directions and the encoder matched exactly 254 -> 154 and 154 -> 254
 - [ ] Check a 180 or 360 degree movement of dome and check that the dome physically moves through 360/ 180
