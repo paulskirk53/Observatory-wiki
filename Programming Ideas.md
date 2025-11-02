@@ -12,3 +12,4 @@ So what if we wanted to park the scope at 90 (stop the grease flowing in one dir
 	- Send a command to the controlbox mcu to write the new park position to eeprom. The current session variable for Dome Azimuth will be correct.
 	- When the Control box MCU is shutdown/ reset it should read the initialisation value for Dome Azimuth from EEPROM
 - There is a risk that if the scope and dome are not BOTH parked at the same place that although they are synced in client software at session start, the sync will of course be incorrect, Dome aperture will not coincide with scope pointing.
+- How do we set park and park the dome in NINA?
