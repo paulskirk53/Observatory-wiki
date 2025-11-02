@@ -23,7 +23,7 @@ Does it matter if the software initialises to any other number? to be continued.
 
 To be continued - Novemebr 2025. I am still alive for the time being, although the mornings are getting much harder now and I do my best to hide it from everyone, but it's become a struggle. My brain still seems to work for the time being. So the to be continued thing - the only way to customise a different scope parking place currently  and know what dome azimuth that will be, is to use the ASCOM device hub to connect the INITIALISED scope and dome, sync the dome to the scope and move the scope  to the azimuth of the new scope park position. Note the dome azimuth in the monitoring software interface. Now in the Control Box code, change the code initialisation to the new azimuth position. Painful solution.
 
-See programming ideas for a Monitor program based alternative to hard codi
+See programming ideas for a Monitor program based alternative to hard coding the dome Azimuth.
 
 
 
