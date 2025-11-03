@@ -14,3 +14,9 @@ So what if we wanted to park the scope at 90 (stop the grease flowing in one dir
 - There is a risk that if the scope and dome are not BOTH parked at the same place that although they are synced in client software at session start, the sync will of course be incorrect, Dome aperture will not coincide with scope pointing.
 - How do we set park and park the dome in NINA?
 
+Further thoughts on way forward.
+
+The park Azimuth is available in the dome driver setup dialog. It is editable at runtime when the driver properties are accessed and saved to the ASCOM profile explorer.
+
+So, when ok is clicked on the setup dialog, a STA (sync to azimuth) cammand could be sent to the control box 
+
