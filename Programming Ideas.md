@@ -21,5 +21,7 @@ The park Azimuth is available in the dome driver setup dialog. It is editable at
 
 So, when ok is clicked on the setup dialog, a STA (sync to azimuth) command could be sent to the control box MCU. This would set the control box azimuth variable to the value requested in the setup dialog.
 
+Note - there may be a bug in the current trial implementation of the above. The sta is issued on connection and uses the park azimuth by reading the profile, but the new value from the setup dialog is not written to the profile until the setup() dialog is dismissed. So the previous value of the park position will be used. Try using the variable that's used to write the profile on 'ok', as that will contain the changed park place if it is accessible.
+
 
 
