@@ -38,5 +38,6 @@ same for homeplace.
 or better as the integer is required:
 Dome.Parkplace = ((int)numericUpDownParkAzimuth.Value).ToString();
 
-
+current status of modded driver
+connects in NINA, but STA from driver seems to set the controlbox azimuth to 1 degree. check the value written/ read to the ascom profile
 
