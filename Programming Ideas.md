@@ -35,4 +35,8 @@ Note - there may be a bug in the current trial implementation of the above. The 
 use this when converting the numericupdown value tostring in the setupdialogform.cs
 ToString("0.##");
 same for homeplace.
+or better as the integer is required:
+Dome.Parkplace = ((int)numericUpDownParkAzimuth.Value).ToString();
+
+
 
