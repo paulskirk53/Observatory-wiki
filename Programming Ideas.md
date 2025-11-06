@@ -6,7 +6,7 @@ When trying to implement the ideas below it became apparent that the setup dialo
 This seems counter intuitive as you can do this:
 Dome.Parkplace = ((int)numericUpDownParkAzimuth.Value).ToString();
 
-in the setup dialog, which implies that the 
+in the setup dialog, which implies that the internal static string Parkplace has been assigned a value, but THIS IS NOT THE CASE. The value is lost when the setupdialog is disposed after user clicks OK. Madness to make these dome. variables available in the dialog imo - far better to be transparent and use local variables where it is then obvious they will be lost when the dialog is disposed. I had extensive discussion with AI about this.
 
 
 
