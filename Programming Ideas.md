@@ -2,6 +2,15 @@
 
 [[West]] informs this idea.
 
+When trying to implement the ideas below it became apparent that the setup dialog in the dome driver is a separate insatnce from the driver and UNLESS values are persisted in the ASCOM Profile, they are lost when the dialog is dismissed with 'OK'
+This seems counter intuitive as you can do this:
+Dome.Parkplace = ((int)numericUpDownParkAzimuth.Value).ToString();
+
+in the setup dialog, which implies that the 
+
+
+
+
 Currently the dome azimuth is hard coded and can't be user initialised. So for instance if we park the scope at az 270, the control box mcu is hard coded with the equivalent dome azimuth (found empirically) of 255 degrees which is initialised in setup() function.
 
 So what if we wanted to park the scope at 90 (stop the grease flowing in one direction). We can set park and park the scope no problem. How to setpark and park the dome at the correct dome azimuth AND have that azimuth initialised when the system is next powered up? 
