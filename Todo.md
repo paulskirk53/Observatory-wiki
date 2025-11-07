@@ -5,6 +5,7 @@ Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
 - [ ] finalise the OAG and set the prism across a corner of the SXH814C chip - adjust the Astro Frog adapter screws to achieve this.
 - [ ] download ASCOM 7 to lenovo
+- [ ] pull the new dome dro
 - [x] download ASCOM 7 to NUC - done 3-11-25
 - [ ] check NUC with USB2 cable before taking up to Observatory
 - [x] ensure anydesk runs on NUC for remote testing of camera
