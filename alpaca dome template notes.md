@@ -1,0 +1,1 @@
+go to directory c:\alpaca\gowerdome2025 and open a ommand prompt as admin. .net run 
