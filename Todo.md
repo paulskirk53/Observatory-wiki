@@ -10,7 +10,7 @@ Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 - [ ] check NUC with USB2 cable before taking up to Observatory still not good - long download time. Points to NUC fault. Also the prevous cables in use WERE USB2.
 - [x] ensure anydesk runs on NUC for remote testing of camera
 - [x] check dome rotates under power and request to move e.g. ASCOM Device Hub - done 26-10-25 checked 100 degrees of movement in both directions and the encoder matched exactly 254 -> 154 and 154 -> 254
-- [ ] Check a 180 or 360 degree movement of dome and check that the dome physically moves through 360/ 180
+- [x] Check a 180 or 360 degree movement of dome and check that the dome physically moves through 360/ 180 yes with an error of two degrees.
 - [ ] Battery updates - see [[Lifepo4 batteries]] 
 - [x] update the Pyxis 2 universal driver [here](https://www.optecinc.com/downloads/rotators/universal/) in the lenovo & Nuc machine
 - [ ] find psu for Sitech controller
