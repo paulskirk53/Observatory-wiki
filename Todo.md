@@ -4,7 +4,13 @@ link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
 - [ ] finalise the OAG and set the prism across a corner of the SXH814C chip - adjust the Astro Frog adapter screws to achieve this.
-- [ ] download ASCOM 7 to lenovo
+- [ ] When connecting via devicehub on the lenovo, devicehub reported shutter closed irrespective of the switch position on the master radio box. When i brought the box home and tried it it reported shutter open. Why is this?
+	- [ ] Perhaps a loose switch connection?
+	- [ ] the u
+	- [ ] Master radio s/w Software is on box - same as when used at home
+	- [ ] dome driver on lenovo - this just sends SS# so SHOULD be same
+- [ ] Check the master radio code and perhaps write to the lcd for one/ two seconds when the switch position is being changed - at least this will be an indicator that the switch change is happening.
+- [ ] download ASCOM 7 to lenovo - BUT DEVICEHUB WILL NOT WORK STAN ALONE
 - [ ] pull the new dome driver code onto lenovo and check in NINA
 - [x] download ASCOM 7 to NUC - done 3-11-25
 - [ ] check NUC with USB2 cable before taking up to Observatory still not good - long download time. Points to NUC fault. Also the prevous cables in use WERE USB2.
