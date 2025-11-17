@@ -6,7 +6,7 @@ Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 - [ ] finalise the OAG and set the prism across a corner of the SXH814C chip - adjust the Astro Frog adapter screws to achieve this.
 - [ ] When connecting via devicehub on the lenovo, devicehub reported shutter closed irrespective of the switch position on the master radio box. When i brought the box home and tried it it reported shutter open. Why is this?
 	- [ ] Perhaps a loose switch connection?
-	- [ ] the u
+	- [ ] Device hub connected to Dome so USB comms ok.
 	- [ ] Master radio s/w Software is on box - same as when used at home
 	- [ ] dome driver on lenovo - this just sends SS# so SHOULD be same
 - [ ] Check the master radio code and perhaps write to the lcd for one/ two seconds when the switch position is being changed - at least this will be an indicator that the switch change is happening.
