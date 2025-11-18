@@ -5,16 +5,18 @@ Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
 - [ ] finalise the OAG and set the prism across a corner of the SXH814C chip - adjust the Astro Frog adapter screws to achieve this.
 - [ ] When connecting via devicehub on the lenovo, devicehub reported shutter closed irrespective of the switch position on the master radio box. When i brought the box home and tried it it reported shutter open. Why is this?
-	- [ ] Perhaps a loose switch connection? - No
-	- [ ] Device hub connected to Dome so USB comms ok.
-	- [ ] Master radio s/w Software is on box - same as when used at home
-	- [ ] dome driver on lenovo - this just sends SS# so SHOULD be same
-	- [ ] Solution - a coding error. see github for solution BT was connected in the observatory but the shutter did not open - no fuse in the motor control!!!!
-- [ ] Check the master radio code and perhaps write to the lcd for one/ two seconds when the switch position is being changed - at least this will be an indicator that the switch change is happening.
-- [ ] download ASCOM 7 to lenovo - BUT DEVICEHUB WILL NOT WORK STAN ALONE
+	- [x] Perhaps a loose switch connection? - No
+	- [x] Device hub connected to Dome so USB comms ok.
+	- [x] Master radio s/w Software is on box - same as when used at home
+	- [x] dome driver on lenovo - this just sends SS# so SHOULD be same
+	- [ ] Solution - There was un unhelpful coding error, but see see master radio github for solution to that.  BT was connected in the observatory but the shutter did not open - no fuse in the motor control!!!!
+- [x] Check the master radio code and perhaps write to the lcd for one/ two seconds when the switch position is being changed - at least this will be an indicator that the switch change is happening.
+	- [ ] implemented a write to lcd on switch change
+- [ ] download ASCOM 7 to lenovo - BUT DEVICEHUB WILL NOT WORK STAND ALONE
 - [ ] pull the new dome driver code onto lenovo and check in NINA
 - [x] download ASCOM 7 to NUC - done 3-11-25
-- [ ] check NUC with USB2 cable before taking up to Observatory still not good - long download time. Points to NUC fault. Also the prevous cables in use WERE USB2.
+- [ ] check NUC with USB2 cable before taking up to Observatory
+	- [ ] still not good - long download time. Points to NUC fault. Also the previous cables in use WERE USB2.
 - [x] ensure anydesk runs on NUC for remote testing of camera
 - [x] check dome rotates under power and request to move e.g. ASCOM Device Hub - done 26-10-25 checked 100 degrees of movement in both directions and the encoder matched exactly 254 -> 154 and 154 -> 254
 - [x] Check a 180 or 360 degree movement of dome and check that the dome physically moves through 360/ 180 yes with an error of two degrees.
