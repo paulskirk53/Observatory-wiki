@@ -3,6 +3,7 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
+- [ ] there sems to be a lockup with the master radio - needs some testing. The com port w
 - [ ] finalise the OAG and set the prism across a corner of the SXH814C chip - adjust the Astro Frog adapter screws to achieve this.
 - [ ] When connecting via devicehub on the lenovo, devicehub reported shutter closed irrespective of the switch position on the master radio box. When i brought the box home and tried it it reported shutter open. Why is this?
 	- [x] Perhaps a loose switch connection? - No
