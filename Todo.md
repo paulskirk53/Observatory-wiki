@@ -3,6 +3,7 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
+- [ ] might be good to try lenovo with existing s/w to see how interaction with master radio works.
 - [ ] install photonic universe software onto lenovo
 - [ ] Get a late build of NINA onto lenovo along with ASCOM 7.1
 - [ ] pull the latest version of dome driver onto lenovo, build in 64 bit for NINA ops & test with shutter motor & BT radio
