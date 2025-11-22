@@ -2,7 +2,7 @@
 [[Observatory Home]]
 **22nd November 2025 shutter comms failure** (also see 27-4 entry below)
 There were three nights clear, but rain showers later in night a possibility, so needed shutter to close, but there was a problem with shutter coms in NINA/ ASCOM Device Hub.NINA polling repeatedly failed in tests, logs indicate the comport connection for the master radio was closing - looking at logs from ascom device hub is really useful. The problem did not manifest with SGP, but did in NINA and device hub.
-Solution - i added try catch around the polling in the dome driver. Su
+**Solution** - i added try catch around the polling in the dome driver. Subsequent tests show the problem has been cured
 
 **Leaks Aug 2025**
 30th August 2025 a rainy day so I decided to goto observatory to check where the leak is:
