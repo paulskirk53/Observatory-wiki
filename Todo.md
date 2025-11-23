@@ -5,20 +5,20 @@ Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
 - [ ] Build the dome driver in 32 bit if required by anything or may be best to download sgp 64bit onto NUC and Lenovo.
 - [ ] install photonic universe software onto lenovo
-- [ ] Get a late build of NINA onto lenovo along with ASCOM 7.1
-- [ ] pull the latest version of dome driver onto lenovo, build in 64 bit for NINA ops & test with shutter motor & BT radio
-- [ ] logging in ascom device hub shows it is the master radio arduino port which is closing/ dropping out. there seems to be a lockup with the master radio & NINA - needs some testing. The com port wasn't released and NINA had to be terminated in Task Mgr
-- [ ] finalise the OAG and set the prism across a corner of the SXH814C chip - adjust the Astro Frog adapter screws to achieve this.
-- [ ] When connecting via devicehub on the lenovo, devicehub reported shutter closed irrespective of the switch position on the master radio box. When i brought the box home and tried it it reported shutter open. Why is this?
+- [x] Get a late build of NINA onto lenovo along with ASCOM 7.1
+- [x] pull the latest version of dome driver onto lenovo, build in 64 bit for NINA ops & test with shutter motor & BT radio
+- [x] solution below - logging in ascom device hub shows it is the master radio arduino port which is closing/ dropping out. there seems to be a lockup with the master radio & NINA - needs some testing. The com port wasn't released and NINA had to be terminated in Task Mgr
+- [x] finalise the OAG and set the prism across a corner of the SXH814C chip - adjust the Astro Frog adapter screws to achieve this.
+- [x] solution below When connecting via devicehub on the lenovo, devicehub reported shutter closed irrespective of the switch position on the master radio box. When i brought the box home and tried it it reported shutter open. Why is this?
 	- [x] Perhaps a loose switch connection? - No
 	- [x] Device hub connected to Dome so USB comms ok.
 	- [x] Master radio s/w Software is on box - same as when used at home
 	- [x] dome driver on lenovo - this just sends SS# so SHOULD be same
-	- [ ] Solution - There was un unhelpful coding error, but see see master radio github for solution to that.  BT was connected in the observatory but the shutter did not open - no fuse in the motor control!!!!
+	- [x] Solution - There was un unhelpful coding error, but see see master radio github for solution to that.  BT was connected in the observatory but the shutter did not open - no fuse in the motor control!!!!
 - [x] Check the master radio code and perhaps write to the lcd for one/ two seconds when the switch position is being changed - at least this will be an indicator that the switch change is happening.
 	- [ ] implemented a write to lcd on switch change
-- [ ] download ASCOM 7 to lenovo - BUT DEVICEHUB WILL NOT WORK STAND ALONE
-- [ ] pull the new dome driver code onto lenovo and check in NINA
+- [x] download ASCOM 7 to lenovo - BUT DEVICEHUB WILL NOT WORK STAND ALONE
+- [x] pull the new dome driver code onto lenovo and check in NINA
 - [x] download ASCOM 7 to NUC - done 3-11-25
 - [ ] check NUC with USB2 cable before taking up to Observatory
 	- [ ] still not good - long download time. Points to NUC fault. Also the previous cables in use WERE USB2.
