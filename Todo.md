@@ -21,7 +21,7 @@ Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 - [x] pull the new dome driver code onto lenovo and check in NINA
 - [x] download ASCOM 7 to NUC - done 3-11-25
 - [ ] check NUC with USB2 cable before taking up to Observatory
-	- [ ] still not good - long download time. Points to NUC fault. Also the previous cables in use WERE USB2.
+	- [ ] current position Nov '25 after tests is still not good - long download time. Points to NUC fault. Also the previous cables in use WERE USB2.
 - [x] ensure anydesk runs on NUC for remote testing of camera
 - [x] check dome rotates under power and request to move e.g. ASCOM Device Hub - done 26-10-25 checked 100 degrees of movement in both directions and the encoder matched exactly 254 -> 154 and 154 -> 254
 - [x] Check a 180 or 360 degree movement of dome and check that the dome physically moves through 360/ 180 yes with an error of two degrees.
