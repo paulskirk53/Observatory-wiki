@@ -3,6 +3,11 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
+- [ ]  Take computer lenovo to check shutter open / close
+- [ ] configure photonic universe with Lenovo for lifep04
+- [x] Install lifepo4 batteries - 24-11-25
+- [x] Install shutter gearbox and master radio - 24-11-25
+- [ ] 
 - [ ] Build the dome driver in 32 bit if required by anything or may be best to download sgp 64bit onto NUC and Lenovo.
 - [x] install photonic universe software onto lenovo
 - [x] Get a late build of NINA onto lenovo along with ASCOM 7.1
