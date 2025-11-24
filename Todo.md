@@ -4,7 +4,7 @@ link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
 - [ ] Build the dome driver in 32 bit if required by anything or may be best to download sgp 64bit onto NUC and Lenovo.
-- [ ] install photonic universe software onto lenovo
+- [x] install photonic universe software onto lenovo
 - [x] Get a late build of NINA onto lenovo along with ASCOM 7.1
 - [x] pull the latest version of dome driver onto lenovo, build in 64 bit for NINA ops & test with shutter motor & BT radio
 - [x] solution below - logging in ascom device hub shows it is the master radio arduino port which is closing/ dropping out. there seems to be a lockup with the master radio & NINA - needs some testing. The com port wasn't released and NINA had to be terminated in Task Mgr
