@@ -3,7 +3,9 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
-- [ ]  Take computer lenovo to check shutter open / close
+- [ ] 
+- [ ] new power lead for arduino shutter
+- [ ] Take computer lenovo to check shutter open / close in NINA
 - [ ] configure photonic universe with Lenovo for lifep04
 - [x] Install lifepo4 batteries - 24-11-25
 - [x] Install shutter gearbox and master radio - 24-11-25

@@ -1,5 +1,8 @@
 **Newest entries at top**     see here for [[Todo]]  and here for [[Long term todo]]
 [[Observatory Home]]
+**24th November 2025**
+The shutter did not close when it was open and the arduino powered up. Sheck the power from the epever, perhaps rig up a new usb power cord from battery using the plug on the computer desk 12v> USB
+
 **22nd November 2025 shutter comms failure** (also see 27-4 entry below)
 There were three nights clear, but rain showers later in night a possibility, so needed shutter to close, but there was a problem with shutter coms in NINA/ ASCOM Device Hub.NINA polling repeatedly failed in tests, logs indicate the comport connection for the master radio was closing - looking at logs from ascom device hub is really useful. The problem did not manifest with SGP, but did in NINA and device hub.
 **Solution** - i added try catch around the polling in the dome driver. Subsequent tests show the problem has been cured - 2 days of virtually continuous testing with NINA and the actual master radio & shutter (both brought home from the Observatory)
