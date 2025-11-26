@@ -5,7 +5,7 @@ Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
 - [ ] Thursday 27th Nov take up Lenovo & mouse & camera if it looks clear
 - [x] must put the nina json session template on lenovo
-- [ ] check all the plugins are up to date on lenovo
+- [x] check all the plugins are up to date on lenovo
 - [ ] 
 - [ ] New timber for cable hold on scope + tape
 - [ ] new power lead for arduino shutter
