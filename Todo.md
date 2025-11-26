@@ -3,7 +3,8 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
-- [ ] 
+- [ ] Thursday 27th Nov take up Lenovo & mouse & camera if it looks clear
+- [ ] New timber for cable hold on scope + tape
 - [ ] new power lead for arduino shutter
 - [ ] Take computer lenovo to check shutter open / close in NINA
 - [ ] configure photonic universe with Lenovo for lifep04
