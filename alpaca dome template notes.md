@@ -3,6 +3,6 @@ note that .net run does not work.
 
 27/11/25
  alpaca dome driver just need to retrieve the comports from the profile store and display in setup.razor something like :
-	port last used for shutter : COM4
-	port last used for control box  : COM17
+	shutter MCU last found on port  : COM4
+	control box last found on port   : COM17
 code will look like UI var = shuttercomport (note this Get reads from xml profile)

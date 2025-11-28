@@ -10,7 +10,7 @@ Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 - [ ] New timber for cable hold on scope + tape
 - [ ] new power lead for arduino shutter ?
 - [ ] Take computer lenovo to check shutter open / close in NINA
-- [ ] configure photonic universe with Lenovo for lifep04
+- [x] configure photonic universe with Lenovo for lifep04 done 28-11-2025
 - [x] Install lifepo4 batteries - 24-11-25
 - [x] Install shutter gearbox and master radio - 24-11-25
 - [ ] 
