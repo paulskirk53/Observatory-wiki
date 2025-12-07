@@ -7,3 +7,4 @@ note that .net run does not work.
 	control box last found on port   : COM17
 code will look like UI var = shuttercomport (note this Get reads from xml profile)
 
+a working driver is now connecting to NINA. Currently hosted by Visual studio by running the driver code in VS and running NINA, picking gowerdome 2025 and connecting. Erse
