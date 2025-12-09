@@ -1,3 +1,4 @@
+domeshutter is null when conform tries to reconnect
 2nd connection error - the port com4 has not been properly shutdown / disposed before it is re setup in setupPorts
 
 use the two code windows to insert the exception code into connect() / setupPorts()
