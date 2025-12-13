@@ -1,4 +1,6 @@
-nina connect fine. nina disconnect fine, **BUT** reconnect fails wit exception at line 410 of connect()
+now testing findhome FH# which fails on the simulator - needs wire to connect to pin used for home position microswitch
+
+nina connect fine. nina disconnect fine, **BUT** reconnect fails wit exception at line 410 of connect() - done
  2nd connection error - the port com4 has not been properly shutdown / disposed before it is re setup in setupPorts
 
 use the two code windows to insert the exception code into connect() / setupPorts()
