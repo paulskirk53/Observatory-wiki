@@ -1,4 +1,5 @@
-Updating the current control box code to include get and set home/ park azimuth
+[[Observatory Home]]
+**Updating the current control box** code to include get and set home/ park azimuth
 the azimuth seems to be remembered after connecting e.g. was 266 after setting it with the encoder wheel, then disconnect and reconnect - still 266 - needs investigation error in code 'kkepaz' now fixed
 
 
