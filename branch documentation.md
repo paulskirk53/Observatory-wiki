@@ -6,9 +6,9 @@ The current in use branch is master and this has been updated and tested at home
 
 The current branches in use  for testing new code are:
 - test-AI-direction-and-countdown-to-target
-	- this is still based on moving until the encoder value reaches the target vallue (the original system).
+	- this is still based on moving until the encoder value reaches the target value (the original system).
 - merged -test-master-and degrees
-	- this is the new idea of calculating the number of motor steps required to reach the target azimuth. Once tested, the branch below can be deleted.
+	- this is the new idea of calculating the number of motor steps required to reach the target azimuth. Once tested, the branch below can be deleted. Or merge this branch into drive using degrees (done 18-12-25)
 -  drive using degrees
 
 **Monitor program**
