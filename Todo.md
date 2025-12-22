@@ -5,6 +5,8 @@ Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
 - [ ] 21-12-25 Update the code on the observatory control box with the Master branch
 - [ ] 21-12-25 Update the monitor code on the Lenovo
+- [ ] install the microswitch
+- [ ] 
 - [x] must put the nina json session template on lenovo
 - [x] check all the plugins are up to date on lenovo
 - [ ] 
