@@ -27,8 +27,39 @@ Taking into consideration the restrictions on movement of the mount due to const
 I consulted AI about this and after much interaction it's clear that the Over Pole Meridian Limit settings are the ones which facilitate avoidance of pier collision and should be set as per sections below. The following describes the purpose of over pole and under pole settings:
 - The concept of over pole and under pole can be described as follows: 
 	- Over pole limits are those which move the scope as far as possible away from the meridian without a collision occurring (two limits : E and W) 
-	- Under pole limits are those which move the scope as close to the meridian as possible without a collision occurring (two limits : E and W) The purpose of Under pole limits is to 
+	- Under pole limits are those which move the scope as close to the meridian as possible without a collision occurring (two limits : E and W) The purpose of Under pole limits is to facilitate got and flip logic
 
+Here's AI's take:
+# 🔵 **1. Over‑pole limits = physical safety**
+
+These are the ones you _can_ find by moving the scope until it nearly hits the pier.
+
+They prevent:
+
+- the C14’s back end swinging _down_ toward the pier    
+- collisions when tracking _past_ the meridian    
+- collisions during long exposures    
+- collisions during slow slews    
+
+These are the limits you physically measured.
+
+# 🔴 **2. Under‑pole limits = logical safety (not physical)**
+
+Under‑pole limits exist to prevent **SiTech from slewing the mount into a stupid position**, not to prevent pier strikes.
+
+They stop the mount from:
+
+- slewing _through_ the meridian at high speed    
+- choosing the wrong side of pier for a GoTo    
+- flipping unnecessarily    
+- flipping too early    
+- flipping too late    
+- getting “stuck” on the wrong side of the meridian    
+
+In other words:
+# ⭐ **Under‑pole limits tell SiTech when it is allowed to flip —
+
+not when the telescope will hit the pier.**
 ## Considering the Meridian Limit East:
 
 If a goto is commanded into the region defined by LE and LW, Sitech orients the scope to pointing west, so that tracking can continue from that point without a pier flip. So to prolong the amount of time the scope is tracking without having to flip, it seems logical to set LE to a large value, limited by pier collision.
