@@ -3,6 +3,7 @@
 ## [[#Terms]]
 [[#Purpose]]
 [[#Preamble]]
+
 [[#Considering the Meridian Limit East]]
 [[#Considering the Meridian Limit West]]
 [[#Setting the Limits]]
@@ -39,7 +40,7 @@ It may be optimal to look at things in the following way considering the over po
 
 This point can be defined by the physical capabilities of the mount/ pier. In order to set LE to the most easterly point allowed by the physical constraints of scope/ pier (i.e. the limit is set so that a pier crash is avoided), the following process can be followed and only works if the mount has been initialised (as we need the RA value).
 
-Set the mount with the scope on the east side as close to the pier as possible, such that when rotating the Dec axis, the scope will not contact the pier. Note the Scope Azimuth value from the Sitech interface. Enter this value into ‘Meridian Limit East’ in Sitech config.  
+Set the mount with the scope on the east side as close to the pier as possible, such that when rotating the Dec axis, the scope will not contact the pier. Note the Scope RA value from the Sitech interface. Enter this value into ‘Meridian Limit East’ in Sitech config.  
 
 ### Setting the Meridian Limit West:
 
@@ -52,7 +53,7 @@ Sometimes session management software may be used in conjunction with Sitech. Su
 
 ## Meridian and Mesu - Sitech Forum 
 
-### Explanation about limits in Sitech
+### Explanation about limits from Sitech forum
 
 Hi Paul,
 I will try to answer all your questions.  First, these settings are all dependent on your mount being properly initialized.  In other words, if the mount is NOT initialized, then these settings are meaningless and strange things can happen.
