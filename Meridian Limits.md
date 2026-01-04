@@ -23,21 +23,21 @@ The purpose of the limits is to optimise telescope pointing for viewing/ trackin
 Taking into consideration the restrictions on movement of the mount due to constraints which a pier or tripod etc may impose, and being mindful of other constraints such as observatory obstruction to the optical axis of the telescope, the following describes the operation of Over Pole goto commands in the context of the meridian limits set in Sitech config.
 ## Considering the Meridian Limit East:
 
-If a goto is commanded into the region defined by LE and LW, Sitech orients the scope to pointing west, so that tracking can continue from that point without a pier flip. So to prolong the amount of time the scope is tracking without having to flip, it seems logical to set LE to a large value, but be careful as the scope may end up counterweight up
+If a goto is commanded into the region defined by LE and LW, Sitech orients the scope to pointing west, so that tracking can continue from that point without a pier flip. So to prolong the amount of time the scope is tracking without having to flip, it seems logical to set LE to a large value, limited by pier collision.
 
 If a goto is commanded to the East of LE, Sitech will orient the scope looking East. If tracking continues with the scope looking East and the ‘track past meridian overlap’ is reached, at this point, depending upon whether ‘GEM Autoflip Track’ is checked, Sitech either stops tracking OR flips the mount to ‘looking West’, where tracking can continue up to the ‘track past meridian overlap’ value, where it stops.
 
 ## Considering the Meridian Limit West:
 
-If a goto is commanded into the region West of LW, Sitech orients the scope to ‘looking west’. Tracking can continue in this configuration, unaffected by the  ‘track past meridian overlap’ value as the scope is looking West. (CHECK THIS)
+If a goto is commanded into the region West of LW, Sitech orients the scope to ‘looking west’. Tracking can continue in this configuration, unaffected by the  ‘track past meridian overlap’ value as the scope is looking West. (CHECK THIS) - nonsense.
 
 ## Setting the Limits
 
-It may be optimal to look at things in the following way, but there are many options.
+It may be optimal to look at things in the following way considering the over pole limits which are those which are designed to avoid pier collisions on East or West
 
 ### Setting the Meridian Limit East:
 
-This point can be defined by the physical capabilities of the mount/ pier. In order to set LE to the most easterly point allowed by the physical constraints of scope/ pier (i.e. the limit is set so that a pier crash is avoided), the following process can be followed and only work if the mount has been initialised::
+This point can be defined by the physical capabilities of the mount/ pier. In order to set LE to the most easterly point allowed by the physical constraints of scope/ pier (i.e. the limit is set so that a pier crash is avoided), the following process can be followed and only works if the mount has been initialised (as we need the RA value).
 
 Set the mount with the scope on the east side as close to the pier as possible, such that when rotating the Dec axis, the scope will not contact the pier. Note the Scope Azimuth value from the Sitech interface. Enter this value into ‘Meridian Limit East’ in Sitech config.  
 
