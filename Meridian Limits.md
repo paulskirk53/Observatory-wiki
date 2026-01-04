@@ -21,7 +21,14 @@ In the following description M denotes the meridian, LE denotes the Sitech Merid
 The purpose of the limits is to optimise telescope pointing for viewing/ tracking purposes, and to avoid pier collisions.
 ## Preamble
 
-Taking into consideration the restrictions on movement of the mount due to constraints which a pier or tripod etc may impose, and being mindful of other constraints such as observatory obstruction to the optical axis of the telescope, the following describes the operation of Over Pole goto commands in the context of the meridian limits set in Sitech config.
+Taking into consideration the restrictions on movement of the mount due to constraints which a pier or tripod etc may impose, and being mindful of other constraints such as observatory obstruction to the optical axis of the telescope, the following describes the operation of Over Pole **goto** commands in the context of the meridian limits set in Sitech config.
+
+## Over pole and under pole
+I consulted AI about this and after much interaction it's clear that the Over Pole Meridian Limit settings are the ones which facilitate avoidance of pier collision and should be set as per sections below. The following describes the purpose of over pole and under pole settings:
+- The concept of over pole and under pole can be described as follows: 
+	- Over pole limits are those which move the scope as far as possible away from the meridian without a collision occurring (two limits : E and W) 
+	- Under pole limits are those which move the scope as close to the meridian as possible without a collision occurring (two limits : E and W) The purpose of Under pole limits is to 
+
 ## Considering the Meridian Limit East:
 
 If a goto is commanded into the region defined by LE and LW, Sitech orients the scope to pointing west, so that tracking can continue from that point without a pier flip. So to prolong the amount of time the scope is tracking without having to flip, it seems logical to set LE to a large value, limited by pier collision.
