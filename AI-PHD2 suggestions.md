@@ -1,6 +1,6 @@
 for mesu 200, long focal length of 3128 (c14 with 0.8x reducer) and ASI 174mm mini guide cam:
 
-AI
+AI7070
 I’ll give you numbers you can actually plug into PHD2, tailored to your setup.
 
 ### 1. Your guiding scale
