@@ -1,3 +1,5 @@
+back to  [[Observatory Home]]
+
 for mesu 200, long focal length of 3128 (c14 with 0.8x reducer) and ASI 174mm mini guide cam:
 
 AI7070
@@ -64,7 +66,7 @@ You can stay close to defaults, just tweaked:
 
 - **No PEC:** fine. The Mesu’s PE is already very low; you’re better off with smooth, moderate corrections than aggressively trying to “correct PE” that barely exists.
     
-- **Guide rate:** if you can see the exact guide rate in SiTech, we could fine‑tune calibration step size more precisely, but the 1500–2000 ms range is a solid starting point.
+- **Guide rate:** if you can see the exact guide rate in SiTech, we could fine‑tune calibration step size more precisely, but the 250 - 300 ms range is a solid starting point.
     
 
 ### 8. How to refine after first night
