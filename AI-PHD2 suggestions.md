@@ -23,32 +23,17 @@ Shorter than 2 s at this scale will mostly fight seeing, not real mount errors
 ### 3. Calibration step size
 
 This is the big one people get wrong at long focal length.
-
-You want PHD2 to finish calibration in about **25–30 steps** per axis and see a clear movement in the calibration graph.Open PHD Guiding
-
-Given your scale and typical guide rate (SiTech / Mesu often around 0.5× sidereal), a good starting point:
-
-- **Calibration step size:** **1500–2000 ms**
+use the phd2 inbuilt calculator
     
-
-Then:
-
-1. Calibrate near the **meridian and celestial equator** (PHD2 recommends this for good calibration).Open PHD Guiding
-    
-2. Check the log: if it used 60+ steps per axis, _increase_ step size; if it finishes in under ~15 steps, you can _reduce_ it slightly.
-    
-
-If you want to be really methodical, run **PHD2’s Calibration Assistant**, which will suggest a step size based on actual movement measured.Open PHD Guiding
-
 ### 4. Min‑move (RA and DEC)
 
 At 0.39″/px with good seeing, you don’t want PHD2 correcting every tiny wiggle.
 
 Start with:
 
-- **RA min‑move:** **0.25 px** (≈ 0.1″)
-    
-- **DEC min‑move:** **0.25 px**
+- **RA min‑move:** **0.25 px** (≈ 0.1″) note phd2 default is 0.55 i kept that
+     
+- **DEC min‑move:** **0.25 px**  note phd2 default is 0.55 i kept that
     
 
 If the RA graph looks noisy and “busy” (lots of small corrections), push both to **0.30 px**. If it looks too sluggish and RA drifts slowly, you can lower to ~0.20 px.
