@@ -3,8 +3,8 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
-- [ ]try the 12 to 19v converter for the Geekom before the ebay return period expires
-- 
+- [ ] get the serial to usb converter from obs for trial of rotator at home
+- [ ] try the 12 to 19v converter for the Geekom before the ebay return period expires
 - [ ] 21-12-25 Update the code on the observatory control box with the Master branch
 - [ ] 21-12-25 Update the monitor code on the Lenovo
 - [ ] CHECK TO SEE IT WORKS AS EXPECTED
