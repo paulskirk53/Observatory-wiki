@@ -4,6 +4,8 @@ link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
 - [ ] get the serial to usb converter from obs for trial of rotator at home
+- [ ] 7-1-26 Take serial to TTL converter cable back to obs and connect to rotator cable
+- [ ] 7-1-26 Take control box back to observatory
 - [ ] try the 12 to 19v converter for the Geekom before the ebay return period expires
 - [ ] 21-12-25 Update the code on the observatory control box with the Master branch
 - [ ] 21-12-25 Update the monitor code on the Lenovo
