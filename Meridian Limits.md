@@ -68,7 +68,7 @@ If a goto is commanded to the East of LE, (where LE is not set as the Eastern ph
 
 ## Considering the Meridian Limit West:
 
-If a goto is commanded into the region West of LW, Sitech orients the scope to ‘looking west’. Tracking can continue in this configuration, unaffected by the  ‘track past meridian overlap’ value as the scope is looking West. (CHECK THIS) - nonsense.
+If a goto is commanded into the region West of LW, Sitech orients the scope to ‘looking west’. Tracking can continue in this configuration, unaffected by the  ‘track past meridian overlap’ value as the scope is looking West. 
 
 ## Setting the Limits
 
