@@ -64,7 +64,7 @@ not when the telescope will hit the pier.**
 
 If a goto is commanded into the region defined by LE and LW, Sitech orients the scope to pointing west, so that tracking can continue from that point without a pier flip. So to prolong the amount of time the scope is tracking without having to flip, it seems logical to set LE to a large value, limited by pier collision.
 
-If a goto is commanded to the East of LE, Sitech will orient the scope looking East. If tracking continues with the scope looking East and the ‘track past meridian overlap’ is reached, at this point, depending upon whether ‘GEM Autoflip Track’ is checked, Sitech either stops tracking OR flips the mount to ‘looking West’, where tracking can continue up to the ‘track past meridian overlap’ value, where it stops.
+If a goto is commanded to the East of LE, (where LE is not set as the Eastern physical protection limit), Sitech will orient the scope looking East. If tracking continues with the scope looking East and the ‘track past meridian overlap’ is reached, at this point, depending upon whether ‘GEM Autoflip Track’ is checked, Sitech either stops tracking OR flips the mount to ‘looking West’, where tracking can continue up to the ‘track past meridian overlap’ value, where it stops.
 
 ## Considering the Meridian Limit West:
 
