@@ -21,13 +21,14 @@ In the following description M denotes the meridian, LE denotes the Sitech Merid
 The purpose of the limits is to optimise telescope pointing for viewing/ tracking purposes, and to avoid pier collisions.
 ## Preamble
 
-Taking into consideration the restrictions on movement of the mount due to constraints which a pier or tripod etc may impose, and being mindful of other constraints such as observatory obstruction to the optical axis of the telescope, the following describes the operation of Over Pole **goto** commands in the context of the meridian limits set in Sitech config.
+Taking into consideration the restrictions on movement of the mount due to constraints which a pier or tripod etc may impose, and being mindful of other constraints such as observatory obstruction to the optical axis of the telescope, the following describes the operation of **goto** commands in the context of the meridian limits set in Sitech config.
+In order to clarify 'looking East' & 'Looking West', Dan Gray posted in the Sitech forum "You can use the counterweight as an indicator.  If it's on the west side, you're 'looking west'."
 
 ## Over pole and under pole
 I consulted AI about this and after much interaction it's clear that the Over Pole Meridian Limit settings are the ones which facilitate avoidance of pier collision and should be set as per sections below. The following describes the purpose of over pole and under pole settings:
 - The concept of over pole and under pole can be described as follows: 
 	- Over pole limits are those which move the scope as far as possible away from the meridian without a collision occurring (two limits : E and W) 
-	- Under pole limits are those which move the scope as close to the meridian as possible without a collision occurring (two limits : E and W) The purpose of Under pole limits is to facilitate got and flip logic
+	- Under pole limits are those which move the scope as close to the meridian as possible without a collision occurring (two limits : E and W) The purpose of Under pole limits is to facilitate goto and flip logic. I informed AI that when setting under pole W & E limits, it is not possible for a collision to occur.
 
 Here's AI's take:
 # 🔵 **1. Over‑pole limits = physical safety**
@@ -68,7 +69,7 @@ If a goto is commanded to the East of LE, (where LE is not set as the Eastern ph
 
 ## Considering the Meridian Limit West:
 
-If a goto is commanded into the region West of LW, Sitech orients the scope to ‘looking west’. Tracking can continue in this configuration, unaffected by the  ‘track past meridian overlap’ value as the scope is looking West. 
+If a goto is commanded into the region West of LW, (if it's not the physical western constraint), Sitech orients the scope to ‘looking west’. Tracking can continue in this configuration, Note that from what I have found concerning the track pst meridian setting, it does not apply if the scope is looking west (i.e. CW on WEST side of pier)
 
 ## Setting the Limits
 
