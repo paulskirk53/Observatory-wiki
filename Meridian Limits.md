@@ -9,7 +9,9 @@
 [[#Setting the Limits]]
 [[#Setting the Meridian Limit East]]
 [[#Setting the Meridian Limit West]]
-[[#Other things to consider]]
+[[#Track past Meridian Overlap (TPMO)]]
+[[#Gem autoflip goto]]
+[[#Gem autoflip track & Meridian Flip from Client]]
 [[#Meridian and Mesu - Sitech Forum]]
 [[#Explanation about limits in Sitech]]
 [[#Further advice on limits 18-4-21]]
@@ -95,7 +97,7 @@ Allows for optimal scope position on commanded goto  to maximise tracking withou
 ## Gem autoflip track & Meridian Flip from Client
 When using NINA, don't select this option in Sitech Config. Example: Sitech **TPMO** is set to 20 degrees (to coincide with the meridian safety limit). NINA can keep requesting images up to this point, but it is sensible to obtain more imaging time by requesting a flip. So say track past the meridian for 15 degrees and then NINA issues a meridian flip request. This is within the TPMO limit of 20 degrees, so Sitech will be happy. In NINA, the meridian flip metric is minutes not degrees, so note 20 degrees is 80 minutes, so set the flip to occur around 75 minutes for a bit of contingency. 
 
-Avoid conflict between Sitech and NINA )or other client) by ensuring the client requests a flip before the TPMO window expires
+Avoid conflict between Sitech and NINA (or other client) by ensuring the client requests a flip before the Sitech TPMO window expires.
 
 ## Meridian and Mesu - Sitech Forum 
 
