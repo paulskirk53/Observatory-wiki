@@ -28,7 +28,7 @@ In order to clarify 'looking East' & 'Looking West', Dan Gray posted in the Site
 I consulted AI about this and after much interaction it's clear that the Over Pole Meridian Limit settings are the ones which facilitate avoidance of pier collision and should be set as per sections below. The following describes the purpose of over pole and under pole settings:
 - The concept of over pole and under pole can be described as follows: 
 	- Over pole limits are those which move the scope as far as possible away from the meridian without a collision occurring (two limits : E and W) 
-	- Under pole limits are those which move the scope as close to the meridian as possible without a collision occurring (two limits : E and W) The purpose of Under pole limits is to facilitate goto and flip logic. I informed AI that when setting under pole W & E limits, it is not possible for a collision to occur.
+	- Under pole limits are those which move the scope as close to the meridian as possible without a collision occurring (two limits : E and W) The purpose of Under pole limits is to facilitate goto and flip logic. I informed AI that when setting under pole W & E limits, it is not possible for a collision to occur. The default Under Pole limits used by Sitech seem to be 175 degrees and this is borne out by doing a fresh install of Sitech.
 
 Here's AI's take:
 # 🔵 **1. Over‑pole limits = physical safety**
@@ -69,7 +69,7 @@ If a goto is commanded to the East of LE, (where LE is not set as the Eastern ph
 
 ## Considering the Meridian Limit West:
 
-If a goto is commanded into the region West of LW, (if it's not the physical western constraint), Sitech orients the scope to ‘looking west’. Tracking can continue in this configuration, Note that from what I have found concerning the track pst meridian setting, it does not apply if the scope is looking west (i.e. CW on WEST side of pier)
+If a goto is commanded into the region West of LW, (if it's not the physical western constraint), Sitech orients the scope to ‘looking west’. Tracking can continue in this configuration, Note that from what I have found concerning the 'track past meridian overlap' setting, it does not apply if the scope is looking west (i.e. CW on WEST side of pier). Tracking continues until a horizon limit is hit or client software terminates tracking.
 
 ## Setting the Limits
 
