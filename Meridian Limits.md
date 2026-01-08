@@ -87,14 +87,15 @@ The same procedure can be followed, but with the scope on the west side of the p
 
 The limits are easy to change, so they can be tailored to a specific session.
 
-## Track past Meridian Overlap
+## Track past Meridian Overlap (TPMO)
 This is operational if looking East (i.e Dan's definition of looking East is CW on E side of Pier). In our setup it allows the scope to image with cw on East until the safety limit is reached, where tracking stops.
 ## Gem autoflip goto
 Allows for optimal scope position on commanded goto  to maximise tracking without flip
 
-## Other things to consider
+## Gem autoflip track & Meridian Flip from Client
+When using NINA, don't select this option in Sitech Config. Example: Sitech **TPMO** is set to 20 degrees (to coincide with the meridian safety limit). NINA can keep requesting images up to this point, but it is sensible to obtain more imaging time by requesting a flip. So say track past the meridian for 15 degrees and then NINA issues a meridian flip request. This is within the TPMO limit of 20 degrees, so Sitech will be happy. In NINA, the meridian flip metric is minutes not degrees, so note 20 degrees is 80 minutes, so set the flip to occur around 75 minutes for a bit of contingency. 
 
-Sometimes session management software may be used in conjunction with Sitech. Such software often allows configuration criteria to be used to inform pier flips, so it is important that the two systems (Sitech and the Session manager) are set to work in harmony. For instance, if Sitech LW is set to 5 degrees and Sitech track past meridian limit is set to 5 degrees, if the session management software requests a pier flip at 15 degrees past the meridian, that’s a conflict.
+Avoid conflict between Sitech and NINA )or other client) by ensuring the client requests a flip before the TPMO window expires
 
 ## Meridian and Mesu - Sitech Forum 
 
