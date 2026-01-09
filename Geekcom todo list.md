@@ -8,8 +8,18 @@
 - [x] Check sitech loads from PHD2
 - [x] check sitech loads into NINA
 - [ ] Set the Sitech COM port
-- [ ] NINA - set meridian flip at 75 mins, 80 max
+- [x] Install SX 64 bit drivers and test connection in NINA
+- [x] Install asi guidecam driver and test connection in NINA
+- [x] Install PHD2 and configure all parameters cf lenovo
+- [x] PHD2 test connections to mount and guidecam
+- [x] PHD2 set up dark library
+- [ ] 
+- [x] NINA - set meridian flip at 75 mins, 80 max
 - [ ] NINA - check config against dev machine
 - [ ] NINA - check plugins
-- [ ] NINA options Dome - set all the dome geometry as per leno
+- [ ] NINA options Dome - set all the dome geometry as per lenovo
+- [ ] NINA setup platesolve 3 & catalogs
+- [ ] NINA - set autofocus as per lenovo
+- [ ] NINA work out how to save a profile rather than just the default
+- [ ] 
 - [ ] 
