@@ -10,7 +10,7 @@ Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 - [x] try the 12 to 19v converter for the Geekom before the ebay return period expires 
 	- [x] tested 7-1-26
 - [x] 21-12-25 Update the code on the observatory control box with the Master branch
-	- [ ] confirmed master
+	- [x] confirmed master
 - [ ] 21-12-25 Update the monitor code on the Lenovo
 - [ ] CHECK TO SEE IT WORKS AS EXPECTED
 - [ ] Make a bracket for the dome sync microswitch and add a rounded wooden actuator to the coper strip - or bolt on an orange pulley with centre bearing for smooth operation. Mark the position of two holes in the other end of copper strip to align with holes in dome periphery (under drive belt).
