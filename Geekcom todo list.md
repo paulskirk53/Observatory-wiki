@@ -25,7 +25,7 @@
 - [x] Microtouch focuser - check the driver is installed ascom driver installed on 1-1-26
 - [ ] #task Once configured, take the geekom up to the observatory and check everything connects. ➕ 2026-01-10
 - [x] OPTEC Pyxis check pyxis commander installed - yes
-- [ ] install cartes and config in NINA
+- [x] install cartes and config in NINA
 - [ ] NINA GEM axis offsets - see below for the measurements needed
 
 
