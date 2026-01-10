@@ -18,7 +18,7 @@
 - [ ] NINA - check config against dev machine
 - [x] NINA - check plugins
 - [ ] NINA options Dome - set all the dome geometry as per lenovo
-- [ ] NINA setup platesolve 3 & catalogs copy the catalogs from lenovo using nvme disk
+- [x] NINA setup platesolve 3 & catalogs copy the catalogs from lenovo using nvme disk
 - [ ] NINA - set autofocus as per lenovo
 - [ ] NINA work out how to save a profile rather than just the default
 - [ ] 
