@@ -19,11 +19,22 @@
 - [x] NINA - check plugins
 - [x] NINA options Dome - set all the dome GEM offsets geometry as per lenovo
 - [x] NINA setup platesolve 3 & catalogs copy the catalogs from lenovo using nvme disk - tested with M51 from within NINA
-- [ ] NINA - set autofocus as per lenovo
+- [x] NINA - set autofocus as per lenovo
 - [x] NINA work out how to save a profile rather than just the default
 - [x] store my template sequence from documents> nina on dev to same on geekom
 - [x] Microtouch focuser - check the driver is installed ascom driver installed on 1-1-26
 - [ ] #task Once configured, take the geekom up to the observatory and check everything connects. ➕ 2026-01-10
 - [x] OPTEC Pyxis check pyxis commander installed - yes
 - [ ] install cartes and config in NINA
-- [ ] 
+- [ ] NINA GEM axis offsets - see below for the measurements needed
+
+
+## 1️⃣ **GEM Axis Length**
+
+Distance from the **RA axis pivot** to the **DEC axis pivot**. This is the physical length of the RA axis housing.
+
+## 2️⃣ **Lateral Axis Length**
+
+Distance from the **RA/DEC intersection** to the **optical axis** (sideways offset).
+
+This is the measurement you already know from SGP.
