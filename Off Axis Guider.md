@@ -7,6 +7,18 @@ I have modelled the fov of the setup in Cartes du Ciel (setup> display> finder r
 With the C14 at **f/8**, the **actual guide field of view** through the Askar M54 OAG prism is approximately: 11.0 × 7.7 arcminutes. (AI)
 
 That’s a noticeable improvement over the ZWO OAG’s ~8.8 × 6.2 arcminutes at f/11, and even more so compared to the Lodestar’s smaller sensor.
+The **ZWO ASI174MM Mini** uses the **Sony IMX174** sensor, and its physical chip size is:
+
+# **Sensor (chip) size for ZWO ASI174MM Mini: 11.3 mm × 7.1 mm**
+
+This comes directly from multiple product listings:
+
+- Widescreen Centre lists the sensor as **11.3 × 7.1 mm**Widescreen Centre
+    
+- Astro.com.sg also confirms **11.3 mm × 7.1 mm**Astro Scientific
+
+
+
 
 **Specs**
 ASKAR M54 OAG is 19.5mm thickness
