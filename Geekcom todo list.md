@@ -8,6 +8,7 @@
 - [x] Check sitech loads from PHD2
 - [x] check sitech loads into NINA
 - [ ] Set the Sitech COM port
+- [ ] set the pyxis COM port
 - [x] Install SX 64 bit drivers and test connection in NINA
 - [x] Install asi guidecam driver and test connection in NINA
 - [x] Install PHD2 and configure all parameters cf lenovo
