@@ -17,7 +17,7 @@
 - [x] NINA - set meridian flip at 75 mins, 80 max
 - [ ] NINA - check config against dev machine
 - [x] NINA - check plugins
-- [ ] NINA options Dome - set all the dome geometry as per lenovo
+- [x] NINA options Dome - set all the dome GEM offsets geometry as per lenovo
 - [x] NINA setup platesolve 3 & catalogs copy the catalogs from lenovo using nvme disk - tested with M51 from within NINA
 - [ ] NINA - set autofocus as per lenovo
 - [x] NINA work out how to save a profile rather than just the default

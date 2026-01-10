@@ -3,7 +3,7 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 
-- [ ] Uninstall Sitech 0.96v and install 0.95Z - test with NINA and PHD2 on GEEKHUB
+- [x] Uninstall Sitech 0.96v and install 0.95Z - test with NINA and PHD2 on GEEKHUB
 - [ ] get the serial to usb converter from obs for trial of rotator at home - doesn't work without the cable idiot
 - [ ] 7-1-26 Take serial to TTL converter cable back to obs and connect to rotator cable
 - [ ] 7-1-26 Take control box back to observatory

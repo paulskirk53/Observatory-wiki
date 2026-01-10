@@ -17,11 +17,14 @@ So if we set the scope counterweight down and scope pointing due west and levell
 **Why is this so tiresome?** Well, the answer lies in two places. 
 - One is the dome 'park position' - which is set in the ASCOM dome driver setup dialog which also of course relates to a physical position of the dome, 
 - and the other is that an azimuth figure has to be set in the control box microcontroller software and this also equates to a position of the dome. (now saved in EEPROM & retrieved on ASCOM connection)
-So I think the solution is to position the scope due west and initialise it there, set park and park. Then physically align the dome aperture with the scope so the scope can 'see' out of the aperture. This is dome azimuth 255 degrees so this needs to be the value to which the shaft encoder is initialised in the control box software. See c
+So I think the solution is to position the scope due west and initialise it there, set park and park. Then physically align the dome aperture with the scope so the scope can 'see' out of the aperture. This is dome azimuth 255 degrees so this needs to be the value to which the shaft encoder is initialised in the control box software. See comment in para above about eeprom
 
 Does it matter if the software initialises to any other number? to be continued....
 
 To be continued - Novemebr 2025. I am still alive for the time being, although the mornings are getting much harder now and I do my best to hide it from everyone, but it's become a struggle. My brain still seems to work for the time being. So the to be continued thing - the only way to customise a different scope parking place currently  and know what dome azimuth that will be, is to use the ASCOM device hub to connect the INITIALISED scope and dome, sync the dome to the scope and move the scope  to the azimuth of the new scope park position. Note the dome azimuth in the monitoring software interface. Now in the Control Box code, change the code initialisation to the new azimuth position. Painful solution.
+
+In process January 2026 installation of a find home sensor. this will provide a true sync of the dome azimuth at 255 which with the current GEM offsets, aligns the dome and scope when the scope is horizontal pointing west CWD scope azimuth 270 - initialise the scope in this position
+
 
 See programming ideas for a Monitor program based alternative to hard coding the dome Azimuth.
 
