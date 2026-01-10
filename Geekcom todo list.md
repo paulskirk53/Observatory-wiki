@@ -20,9 +20,10 @@
 - [ ] NINA options Dome - set all the dome geometry as per lenovo
 - [x] NINA setup platesolve 3 & catalogs copy the catalogs from lenovo using nvme disk - tested with M51 from within NINA
 - [ ] NINA - set autofocus as per lenovo
-- [ ] NINA work out how to save a profile rather than just the default
+- [x] NINA work out how to save a profile rather than just the default
 - [x] store my template sequence from documents> nina on dev to same on geekom
 - [x] Microtouch focuser - check the driver is installed ascom driver installed on 1-1-26
 - [ ] #task Once configured, take the geekom up to the observatory and check everything connects. ➕ 2026-01-10
 - [x] OPTEC Pyxis check pyxis commander installed - yes
+- [ ] install cartes and config in NINA
 - [ ] 
