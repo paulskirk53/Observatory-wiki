@@ -21,6 +21,7 @@
 - [x] NINA setup platesolve 3 & catalogs copy the catalogs from lenovo using nvme disk - tested with M51 from within NINA
 - [ ] NINA - set autofocus as per lenovo
 - [ ] NINA work out how to save a profile rather than just the default
-- [ ] store my template sequence from documents> nina on dev to same on geekom
+- [x] store my template sequence from documents> nina on dev to same on geekom
+- [ ] Microtouch focuser - check the driver is installed
 - [ ] 
 - [ ] 
