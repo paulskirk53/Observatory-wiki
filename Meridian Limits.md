@@ -23,6 +23,7 @@ In the following description M denotes the meridian, LE denotes the Sitech Merid
 The purpose of the limits is to optimise telescope pointing for viewing/ tracking purposes, and to avoid pier collisions.
 ## Preamble
 
+Meridian limits are not described in ANY of the Sitech documentation, so everything really relies on empirical testing or statements from forums. 
 Taking into consideration the restrictions on movement of the mount due to constraints which a pier or tripod etc may impose, and being mindful of other constraints such as observatory obstruction to the optical axis of the telescope, the following describes the operation of **goto** commands in the context of the meridian limits set in Sitech config.
 In order to clarify 'looking East' & 'Looking West', Dan Gray posted in the Sitech forum "You can use the counterweight as an indicator.  If it's on the west side, you're 'looking west'."
 

@@ -7,6 +7,8 @@ Setup>Catalog > catalog add specify the hdr file associated with the catalog.
 in new install on geekom cdu c says menu update /install object catalog
 
 **to setup an OAG display:**
-Setup > display > finder rectangl (CCD) specify the chip size and a 11 arcmin offset
+Setup > display > finder rectangle (CCD) specify the chip size and a 11 arcmin offset
 
 With the C14 at **f/8**, the **actual guide field of view** through the Askar M54 OAG prism is approximately: 11.0 × 7.7 arcminutes. (AI)
+
+Note may need to install star chart up to mag 18, see how OAG goes in practice
