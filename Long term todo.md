@@ -6,6 +6,11 @@ link to short term [[Todo]]       [[Observatory Home]]
 
 
 List of items
-Board
+Board - leans up against pier on ground in obs???
 Fuse holder for supply to Victron
 Ditto for supply to devices
+incorporate the DPDT throw switch (on worktop)
+Incorporate the Wago connector holder (next to DPDT on worktop)
+Incorporate the 12v to 19v DC to DC converter (on worktop)
+
+
