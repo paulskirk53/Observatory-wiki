@@ -10,7 +10,7 @@ Nuc
   
 All with leads & plugs  
   
-
+New arrangement
 List of items
 Board - fixed to pier in obs???
 Fuse holder for supply to Victron
@@ -27,3 +27,4 @@ The 12v devices are:
 5. Sitech
 6. Computer Monitor??
 
+The 19 Volt device is the Geekom computer
