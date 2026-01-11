@@ -58,7 +58,7 @@ Thread into trius body is 42mm diameter
 
 Use with the 0.8x reducer:
 
-- The working distance to the chip is 97,5mm. (from TS optics)  Measured from where????? Face of the reducer I guess.
+- The working distance to the chip is 97,5mm. (from TS optics)  Measured from  Face of the reducer I guess.
 
 - The sequence of components is c14, 0.8x reducer, rotator, spacer, OAG, Trius 814C, so the working distance of 97.5mm is made up of:
 
