@@ -20,8 +20,10 @@ Incorporate the Wago connector holder (next to DPDT on worktop)
 Incorporate the 12v to 19v DC to DC converter (on worktop)
 
 The 12v devices are:
-- microtouch
-- Pyxis (switched by MOSFET)
-- USB hub
-- Computer Monitor??
-- SX camera
+1. microtouch 
+2. Pyxis Rotator (switched by MOSFET box) 
+3. SX camera (switched by MOSFET box) but check the o/p voltage of the box under load
+4. USB hub 
+5. Sitech
+6. Computer Monitor??
+
