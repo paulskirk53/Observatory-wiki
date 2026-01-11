@@ -1,7 +1,8 @@
 [[Observatory Home]]
 
+Purchased an Astro Frog OAG with larger pick off mirror to improve guide star availability.
 Nov 2nd 2025
-So new calculation of spacer length for Astro Frog OAG:
+New calculation of spacer length for Astro Frog OAG:
 
 TS Optics spec for distance from face of reducer to CCD plane= 97.5mm
 
@@ -10,9 +11,26 @@ TS Optics spec for distance from face of reducer to CCD plane= 97.5mm
 - Trius backfocus= 17
 Length of spacer = 97.5 - 20 - 25 -17 = 35.5
 
-check 35.5 + 20+25+17 = 97.5 
+check 35.5 + 20+25+17 = 97.5 (As specified by TS Optics)
 
-The joy temporarily was that because of the measurement mistake, the existing spacer is the correct length for the new Astro Frog. This does of course beg the question of how well the system was working with an incorrect length spacer - as the distance from the reducer to the CCD @ 97.5 is supposed to be critical....
-However, the ASI guide cam reaches focus when the mirror stem is fully into the light cone. If the stem is moved out, the camera moves out too, and needs to be moved back in which it can't do due to physical constraint, so the light path to the main camera will need to be lengthened with an M42 spacer, which of course uses up backfocus, so the main spacer will still need to be shortened by the length of whatever we need to add in to make the cameras parfocal. 
+**PAR Focus**
+This was obtained at the window at home, pointing at houses opposite, taking photos with the SX814C and the ASI guide cam. The helical focuser position for par focus is 6mm mark on the scale.
 
-Work out how much using the refractor setup at home.
+
+Looking at the ZWO OAG and lodestar camera in use on the C14, it is often difficult to get guide stars. The problem is the ZWO mirror is 8 x 8 mm but the lodestar chip is small, so only sees part of the ZWO OAG transmitted light field.
+
+I have modelled the fov of the setup in Cartes du Ciel (setup> display> finder rectangle) along with the FOV of the ASTROFROG OAG and the **ZWO ASI174MM Mini** camera. The latter is virtually twice the field size.
+
+With the C14 at **f/8**, the **actual guide field of view** through the  OAG prism is approximately: 11.0 × 7.7 arcminutes. (AI)
+
+That’s a noticeable improvement over the ZWO OAG’s ~8.8 × 6.2 arcminutes at f/11, and even more so compared to the Lodestar’s smaller sensor.
+
+
+**Specs**
+Astro Frog OAG is 19.5mm thickness,  cf ZWO OAG  16.5mm thickness
+The **ZWO ASI174MM Mini** uses the **Sony IMX174** sensor, and its physical chip size is 11.3 x 7.1 mm
+
+
+**Spacing**
+a set of spacer rings (M42 and M48) allows adjustment of spacing to accommodate the greater thickness of the Astro Frog. This was all completed and focus obtained during October 2025.
+
