@@ -41,7 +41,7 @@ All the best,
 Terry
 
 ## OAG - setup
-
+see here for the latest Astro Frog OAG [[Astro Frog OAG]] Jan 2026
  see [here](https://www.firstlightoptics.com/zwo-accessories/zwo-off-axis-guider-oag-v2.html#about_this_product) for manufacturer’s details, also to note that I set this up visually on 8th Jan ‘23 by pointing the C11 during daytime - horsebox image and the OAG is inserted just far enough so that the HB image can be seen- i.e. minimum insertion into the image cone. There is a new OAG [[Astro Frog OAG]] 
 
 ## Problem when installing
@@ -58,7 +58,7 @@ Thread into trius body is 42mm diameter
 
 Use with the 0.8x reducer:
 
-- The working distance to the chip is 97,5mm. (from TS optics)  Measured from  Face of the reducer I guess.
+- The working distance to the chip is 97,5mm. (from TS optics)  Measured from the Face of the reducer I guess.
 
 - The sequence of components is c14, 0.8x reducer, rotator, spacer, OAG, Trius 814C, so the working distance of 97.5mm is made up of:
 
@@ -66,7 +66,7 @@ Use with the 0.8x reducer:
 
 - Trius backfocus uses 17mm
 
-- ZWO OAG uses 16.5 mm (from flo web) checked with rule
+- ZWO OAG uses 16.5 mm (from flo web) checked with rule see here for updated measurements [[Astro Frog OAG]]
 
 ## Camera Spacer length calculation 
 See below for latest astro frog spacer calculation
@@ -94,8 +94,7 @@ Length of spacer = 97.5 - 20 - 25 -17 = 35.5
 
 check 35.5 + 20+25+17 = 97.5 
 
-The joy temporarily was that because of the measurement mistake, the existing spacer is the correct length for the new Astro Frog. This does of course beg the question of how well the system was working with an incorrect length spacer - as the distance from the reducer to the CCD @ 97.5 is supposed to be critical....
-However, the ASI guide cam reaches focus when the mirror stem is fully into the light cone. If the stem is moved out, the camera moves out too, and needs to be moved back in which it can't do due to physical constraint, so the light path to the main camera will need to be lengthened with an M42 spacer, which of course uses up backfocus, so the main spacer will still need to be shortened by the length of whatever we need to add in to make the cameras parfocal. Work out how much using the refractor setup at home.
+see here for spacer calcs [[Astro Frog OAG]]
 
 ## **archived:**
     
