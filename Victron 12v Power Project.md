@@ -10,8 +10,9 @@ Nuc
   
 All with leads & plugs  
   
-New arrangement
-List of items
+**New arrangement Jan 2026**
+**List of items**
+
 Board - fixed to pier in obs???
 Fuse holder for supply to Victron
 Ditto for supply to devices
@@ -25,6 +26,6 @@ The 12v devices are:
 3. SX camera (switched by MOSFET box) but check the o/p voltage of the box under load
 4. USB hub 
 5. Sitech
-6. Computer Monitor??
+6. Computer Monitor?? - may need an inverter for this
 
 The 19 Volt device is the Geekom computer
