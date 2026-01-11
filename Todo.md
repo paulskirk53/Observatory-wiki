@@ -7,6 +7,7 @@ Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
 - [ ] get the serial to usb converter from obs for trial of rotator at home - doesn't work without the cable idiot
 - [ ] 7-1-26 Take serial to TTL converter cable back to obs and connect to rotator cable
 - [ ] 7-1-26 Take control box back to observatory
+- [ ] take the shutter 12 V battery up and connect to controller and PV
 - [x] try the 12 to 19v converter for the Geekom before the ebay return period expires 
 	- [x] tested 7-1-26
 - [x] 21-12-25 Update the code on the observatory control box with the Master branch
