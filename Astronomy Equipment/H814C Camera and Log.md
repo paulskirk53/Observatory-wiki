@@ -26,7 +26,7 @@ Cables are difficult, as they rarely specify anything about the construction. Th
 
 ## USB Isolation
 
-This [article](https://www.analog.com/en/analog-dialogue/articles/digital-isolators-in-medical-and-industrial-apps.html) is good and there are many isolators based on the [ADUM4160](https://www.analog.com/media/en/technical-documentation/user-guides/EVAL-ADuM4160EBZ-UG-043.pdf) or 3160 (no difference apparently)
+This [article](https://www.analog.com/en/analog-dialogue/articles/digital-isolators-in-medical-and-industrial-apps.html) is good and there are many isolators based on the [ADUM4160](https://www.analog.com/media/en/technical-documentation/user-guides/EVAL-ADuM4160EBZ-UG-043.pdf) or 3160 (no difference apparently) I found USB isolation did not allow the camera to connect.
 
 ## Power
 
@@ -42,7 +42,7 @@ Terry
 
 ## OAG - setup
 
- see [here](https://www.firstlightoptics.com/zwo-accessories/zwo-off-axis-guider-oag-v2.html#about_this_product) for manufacturer’s details, also to note that I set this up visually on 8th Jan ‘23 by pointing the C11 during daytime - horsebox image and the OAG is inserted just far enough so that the HB image can be seen- i.e. minimum insertion into the image cone.
+ see [here](https://www.firstlightoptics.com/zwo-accessories/zwo-off-axis-guider-oag-v2.html#about_this_product) for manufacturer’s details, also to note that I set this up visually on 8th Jan ‘23 by pointing the C11 during daytime - horsebox image and the OAG is inserted just far enough so that the HB image can be seen- i.e. minimum insertion into the image cone. There is a new OAG [[Astro Frog OAG]] 
 
 ## Problem when installing
 
