@@ -6,7 +6,7 @@ link to short term [[Todo]]       [[Observatory Home]]
 
 
 List of items
-Board - leans up against pier on ground in obs???
+Board - fixed to pier in obs???
 Fuse holder for supply to Victron
 Ditto for supply to devices
 incorporate the DPDT throw switch (on worktop)
