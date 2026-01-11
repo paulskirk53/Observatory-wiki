@@ -11,14 +11,6 @@ The **ZWO ASI174MM Mini** uses the **Sony IMX174** sensor, and its physical chip
 
 # **Sensor (chip) size for ZWO ASI174MM Mini: 11.3 mm × 7.1 mm**
 
-This comes directly from multiple product listings:
-
-- Widescreen Centre lists the sensor as **11.3 × 7.1 mm**Widescreen Centre
-    
-- Astro.com.sg also confirms **11.3 mm × 7.1 mm**Astro Scientific
-
-
-
 
 **Specs**
 ASKAR M54 OAG is 19.5mm thickness
