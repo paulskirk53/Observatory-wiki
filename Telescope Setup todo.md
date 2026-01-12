@@ -24,4 +24,5 @@ associated:
 - [ ] Find out how to in NINA
 	- [ ] Take an image and plaresolve it
 	- [ ] Run autofocus
-- [ ] Make sure Obsidian is setup on lenovo so we can see this page
+- [ ] Make sure Obsidian is setup on lenovo so we can see this page ✅ 2026-01-12
+- [ ] #task 🔽 fffff📅

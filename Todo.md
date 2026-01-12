@@ -1,7 +1,7 @@
 
 # To-Do -Current, tick when complete
 link to [[Fault & Problem log]]
-Immediate todo below:            [[Long term todo]]     [[Observatory Home]]
+Immediate todo below:            [[Long term todo]]  [[Telescope Setup todo]]   [[Observatory Home]]
 
 - [ ] Make a bracket for the dome sync microswitch and add a rounded wooden actuator to the copper strip - or bolt on an orange pulley with centre bearing for smooth operation. Mark the position of two holes in the other end of copper strip to align with holes in dome periphery (under drive belt).
 - [ ] install the microswitch
