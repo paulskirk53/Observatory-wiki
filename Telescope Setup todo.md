@@ -22,8 +22,9 @@ for night of 13th Jan, the following
 associated:
 
 - [ ] Find out how to in NINA
-	- [ ] Take an image and platesolve it -> imaging -> imaging pane
-	- [ ] Run autofocus  -> imaging -> autofocus pane (bottom rh corner 3 tabs 'autofocus', 'plate solving',  'manual focus targets')
+	- [ ] ensure dome tracks scope
+	- [x] Take an image and plate solve / sync mount -> imaging -> imaging pane
+	- [x] Run autofocus  -> imaging -> autofocus pane (bottom rh corner 3 tabs 'autofocus', 'plate solving',  'manual focus targets')
 - [x] Make sure Obsidian is setup on lenovo so we can see this page ✅ 2026-01-12
-- [ ]  
+- [ ]  Make sure Obsidian is setup on geekom so we can see this page
 - [ ] 
