@@ -22,7 +22,7 @@ for night of 13th Jan, the following
 associated:
 
 - [ ] Find out how to in NINA
-	- [ ] ensure dome tracks scope
+	- [x] ensure dome tracks scope: equipment -> dome > tick synchronisation. Also options > equipment > dome tick options for dome/ scope slew / track
 	- [x] Take an image and plate solve / sync mount -> imaging -> imaging pane
 	- [x] Run autofocus  -> imaging -> autofocus pane (bottom rh corner 3 tabs 'autofocus', 'plate solving',  'manual focus targets')
 - [x] Make sure Obsidian is setup on lenovo so we can see this page ✅ 2026-01-12
