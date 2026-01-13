@@ -1,7 +1,7 @@
 [[Observatory Home]]
 
 for night of 13th Jan, the following
-
+- [ ] #task Take measurements for NINA GEM offset and length of RA Arm ➕ 2026-01-13
 - [ ] Attach Camera and cables
 - [ ] Attach rotator and cables - one at home 
 - [x] install control box
