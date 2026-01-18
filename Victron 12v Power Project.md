@@ -1,9 +1,10 @@
 [[Observatory Home]]
 
 
-Camera and rotator switched by my mosfet device.  
+switched by my mosfet device: 
+Camera and rotator   
   
-Wooden box feeds  
+Wooden box power feeds  
 usb hub  
 Sitech  
 Nuc  

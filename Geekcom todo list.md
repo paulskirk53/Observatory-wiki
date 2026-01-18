@@ -32,10 +32,5 @@
 
 ## 1️⃣ **GEM Axis Length**
 
-Distance from the **RA axis pivot** to the **DEC axis pivot**. This is the physical length of the RA axis housing.
+Distance from the **RA axis pivot** to the **Optical axis**. This is the physical length of the RA axis housing.
 
-## 2️⃣ **Lateral Axis Length**
-
-Distance from the **RA/DEC intersection** to the **optical axis** (sideways offset).
-
-This is the measurement you already know from SGP.

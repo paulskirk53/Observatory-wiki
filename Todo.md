@@ -1,7 +1,7 @@
 
 # To-Do -Current, tick when complete
 link to [[Fault & Problem log]]
-Immediate todo below:            [[Long term todo]]  [[Telescope Setup todo]]   [[Observatory Home]]
+Immediate todo below:            [[Long term todo]]  [[Telescope Setup todo]]   [[Observatory Home]]  [[Geekcom todo list]]
 
 - [ ] Upload the shutter code following corrections to handset control code.
 - [ ] Make a bracket for the dome sync microswitch and add a rounded wooden actuator to the copper strip.
