@@ -4,12 +4,12 @@ link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]  [[Telescope Setup todo]]   [[Observatory Home]]
 
 - [ ] Upload the shutter code following corrections to handset control code.
-- [ ] Make a bracket for the dome sync microswitch and add a rounded wooden actuator to the copper strip - or bolt on an orange pulley with centre bearing for smooth operation. Mark the position of two holes in the other end of copper strip to align with holes in dome periphery (under drive belt).
+- [ ] Make a bracket for the dome sync microswitch and add a rounded wooden actuator to the copper strip.
+- [ ] Mark the position of two holes in the other end of copper strip to align with holes in dome periphery (under drive belt).
 - [ ] install the microswitch
-- [ ] get the serial to usb converter from obs for trial of rotator at home - doesn't work without the cable idiot
-- [ ] 7-1-26 Take serial to TTL converter cable back to obs and connect to rotator cable
-- [ ] 7-1-26 Take control box back to observatory
-- [ ] take the shutter 12 V battery up and connect to controller and PV
+- [ ]  7-1-26 Take serial to TTL converter cable back to obs and connect to rotator cable
+- [x] 7-1-26 Take control box back to observatory
+- [x] take the shutter 12 V battery up and connect to controller and PV
 - [ ] Take computer  to check shutter open / close in NINA
 - [ ] New timber for cable hold on scope + tape
 - [ ] 
