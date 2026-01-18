@@ -3,6 +3,7 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]  [[Telescope Setup todo]]   [[Observatory Home]]
 
+- [ ] Upload the shutter code following corrections to handset control code.
 - [ ] Make a bracket for the dome sync microswitch and add a rounded wooden actuator to the copper strip - or bolt on an orange pulley with centre bearing for smooth operation. Mark the position of two holes in the other end of copper strip to align with holes in dome periphery (under drive belt).
 - [ ] install the microswitch
 - [ ] get the serial to usb converter from obs for trial of rotator at home - doesn't work without the cable idiot
