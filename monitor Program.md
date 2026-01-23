@@ -8,7 +8,9 @@ the data packet polled from the c# monitor program inside a timer tick is also t
 
 22-1-26 todo
 - change from ascom utilities serial to system.io.ports
-	- done a lot of this get and set park and home need attention now
+	- done a lot of this get and set park and home need attention now - done
+- Because we aim to move to event driven serial comms, each packet sent back by the MCU will need to be prefixed, so that it can be routed to a routine which carries out the actions associated with the response.
+	- note that all data terminators will meed to be the same, so change the da
 - strip the code out of timer tick and place in handleDataPacket(string msg) - this is the parsing stuff
 - create private void handleSlewStart() which sets the timer tick interval to 1500 mS
 - create private void handleSlewEnd() which sets the timer tick interval to 20000 mS
