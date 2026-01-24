@@ -7,6 +7,7 @@ in order to do this the MCU has to send "slew-start" and "slew-end" with dollar 
 the data packet polled from the c# monitor program inside a timer tick is also terminated with $
 
 22-1-26 todo
+- most of below point accomplished 24-1-26
 - change from ascom utilities serial to system.io.ports
 	- done a lot of this get and set park and home need attention now - done
 - Because we aim to move to event driven serial comms, each packet sent back by the MCU will need to be prefixed, so that it can be routed to a routine which carries out the actions associated with the response.
