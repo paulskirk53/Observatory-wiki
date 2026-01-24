@@ -8,6 +8,11 @@ the data packet polled from the c# monitor program inside a timer tick is also t
 
 22-1-26 todo
 - most of below point accomplished 24-1-26
+- Create a new branch in the control box code and write these in : 
+	- DP:, HOME:, PARK:, SLEW: SLEW: will be one of SLEW:slew-start# or SLEW:slew-end#
+	- ensure the DP (datapacket )is comma delimited and ends with # 
+	- remember on disconnect, set the serial handling back to blocking with control_box.DataReceived -= ControlBox_DataReceived;
+- 
 - change from ascom utilities serial to system.io.ports
 	- done a lot of this get and set park and home need attention now - done
 - Because we aim to move to event driven serial comms, each packet sent back by the MCU will need to be prefixed, so that it can be routed to a routine which carries out the actions associated with the response.
