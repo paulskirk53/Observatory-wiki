@@ -8,22 +8,22 @@ the data packet polled from the c# monitor program inside a timer tick is also t
 
 22-1-26 todo
 - most of below point accomplished 24-1-26
-- Create a new branch in the control box code and write these in : 
+- Create a new branch in the control box code and write these in : **done**
 	- DP:, HOME:, PARK:, SLEW: SLEW: will be one of SLEW:slew-start# or SLEW:slew-end#
 	- ensure the DP (datapacket ) is comma delimited and ends with # 
 	- remember on disconnect, set the serial handling back to blocking with control_box.DataReceived -= ControlBox_DataReceived; ensure spelling is correct though! - done
 - 
 - change from ascom utilities serial to system.io.ports
-	- done a lot of this get and set park and home need attention now - done
-- Because we aim to move to event driven serial comms, each packet sent back by the MCU will need to be prefixed, so that it can be routed to a routine which carries out the actions associated with the response.
+	- done a lot of this get and set park and home need attention now - **done**
+- Because we aim to move to event driven serial comms, each packet sent back by the MCU will need to be prefixed, so that it can be routed to a routine which carries out the actions associated with the response. - **done**
 	- note that blocking comms is best for MCU discovery, so leave checkformcu as is, and once the port is open, switch to event driven comms by:
-	- placing this line in the code, probably at the end of connect() : control_box.DataReceived += ControlBox_DataReceived;
+	- placing this line in the code, probably at the end of connect() : control_box.DataReceived += ControlBox_DataReceived; **done**
 	- there are only five routes : Get home, Get park, DataPacket, slew-start, slew-end (the latter two for setting the timer interval for polling datapackets)
-	- note that all data terminators will meed to be the same, so change the datapacket to comma delimited with a '#' as the packet terminator. This makes all terminators consistent. The parsing will need to change to accommodate , delimited instead of '#' delimited.
-- strip the code out of timer tick and place in handleDataPacket(string msg) - this is the parsing stuff
-- create private void handleSlewStart() which sets the timer tick interval to 1500 mS
-- create private void handleSlewEnd() which sets the timer tick interval to 20000 mS
--  create private void routeMessage(msg) as per line 62 of the minimal-event-driven-serial c# code
+	- note that all data terminators will meed to be the same, so change the datapacket to comma delimited with a '#' as the packet terminator. This makes all terminators consistent. The parsing will need to change to accommodate , delimited instead of '#' delimited. **done**
+- strip the code out of timer tick and place in handleDataPacket(string msg) - this is the parsing stuff **done**
+- create private void handleSlewStart() which sets the timer tick interval to 1500 mS **done**
+- create private void handleSlewEnd() which sets the timer tick interval to 20000 mS **done**
+-  create private void routeMessage(msg) as per line 62 of the minimal-event-driven-serial c# code **done**
 - 
 
 
