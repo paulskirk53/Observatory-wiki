@@ -1,12 +1,16 @@
 This is a C# program I wrote, it's on github [here](https://github.com/paulskirk53/Monitoring-Observatory-MCUs) I use Visual Studio as the IDE
 
 **Jan 2026 changes**
-In vs an event driven serial receiver has been created and trialled with an arduino mega. It works fine
-Idea is to reduce usb traffic by polling for data packets only once every 20 seconds when the mount is not moving
-in order to do this the MCU has to send "slew-start" and "slew-end" with dollar sign terminators which obsidian can't cope with
-the data packet polled from the c# monitor program inside a timer tick is also terminated with $
+The way the program receives serial data has been revamped into an event drive system. Changes were made in January 22-25 2026 and testing is completed on the simulator at home
+Field test required.
+The Idea is to reduce usb traffic by polling for data packets only once every 20 seconds when the mount is not moving.
+in order to do this the MCU has to send "slew-start" and "slew-end" with # sign terminators 
 
-22-1-26 todo
+
+
+
+**Below archived 25-1-26**
+**22-1-26 todo**
 - most of below point accomplished 24-1-26
 - Create a new branch in the control box code and write these in : **done**
 	- DP:, HOME:, PARK:, SLEW: SLEW: will be one of SLEW:slew-start# or SLEW:slew-end#
