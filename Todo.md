@@ -3,6 +3,8 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]  [[Telescope Setup todo]]   [[Observatory Home]]  [[Geekcom todo list]]
 
+- [ ] 26-1-26 Publish the monitor program changes to the Geekom
+- [ ] 26-1-26 Upload the controlBox code changes to the observatory controlbox
 - [ ] Upload the shutter code following corrections to handset control code.
 - [ ] Make a bracket for the dome sync microswitch and add a rounded wooden actuator to the copper strip.
 - [ ] Mark the position of two holes in the other end of copper strip to align with holes in dome periphery (under drive belt).
