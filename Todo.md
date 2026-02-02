@@ -3,7 +3,7 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]  [[Telescope Setup todo]]   [[Observatory Home]]  [[Geekcom todo list]]
 
-- [ ] 26-1-26 Publish the monitor program changes to the Geekom
+- [x] 26-1-26 Publish the monitor program changes to the Geekom
 - [ ] 26-1-26 Upload the controlBox code changes to the observatory controlbox
 - [ ] Upload the shutter code following corrections to handset control code.
 - [ ] Make a bracket for the dome sync microswitch and add a rounded wooden actuator to the copper strip.
@@ -13,7 +13,7 @@ Immediate todo below:            [[Long term todo]]  [[Telescope Setup todo]]   
 - [x] 7-1-26 Take control box back to observatory
 - [x] take the shutter 12 V battery up and connect to controller and PV
 - [ ] Take computer  to check shutter open / close in NINA
-- [ ] New timber for cable hold on scope + tape
+- [ ] New timber for cable hold on scope + tape - or the piece of thick wire
 - [ ] 
 - [x] try the 12 to 19v converter for the Geekom before the ebay return period expires 
 	- [x] tested 7-1-26
