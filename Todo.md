@@ -3,13 +3,13 @@
 link to [[Fault & Problem log]]
 Immediate todo below:            [[Long term todo]]  [[Telescope Setup todo]]   [[Observatory Home]]  [[Geekcom todo list]]
 
+- [ ] 4-2-26 Take control box and Pyxis ftdi to serial adapter cable back to observatory.
 - [x] 26-1-26 Publish the monitor program changes to the Geekom
 - [x] 26-1-26 Upload the controlBox code changes to the observatory controlbox (latest serial remodelling changes) done at home & tested with latest monitor program
 - [ ] Upload the shutter code following corrections to handset control code.
 - [ ] Make a bracket for the dome sync microswitch and add a rounded wooden actuator to the copper strip.
 - [ ] Mark the position of two holes in the other end of copper strip to align with holes in dome periphery (under drive belt).
 - [ ] install the microswitch
-- [ ]  7-1-26 Take serial to TTL converter cable back to obs and connect to rotator cable
 - [x] 7-1-26 Take control box back to observatory
 - [x] take the shutter 12 V battery up and connect to controller and PV
 - [ ] Take computer  to check shutter open / close in NINA
