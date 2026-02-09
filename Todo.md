@@ -1,6 +1,6 @@
 
 # To-Do -Current, tick when complete
-link to [[Fault & Problem log]]
+link to [[Fault & Problem log]]  
 Immediate todo below:            [[Long term todo]]  [[Telescope Setup todo]]   [[Observatory Home]]  [[Geekcom todo list]]
 
 - [ ] 4-2-26 Take control box and Pyxis ftdi to serial adapter cable back to observatory.
