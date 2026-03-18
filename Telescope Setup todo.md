@@ -3,6 +3,7 @@
 for night of 13th Jan, the following
 
 - [ ] Attach Camera and cables
+- [ ] turn off windows updates
 - [ ] Attach rotator and cables - one at home 
 - [x] install control box
 - [x] Install Battery for shutter and connect the PV and battery to the epever charge controller
