@@ -14,7 +14,7 @@ for night of 13th Jan, the following
 - [ ] Initialise Sitech at 270
 - [ ] remove scope cover
 - [ ] remove observatory clamps
-- [ ] Connect power to observatory drive battery
+- [ ] Connect power to observatory drive battery on floor
 - [ ] open shutter
 - [ ] ensure ASCOM is in shutter open state.
 - [ ] Turn off Computer Monitor
