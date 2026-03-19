@@ -3,7 +3,11 @@
 links to [[Fault & Problem log]]  and [[System Status Report]]
 Immediate todo below:            [[Long term todo]]  [[Telescope Setup todo]]   [[Observatory Home]]  [[Geekcom todo list]]
 
-- [ ] 4-2-26 Take control box and Pyxis ftdi to serial adapter cable back to observatory.
+- [ ] Install microtouch driver on geekom
+- [ ] repair encoder on mesu
+- [ ] make available one extra usb port for rotator
+- [ ] arrange the rotator cables run - at present it obstructs rotation.
+- [x] 4-2-26 Take control box and Pyxis ftdi to serial adapter cable back to observatory. done 19/3/26
 - [x] 26-1-26 Publish the monitor program changes to the Geekom
 - [x] 26-1-26 Upload the controlBox code changes to the observatory controlbox (latest serial remodelling changes) done at home & tested with latest monitor program
 - [ ] Upload the shutter code following corrections to handset control code.
