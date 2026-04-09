@@ -12,8 +12,12 @@ To Do for the mount
 	- [x] Stepper motor weight?
 - [x] Payload is 5kg but recommendation is 2.5kg for accurate tracking - we'll probably hit that.
 - [ ] Using Lenovo April '26'
-	- [x] Installed green swamp server (GSS) 
-	- [ ] Configured usb port COM38
+	- [x] Installed green swamp server (GSS) and configured Observation Latt & Long.
+	- [x] Configured usb port COM38
+	- [ ] Connected in NINA - pick mount name ASCOM GS Sky Telescope
+- [ ] Work out how to communicate with the mount from a computer indoors
+- [ ] Check the Canon camera driver connection in NINA
+- [ ] Ditto lodestar
 
 
 
