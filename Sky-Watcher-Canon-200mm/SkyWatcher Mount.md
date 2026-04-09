@@ -17,7 +17,10 @@ To Do for the mount
 	- [ ] Connected in NINA - pick mount name ASCOM GS Sky Telescope
 - [ ] Work out how to communicate with the mount from a computer indoors
 - [ ] Check the Canon camera driver connection in NINA
-- [ ] Ditto lodestar
+- [ ] Ditto lodestar - should be ok
+- [ ] arrange for power supply to mount & Canon camera
+- [ ] do we need long USB cables canon & Lodestar
+- [ ] do we need a computer outdoors?
 
 
 
