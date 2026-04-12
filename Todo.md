@@ -4,6 +4,7 @@ links to [[Fault & Problem log]]  and [[System Status Report]]
 Immediate todo below:            [[Long term todo]]  [[Telescope Setup todo]]   [[Observatory Home]]  [[Geekcom todo list]]
 
 - [x] Install microtouch driver on geekom
+- [ ] config sitech>config>misc to auto open skyview
 - [ ] repair encoder on mesu
 - [ ] make available one extra usb port for rotator
 - [ ] arrange the rotator cables run - at present it obstructs rotation.
