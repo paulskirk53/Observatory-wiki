@@ -3,11 +3,11 @@
 # NINA Driver for Canon
 April 2026, a trial connection of canon 1000D provided the following information:
 In NINA, there is native support for the canon 1000d. To access the camera in NINA and for it to appear in the NINA camera dropdown, it must be powered on and connected via USB.  
-todo test on lenovo
+Tested on dev and lenovo
 
 
 Astromechanics focuser for the Canon 200mm lens:
-Dale Ghent's driver info [here](https://daleghent.com/astromechanics-aperture-control) and is installed on the dev m/c and lenovo, tested April 2026 on dev, todo - test on lenovo
+Dale Ghent's driver info [here](https://daleghent.com/astromechanics-aperture-control) and is installed on the dev m/c and lenovo, tested April 2026 on dev, and lenovo with confirmed lens focus movements (hear the lens).
 
 
 
