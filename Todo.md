@@ -4,6 +4,10 @@ links to [[Fault & Problem log]]  and [[System Status Report]]
 Immediate todo below:            [[Long term todo]]  [[Telescope Setup todo]]   [[Observatory Home]]  [[Geekcom todo list]]
 
 - [x] Install microtouch driver on geekom
+- [ ] make & install wedge Wedge  
+	- [ ] From nothing to 11 mm to nothing  
+	- [ ] Width 25 mm approx  
+	- [ ] Hole in centre for bolt
 - [ ] config sitech>config>misc to auto open skyview
 - [ ] repair encoder on mesu
 - [ ] make available one extra usb port for rotator
