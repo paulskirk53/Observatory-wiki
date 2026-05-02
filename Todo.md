@@ -4,6 +4,7 @@ links to [[Fault & Problem log]]  and [[System Status Report]]
 Immediate todo below:            [[Long term todo]]  [[Telescope Setup todo]]   [[Observatory Home]]  [[Geekcom todo list]]
 
 - [x] Install microtouch driver on geekom
+- [ ] install the ferrite core on the H814C cable
 - [ ] make & install wedge Wedge  
 	- [ ] From nothing to 11 mm to nothing  
 	- [ ] Width 25 mm approx  
