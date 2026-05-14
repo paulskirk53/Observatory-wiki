@@ -10,7 +10,8 @@ Immediate todo below:            [[Long term todo]]  [[Telescope Setup todo]]   
 	- [ ] Width 25 mm approx  
 	- [ ] Hole in centre for bolt
 - [ ] config sitech>config>misc to auto open skyview
-- [ ] repair encoder on mesu
+- [ ] config servoconfig  to multiply the current ticks by 4 for the new encoder (40,000 ticks rather than the faulty one which was 10,000 ticks)
+- [ ] make the electrical connections - encoder on mesu
 - [ ] make available one extra usb port for rotator
 - [ ] arrange the rotator cables run - at present it obstructs rotation. - install plastic for cable hold on scope + tape
 - [ ] upload new shutter code to obs. shutter mcu following corrections to handset control code.
