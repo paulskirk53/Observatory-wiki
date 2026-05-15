@@ -5,10 +5,10 @@ Immediate todo below:            [[Long term todo]]  [[Telescope Setup todo]]   
 
 - [x] Install microtouch driver on geekom
 - [ ] install the ferrite core on the H814C cable
-- [ ] make & install wedge Wedge  
-	- [ ] From nothing to 11 mm to nothing  
-	- [ ] Width 25 mm approx  
-	- [ ] Hole in centre for bolt
+- [x] make & install wedge Wedge  
+	- [x] From nothing to 11 mm to nothing  
+	- [x] Width 25 mm approx  
+	- [x] Hole in centre for bolt
 - [ ] config sitech>config>misc to auto open skyview
 - [ ] config servoconfig  to multiply the current ticks by 4 for the new encoder (40,000 ticks rather than the faulty one which was 10,000 ticks)
 - [ ] make the electrical connections - encoder on mesu
