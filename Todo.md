@@ -4,17 +4,20 @@ links to [[Fault & Problem log]]  and [[System Status Report]]
 Immediate todo below:            [[Long term todo]]  [[Telescope Setup todo]]   [[Observatory Home]]  [[Geekcom todo list]]
 
 - [x] Install microtouch driver on geekom
-- [ ] install the ferrite core on the H814C cable
-- [x] make & install wedge Wedge  
+- [x] rotate dome using ascom device hub 360 in both directions to check ticks per dome rev is accurate - done 28th May 2026
+- [x] install the ferrite core on the H814C cable done
+- [ ] make & install wedge Wedge  
 	- [x] From nothing to 11 mm to nothing  
 	- [x] Width 25 mm approx  
 	- [x] Hole in centre for bolt
-- [ ] config sitech>config>misc to auto open skyview
-- [ ] config servoconfig  to multiply the current ticks by 4 for the new encoder (40,000 ticks rather than the faulty one which was 10,000 ticks)
-- [ ] make the electrical connections - encoder on mesu
+	- [x] make it
+	- [ ] install
+- [x] config sitech>config>misc to auto open skyview
+- [x] config servoconfig  to multiply the current ticks by 4 for the new encoder (40,000 ticks rather than the faulty one which was 10,000 ticks)
+- [x] make the electrical connections - encoder on mesu
 - [ ] make available one extra usb port for rotator
-- [ ] arrange the rotator cables run - at present it obstructs rotation. - install plastic for cable hold on scope + tape
-- [ ] upload new shutter code to obs. shutter mcu following corrections to handset control code.
+- [x] arrange the rotator cables run - at present it obstructs rotation. - install plastic for cable hold on scope + tape
+- [x] upload new shutter code to obs. shutter mcu following corrections to handset control code. done on 28th May 2026 not tested
 - [x] 4-2-26 Take control box and Pyxis ftdi to serial adapter cable back to observatory. done 19/3/26
 - [x] 26-1-26 Publish the monitor program changes to the Geekom
 - [x] 26-1-26 Upload the controlBox code changes to the observatory controlbox (latest serial remodelling changes) done at home & tested with latest monitor program
