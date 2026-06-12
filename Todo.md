@@ -3,6 +3,7 @@
 links to [[Fault & Problem log]]  and [[System Status Report]]
 Immediate todo below:            [[Long term todo]]  [[Telescope Setup todo]]   [[Observatory Home]]  [[Geekcom todo list]]
 
+- [ ] Charge the dome drive battery from the inverter - take up small charger
 - [x] Install microtouch driver on geekom
 - [x] rotate dome using ascom device hub 360 in both directions to check ticks per dome rev is accurate - done 28th May 2026
 - [x] install the ferrite core on the H814C cable done
