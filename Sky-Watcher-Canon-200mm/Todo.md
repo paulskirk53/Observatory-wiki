@@ -3,3 +3,5 @@ Check the NINA autofocus plugin as using the move fous buttons does not change t
 
 - learn how the advanced sequencer works  
 - learn how guider settling works after dither
+- check GSS for the sync limits - Open GSS's Settings and temporarily untick Sync Limits
+- 
